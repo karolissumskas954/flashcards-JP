@@ -119,7 +119,7 @@ const Sets = () => {
             </span>
           </Button>
         </div>
-        <div className="flex  w-full justify-center relative mb-5 z-10"
+        {/* <div className="flex  w-full justify-center relative mb-5 z-10"
           style={{
             transition: 'transform 0.5s ease-in-out',
             transform: !show ? 'translateY(0%)' : 'translateY(100%)', // Adjust -100% as needed
@@ -131,7 +131,7 @@ const Sets = () => {
               Radicals
             </span>
           </Button>
-        </div>
+        </div> */}
 
 
         {/* <div className="flex  w-full justify-center relative mb-5"

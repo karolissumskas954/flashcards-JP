@@ -87,83 +87,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '研究者 ',
-    meaning: 'researcher​',
-    type: 'Noun',
-    kun: ' けんきゅうしゃ ',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: '辞書',
-    meaning: 'dictionary',
-    type: 'Noun',
-    kun: ' じしょ ',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: '悪い',
-    meaning: 'Bad',
-    type: '',
-    kun: 'わるい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'だれ',
-    meaning: 'who?',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: 'どうぞ',
-    meaning: 'Here you are. (Used when offering something)',
-    type: 'Noun',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: 'どちら',
-    meaning: 'Which way, where／Which on of two things',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どちらも',
-    meaning: 'Both',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: 'どうも',
-    meaning: 'thanks',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'はがき',
-    meaning: 'Postcard',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: 'だいたい',
     meaning: 'Mostly, roughly',
@@ -172,73 +96,11 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '階段',
-    meaning: 'staircase',
-    type: 'Noun',
-    kun: ' かいだん ',
-    sentance: '',
-    translation: ''
-  },
+
   
-  {
-    char: '大変',
-    meaning: 'Hard, tough, severe, awful',
-    type: 'Noun',
-    kun: 'たいへん',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: '間',
-    meaning: 'Between, among​',
-    type: 'Noun',
-    kun: 'あいだ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'や「など」',
-    meaning: '～、～、And so on',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '～が、～',
-    meaning: '～、But ～',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: '広い',
-    meaning: 'Wide, spacious',
-    type: 'Noun',
-    kun: 'ひろい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '遠い',
-    meaning: 'Far',
-    type: 'Noun',
-    kun: 'とおい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '遅い',
-    meaning: 'Slow, late',
-    type: 'Noun',
-    kun: 'おそい',
-    sentance: '',
-    translation: ''
-  },
+
+
+
  
   {
     char: '狭い',
@@ -248,122 +110,10 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '誕生日',
-    meaning: 'birthday',
-    type: 'Noun',
-    kun: 'たんじょうび',
-    sentance: '',
-    translation: ''
-  },
-  
-  {
-    char: 'あげる',
-    meaning: 'to give',
-    type: 'Ichidan verb',
-    kun: 'あげる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'もらう',
-    meaning: 'to receive',
-    type: 'Godan verb',
-    kun: 'もらう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '送る',
-    meaning: 'to send',
-    type: 'Godan verb',
-    kun: 'おくる',
-    sentance: '',
-    translation: ''
-  },
  
-  {
-    char: '隣',
-    meaning: 'Next, next door',
-    type: '',
-    kun: 'となり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'そちら',
-    meaning: 'your place',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
  
-  {
-    char: '貸す',
-    meaning: 'to lend',
-    type: 'Godan verb',
-    kun: 'かす',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '教える',
-    meaning: 'to teach',
-    type: 'Ichidan verb',
-    kun: 'おしえる',
-    sentance: '',
-    translation: ''
-  },
- 
-  {
-    char: '借りる',
-    meaning: 'to borrow',
-    type: 'Ichidan verb',
-    kun: 'かりる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'かけます',
-    meaning: 'To make',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '習う',
-    meaning: 'to learn',
-    type: 'Godan verb',
-    kun: 'ならう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どこ',
-    meaning: 'where',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どこか',
-    meaning: 'Somewhere, some place',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'いくつ',
-    meaning: 'How many',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
+
+
  
   {
     char: 'とても',
@@ -381,14 +131,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: 'あまり',
-    meaning: 'not much​',
-    type: '',
-    kun: 'あまり',
-    sentance: '',
-    translation: ''
-  },  
+ 
  
   {
     char: '細かい',
@@ -398,264 +141,12 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: 'どうして',
-    meaning: 'why',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どう',
-    meaning: 'How',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '～ごろ',
-    meaning: 'About～(time)',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '用事',
-    meaning: 'tasks; things to do',
-    type: 'Noun',
-    kun: ' ようじ ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '残念',
-    meaning: 'regrettable',
-    type: 'Na-adjective',
-    kun: ' ざんねん ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '約束',
-    meaning: 'promise',
-    type: 'Noun',
-    kun: ' やくそく ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '今度',
-    meaning: 'next time',
-    type: 'Noun, Adverb',
-    kun: ' こんど ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '低い',
-    meaning: 'Low',
-    type: 'Noun, Adverb',
-    kun: ' ひくい ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '一人で',
-    meaning: 'alone; by oneself',
-    type: 'Expression',
-    kun: 'ひとりで',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '旅行',
-    meaning: 'travel; trip',
-    type: 'Noun',
-    kun: ' りょこう ',
-    sentance: '',
-    translation: ''
-  },
- 
-  {
-    char: '夏',
-    meaning: 'summer',
-    type: 'Noun',
-    kun: 'なつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '季節',
-    meaning: 'Season',
-    type: 'Noun',
-    kun: 'きせつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '春',
-    meaning: 'Spring',
-    type: 'Noun',
-    kun: 'はる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '秋',
-    meaning: 'Autumn, fall',
-    type: 'Noun',
-    kun: 'あき',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '冬',
-    meaning: 'Winter',
-    type: 'Noun',
-    kun: 'ふゆ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '雪',
-    meaning: 'Snow',
-    type: 'Noun',
-    kun: 'ゆき',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'ずっと',
-    meaning: 'By far',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
   
-  {
-    char: '散歩する',
-    meaning: 'Take a walk',
-    type: 'Noun',
-    kun: 'さんぽする',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '涼しい',
-    meaning: 'cool; refreshing​',
-    type: 'I-adjective',
-    kun: 'すずしい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '暖／温かい',
-    meaning: 'warm; mild',
-    type: 'I-adjective',
-    kun: 'あたたかい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '多い',
-    meaning: 'many; a lot​',
-    type: 'I-adjective',
-    kun: 'おおい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '棚',
-    meaning: 'Shelf​',
-    type: 'I-adjective',
-    kun: 'たな',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '簡単',
-    meaning: 'simple; easy',
-    type: 'Na-adjective',
-    kun: ' かんたん ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '曇り',
-    meaning: 'cloudiness; cloudy weather',
-    type: 'Noun',
-    kun: 'くもり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '辛い',
-    meaning: 'spicy; hot​',
-    type: 'I-adjective',
-    kun: 'からい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '重い',
-    meaning: 'heavy; weighty',
-    type: 'I-adjective',
-    kun: 'おもい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '甘い',
-    meaning: 'sweet-tasting; sweet',
-    type: 'I-adjective',
-    kun: 'あまい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '窓',
-    meaning: 'Window',
-    type: 'I-adjective',
-    kun: 'まど',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '失礼',
-    meaning: 'rude',
-    type: 'Noun',
-    kun: 'しつれい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '欲しい',
-    meaning: 'wanting (to have)',
-    type: 'I-adjective',
-    kun: 'ほしい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '少々',
-    meaning: 'just a minute',
-    type: 'Adverb',
-    kun: ' しょうしょう ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '別々',
-    meaning: 'separate',
-    type: 'Noun',
-    kun: ' べつべつ ',
-    sentance: '',
-    translation: ''
-  },
+
+
+
+
+
   {
     char: '軽い',
     meaning: 'light (not heavy)',
@@ -664,326 +155,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '両親',
-    meaning: 'parents',
-    type: 'Noun',
-    kun: 'りょうしん',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '荷物',
-    meaning: 'luggage',
-    type: 'Noun',
-    kun: 'にもつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '迎える',
-    meaning: 'Go to meet, welcome, greeting',
-    type: 'Noun',
-    kun: 'むかえる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '泳ぐ',
-    meaning: 'swim​',
-    type: 'Noun',
-    kun: 'およぐ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '遊ぶ',
-    meaning: 'Enjoy oneself, play',
-    type: 'Noun',
-    kun: 'あそぶ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '豚肉',
-    meaning: 'Pork',
-    type: 'Noun',
-    kun: 'ぶたにく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'とり肉',
-    meaning: 'Chicken',
-    type: 'Noun',
-    kun: 'とりにく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '牛肉',
-    meaning: 'Beef',
-    type: 'Noun',
-    kun: 'ぎゅうにく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '釣り',
-    meaning: 'fishing',
-    type: 'Noun',
-    kun: 'つり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '１つ',
-    meaning: '１',
-    type: '',
-    kun: 'ひとつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '２つ',
-    meaning: '２',
-    type: '',
-    kun: 'ふたつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '３つ',
-    meaning: '３',
-    type: '',
-    kun: 'みっつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '４つ',
-    meaning: '４',
-    type: '',
-    kun: 'よっつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '５つ',
-    meaning: '５',
-    type: '',
-    kun: 'いつつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '６つ',
-    meaning: '６',
-    type: '',
-    kun: 'むっつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '７つ',
-    meaning: '７',
-    type: '',
-    kun: 'ななつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '８つ',
-    meaning: '８',
-    type: '',
-    kun: 'やっつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '９つ',
-    meaning: '９',
-    type: '',
-    kun: 'ここのつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '１０つ',
-    meaning: '１０',
-    type: '',
-    kun: 'とお',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '１人',
-    meaning: '１Person',
-    type: '',
-    kun: 'ひとり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '２人',
-    meaning: '２Poeple',
-    type: '',
-    kun: 'ふたり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '点ける',
-    meaning: 'Turn on',
-    type: '',
-    kun: 'つける',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '消す',
-    meaning: 'Turn off',
-    type: '',
-    kun: 'けす',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '開ける',
-    meaning: 'Open',
-    type: '',
-    kun: 'あける',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '閉める',
-    meaning: 'Close, shut',
-    type: '',
-    kun: 'しめる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '急ぐ',
-    meaning: 'Hurry',
-    type: '',
-    kun: 'いそぐ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '待つ',
-    meaning: 'Wait',
-    type: '',
-    kun: 'まつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '持つ',
-    meaning: 'Hold',
-    type: '',
-    kun: 'もつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '取る',
-    meaning: 'Take, pass',
-    type: '',
-    kun: 'とる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '手伝う',
-    meaning: 'Help （With task）',
-    type: '',
-    kun: 'てつだう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '呼ぶ',
-    meaning: 'Call',
-    type: '',
-    kun: 'よぶ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '話す',
-    meaning: 'Speak, talk',
-    type: '',
-    kun: 'はなす',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '使う',
-    meaning: 'Use',
-    type: '',
-    kun: 'つかう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '止める',
-    meaning: 'Stop, park',
-    type: '',
-    kun: 'とめる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '見せる',
-    meaning: 'Show',
-    type: '',
-    kun: 'みせる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '座る',
-    meaning: 'Sit down',
-    type: '',
-    kun: 'すわる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '立つ',
-    meaning: 'Stand up',
-    type: '',
-    kun: 'たつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '入る',
-    meaning: 'Enter',
-    type: '',
-    kun: 'はいる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '降る',
-    meaning: 'Rain',
-    type: '',
-    kun: 'ふる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '名前',
-    meaning: 'Name',
-    type: '',
-    kun: 'なまえ',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: '住所',
     meaning: 'Address',
@@ -992,174 +164,9 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '地図',
-    meaning: 'Map',
-    type: '',
-    kun: 'ちず',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '塩',
-    meaning: 'Salt',
-    type: '',
-    kun: 'しお',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '砂糖',
-    meaning: 'Sugar',
-    type: '',
-    kun: 'さとう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '問題',
-    meaning: 'Question, problem, trouble',
-    type: '',
-    kun: 'もんだい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '答え',
-    meaning: 'Answer',
-    type: '',
-    kun: 'こたえ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '～方',
-    meaning: 'How to ～、Way of ~',
-    type: '',
-    kun: '～かた',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'まっすぐ',
-    meaning: 'Straight',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'ゆっくり',
-    meaning: 'Slowly',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'すぐ',
-    meaning: 'Immediately',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'また',
-    meaning: 'Again',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'あとで',
-    meaning: 'Later',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'もう少し',
-    meaning: 'A little more',
-    type: '',
-    kun: 'もうすこし',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'もう～',
-    meaning: '～More、Another ～',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'いかがですか',
-    meaning: "Won't you have? Would you like to have?",
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '置く',
-    meaning: 'Put',
-    type: '',
-    kun: 'おく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '作る、造る',
-    meaning: 'Make, Produce',
-    type: '',
-    kun: 'つくる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '売る',
-    meaning: 'Sell',
-    type: '',
-    kun: 'うる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '知る',
-    meaning: 'Get to know',
-    type: '',
-    kun: 'しる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '住む',
-    meaning: 'Be Living',
-    type: '',
-    kun: 'すむ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '研究する',
-    meaning: 'Do research',
-    type: '',
-    kun: 'けんきゅうする',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '資料',
-    meaning: 'Materials, data',
-    type: '',
-    kun: 'しりょう',
-    sentance: '',
-    translation: ''
-  },
+
+
+ 
   {
     char: '時刻表',
     meaning: 'Timetable',
@@ -1168,174 +175,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '服',
-    meaning: 'Clothes',
-    type: '',
-    kun: 'ふく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '製品',
-    meaning: 'Products',
-    type: '',
-    kun: 'せいひん',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '経済',
-    meaning: 'Economy',
-    type: '',
-    kun: 'けいざい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '市役所',
-    meaning: 'City Hall',
-    type: '',
-    kun: 'しやくしょ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '高校',
-    meaning: 'Senior high school',
-    type: '',
-    kun: 'こうこう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '歯医者',
-    meaning: 'Dentist',
-    type: '',
-    kun: 'はいしゃ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '独身',
-    meaning: 'Single',
-    type: '',
-    kun: 'どくしん',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '～知っていますか',
-    meaning: 'Do you know？',
-    type: '',
-    kun: 'しっていますか',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'しりません',
-    meaning: "I don't know",
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '乗る',
-    meaning: 'Ride, get on [train]',
-    type: '',
-    kun: 'のる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '降りる',
-    meaning: 'Get off [train]',
-    type: '',
-    kun: 'おりる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '乗り換える',
-    meaning: 'change [train]',
-    type: '',
-    kun: 'のりかえる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '浴びる',
-    meaning: 'Take [shower]',
-    type: '',
-    kun: 'あぼり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '入れる',
-    meaning: 'Put in, insert',
-    type: '',
-    kun: 'いれる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '出ます',
-    meaning: 'Take out, hand in',
-    type: '',
-    kun: 'でます',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '押す',
-    meaning: 'Push, press',
-    type: '',
-    kun: 'おす',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '始める',
-    meaning: 'Start, begin',
-    type: '',
-    kun: 'はじめる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '見学する',
-    meaning: 'Tour, visit a place to study in',
-    type: '',
-    kun: 'けんがくする',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '電話する',
-    meaning: 'Phone',
-    type: '',
-    kun: 'でんわする',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '若い',
-    meaning: 'Young',
-    type: '',
-    kun: 'わかい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '長い',
-    meaning: 'Long',
-    type: '',
-    kun: 'ながい',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: '短い',
     meaning: 'Short',
@@ -1360,14 +200,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '体',
-    meaning: 'Body, Health',
-    type: '',
-    kun: 'からだ',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: '頭',
     meaning: 'Head, brain',
@@ -1376,14 +209,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '髪',
-    meaning: 'Hair',
-    type: '',
-    kun: 'かみ',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: '顔',
     meaning: 'Face',
@@ -1392,134 +218,11 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '目',
-    meaning: 'Eye',
-    type: '',
-    kun: 'め',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '耳',
-    meaning: 'Ear',
-    type: '',
-    kun: 'みみ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '鼻',
-    meaning: 'Nose',
-    type: '',
-    kun: 'はな',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '口',
-    meaning: 'Mouth',
-    type: '',
-    kun: 'くち',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '歯',
-    meaning: 'Tooth',
-    type: '',
-    kun: 'は',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'おなか',
-    meaning: 'Stomach',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '足',
-    meaning: 'Foot',
-    type: '',
-    kun: 'あし',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '背',
-    meaning: 'Height',
-    type: '',
-    kun: 'せ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '緑',
-    meaning: 'Green',
-    type: '',
-    kun: 'みどり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どうやって',
-    meaning: 'In what way, how',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どの～',
-    meaning: 'Which～（Used for three or more）',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'どれ',
-    meaning: 'Which one（Of three or more things）',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '覚える',
-    meaning: 'Memorise',
-    type: '',
-    kun: 'おぼえる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '忘れる',
-    meaning: 'Forget',
-    type: '',
-    kun: 'わすれる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '無くす',
-    meaning: 'Lose (something)',
-    type: '',
-    kun: 'なくす',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '払う',
-    meaning: 'Pay',
-    type: '',
-    kun: 'はらう',
-    sentance: '',
-    translation: ''
-  },
+
+
+
+
+ 
   {
     char: '返す',
     meaning: 'Give back, return',
@@ -1528,54 +231,9 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '出かける',
-    meaning: 'Go out',
-    type: '',
-    kun: 'でかける',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '脱ぐ',
-    meaning: 'Take off (Clothes, shoes)',
-    type: '',
-    kun: 'ぬぐ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '持って行く',
-    meaning: 'Take (something)',
-    type: '',
-    kun: 'もっていく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '持って来る',
-    meaning: 'Bring (something)',
-    type: '',
-    kun: 'もってくる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '心配する',
-    meaning: 'Worry',
-    type: '',
-    kun: 'しんぱする',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '残業する',
-    meaning: 'Work overtime',
-    type: '',
-    kun: 'ざんぎょうする',
-    sentance: '',
-    translation: ''
-  },
+
+
+
   {
     char: '出張する',
     meaning: 'Go on business trip',
@@ -1584,38 +242,10 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '大切',
-    meaning: 'Important, precious',
-    type: '',
-    kun: 'たいせつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '大丈夫',
-    meaning: 'All right',
-    type: '',
-    kun: 'だいじょうぶ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '危ない',
-    meaning: 'Dangerous',
-    type: '',
-    kun: 'あぶない',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '禁煙',
-    meaning: 'No smoking',
-    type: '',
-    kun: 'きんえん',
-    sentance: '',
-    translation: ''
-  },
+
+
+
+
   {
     char: '健康保険証',
     meaning: '「Health」Insurance card',
@@ -1624,118 +254,12 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '熱',
-    meaning: 'Temperature, fever',
-    type: '',
-    kun: 'ねつ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '病気',
-    meaning: 'Ilness, disease',
-    type: '',
-    kun: 'びょうき',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'おふろ',
-    meaning: 'Bath',
-    type: '',
-    kun: 'おふろ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '上着',
-    meaning: 'Jacket, outerwear',
-    type: '',
-    kun: 'うわぎ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '下着',
-    meaning: 'Underwear',
-    type: '',
-    kun: 'したぎ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '薬',
-    meaning: 'Medicine',
-    type: '',
-    kun: 'くすり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '～までに',
-    meaning: 'Before～,by～(Indicates time limit)',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'ですから',
-    meaning: 'Therefore, so',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'できます',
-    meaning: 'Be able to, can',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '洗う',
-    meaning: 'Wash',
-    type: '',
-    kun: 'あらう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '弾く',
-    meaning: 'Play(Instrument)',
-    type: '',
-    kun: 'ひく',
-    sentance: '',
-    translation: ''
-  },  
-  {
-    char: '歌う',
-    meaning: 'Sing',
-    type: '',
-    kun: 'うたう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '集める',
-    meaning: 'Collect, gather',
-    type: '',
-    kun: 'あつめる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '捨てる',
-    meaning: 'Throw away',
-    type: '',
-    kun: 'すてる',
-    sentance: '',
-    translation: ''
-  },
+
+
+
+
+
+
   {
     char: '換える',
     meaning: 'Exchange, change',
@@ -1752,70 +276,12 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '予約する',
-    meaning: 'Reserve, book',
-    type: '',
-    kun: 'よやくする',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '現金',
-    meaning: 'Cash',
-    type: '',
-    kun: 'げんきん',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '趣味',
-    meaning: 'Hobby',
-    type: '',
-    kun: 'しゅみ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '日記',
-    meaning: 'Diary',
-    type: '',
-    kun: 'にっき',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'お祈り',
-    meaning: 'Prayer',
-    type: '',
-    kun: 'おいのり',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '課長',
-    meaning: 'Section head',
-    type: '',
-    kun: 'かちょう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '部長',
-    meaning: 'Department head',
-    type: '',
-    kun: 'ぶちょう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '社長',
-    meaning: 'Company President',
-    type: '',
-    kun: 'しゃちょう',
-    sentance: '',
-    translation: ''
-  },
+
+
+
+
+
+
   {
     char: '動物',
     meaning: 'Animal',
@@ -1824,102 +290,10 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '馬',
-    meaning: 'Horse',
-    type: '',
-    kun: 'うま',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '特に',
-    meaning: 'Especially',
-    type: '',
-    kun: 'とくに',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'ぜび',
-    meaning: 'Expression of hope',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '飛ぶ',
-    meaning: 'Fly',
-    type: '',
-    kun: 'とぶ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '跳ぶ',
-    meaning: 'Jump',
-    type: '',
-    kun: 'とぶ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '登る',
-    meaning: 'Climb',
-    type: '',
-    kun: 'のぼる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '走る',
-    meaning: 'Run',
-    type: '',
-    kun: 'はしる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '潜る',
-    meaning: 'Dive',
-    type: '',
-    kun: 'もぐる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '這う',
-    meaning: 'Crawl',
-    type: '',
-    kun: 'はう',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'ける',
-    meaning: 'Kick',
-    type: '',
-    kun: 'ける',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '振る',
-    meaning: 'Wave',
-    type: '',
-    kun: 'ふる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '持ち上げる',
-    meaning: 'Lift',
-    type: '',
-    kun: 'もちあげる',
-    sentance: '',
-    translation: ''
-  },
+
+
+
+
   {
     char: '投げる',
     meaning: 'Throw',
@@ -1928,54 +302,8 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '引く',
-    meaning: 'Pull',
-    type: '',
-    kun: 'ひく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '曲げる',
-    meaning: 'Bend',
-    type: '',
-    kun: 'まげる',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '伸ばす',
-    meaning: 'Extend',
-    type: '',
-    kun: 'のばす',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '転ぶ',
-    meaning: 'Fall down',
-    type: '',
-    kun: 'ころぶ',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '振り向く’',
-    meaning: 'Look back',
-    type: '',
-    kun: 'ふりむく',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '泊まる',
-    meaning: 'To stay at (Hotel)',
-    type: '',
-    kun: 'とまる',
-    sentance: '',
-    translation: ''
-  },
+
+
   {
     char: '掃除する',
     meaning: 'Clean (a room)',
@@ -2000,39 +328,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '眠い',
-    meaning: 'Sleepy',
-    type: '',
-    kun: 'ねむい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '強い',
-    meaning: 'Strong',
-    type: '',
-    kun: 'つよい',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: '弱い',
-    meaning: 'Weak',
-    type: '',
-    kun: 'よわい',
-    sentance: '',
-    translation: ''
-  },
 
-  {
-    char: '練習',
-    meaning: 'Practice',
-    type: '',
-    kun: 'れんしゅう',
-    sentance: '',
-    translation: ''
-  },
   {
     char: '調子',
     meaning: 'Condition',
@@ -2041,22 +337,8 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: 'もうすぐ',
-    meaning: 'Soon',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
-  {
-    char: 'でも',
-    meaning: 'But',
-    type: '',
-    kun: '',
-    sentance: '',
-    translation: ''
-  },
+
+
   {
     char: '無料',
     meaning: 'Excessive, Impossible',
@@ -2065,14 +347,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '要る',
-    meaning: 'Need, require',
-    type: '',
-    kun: 'いる',
-    sentance: '',
-    translation: ''
-  }, 
+ 
   {
     char: '調べる',
     meaning: 'Check, investigate',
@@ -2089,25 +364,503 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
+
+
   {
-    char: '～けど',
-    meaning: '～But、Replacement for が',
+    char: '役に立つ',
+    meaning: 'Be useful',
+    type: '',
+    kun: 'やくにたつ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '気をつける',
+    meaning: 'Pay attention, take care',
+    type: '',
+    kun: 'きをつける',
+    sentance: '',
+    translation: ''
+  },
+
+
+  {
+    char: '不便',
+    meaning: 'Inconvenient',
+    type: '',
+    kun: 'ふべん「な」',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: 'ほんとう',
+    meaning: 'True',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '交通',
+    meaning: 'Transport, traffic',
+    type: '',
+    kun: 'こうつう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '物価',
+    meaning: '[Commodity] Prices',
+    type: '',
+    kun: 'ぶっか',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '放送',
+    meaning: 'Anouncement, broadcast',
+    type: '',
+    kun: 'ほうそう',
+    sentance: '',
+    translation: ''
+  },
+
+
+  {
+    char: '試合',
+    meaning: 'Game, mach',
+    type: '',
+    kun: 'しあい　～をします',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '意見',
+    meaning: 'Opinion',
+    type: '',
+    kun: 'いけん',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '地球',
+    meaning: 'Earth',
+    type: '',
+    kun: 'ちきゅう',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '最近',
+    meaning: 'Recently, these days',
+    type: '',
+    kun: 'さいきん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'たぶん',
+    meaning: 'Probably, perhaps, maybe',
     type: '',
     kun: '',
     sentance: '',
     translation: ''
   },
   {
-    char: 'よかったら',
-    meaning: 'If you like',
+    char: 'きっと',
+    meaning: 'Surely, definitely',
     type: '',
     kun: '',
     sentance: '',
     translation: ''
   },
-  
+  {
+    char: 'ほんとうに',
+    meaning: 'Really',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
 
 
+  {
+    char: 'もちろん',
+    meaning: 'Of course',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'うそ',
+    meaning: 'Lie',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '着る',
+    meaning: 'Put on (a shirt, etc.)',
+    type: '',
+    kun: 'きる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '履く',
+    meaning: 'Put on (a shoes, trousers, etc.)',
+    type: '',
+    kun: 'はく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '被る',
+    meaning: 'Put on (a hat, etc.)',
+    type: '',
+    kun: 'かぶる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '掛ける',
+    meaning: 'Put on [Glasees]',
+    type: '',
+    kun: '[眼鏡を] ~ かける',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '帽子',
+    meaning: 'Hat',
+    type: '',
+    kun: 'ぼうし',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '眼鏡',
+    meaning: 'Glasses',
+    type: '',
+    kun: 'めがね',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '都合',
+    meaning: 'Convenience',
+    type: '',
+    kun: 'つごう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'よく',
+    meaning: 'Often',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '聞く',
+    meaning: 'Ask [The teacher]',
+    type: '',
+    kun: '[先生に] ~ きく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '回す',
+    meaning: 'Turn (Rotate)',
+    type: '',
+    kun: 'まわす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '変える',
+    meaning: 'Change',
+    type: '',
+    kun: 'かえる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '触る',
+    meaning: 'Touch [a door]',
+    type: '',
+    kun: '[ドアに] ~ さわる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '出る',
+    meaning: '[change] come out',
+    type: '',
+    kun: '[お釣りが] ~ でる',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '渡る',
+    meaning: 'Cross [a bridge]',
+    type: '',
+    kun: '[橋を] ~ わたる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '曲がる',
+    meaning: 'Turn [to the right]',
+    type: '',
+    kun: '[右へ] ~ まがる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '寂しい',
+    meaning: 'Lonely',
+    type: '',
+    kun: 'さびしい',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '音',
+    meaning: 'Sound',
+    type: '',
+    kun: 'おと',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '故障',
+    meaning: 'breakdown (~します: break down)',
+    type: '',
+    kun: 'こしょう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '道',
+    meaning: 'Road, way',
+    type: '',
+    kun: 'みち',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '車道',
+    meaning: 'Road',
+    type: '',
+    kun: 'しゃどう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '通り',
+    meaning: 'Street',
+    type: '',
+    kun: 'とおり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '交差点',
+    meaning: 'Crossroad',
+    type: '',
+    kun: 'こうさてん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '信号',
+    meaning: 'Traffic lights',
+    type: '',
+    kun: 'しんごう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '角',
+    meaning: 'Corner',
+    type: '',
+    kun: 'かど',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '橋',
+    meaning: 'Bridge',
+    type: '',
+    kun: 'はし',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '駐車場',
+    meaning: 'Car park, parking lot',
+    type: '',
+    kun: 'ちゅうしゃじょう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '建物',
+    meaning: 'Building',
+    type: '',
+    kun: 'たてもの',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: 'くれる',
+    meaning: 'Give (me)',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '直す',
+    meaning: 'Repair, correct',
+    type: '',
+    kun: 'なおす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '連れて行く',
+    meaning: 'Take (someone)',
+    type: '',
+    kun: 'つれていく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '連れて来る',
+    meaning: 'bring (someone)',
+    type: '',
+    kun: 'つれてくる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '送る',
+    meaning: 'escort [someone], go with',
+    type: '',
+    kun: '[人を] ~ おくる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '紹介する',
+    meaning: 'Introduce',
+    type: '',
+    kun: 'しょうかいする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '案内する',
+    meaning: 'show around, show the way',
+    type: '',
+    kun: 'あんないする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '説明する',
+    meaning: 'Explain',
+    type: '',
+    kun: 'せつめいする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '準備',
+    meaning: 'Preparation (~[を] します: Prepare)',
+    type: '',
+    kun: 'じゅんび',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '引っ越し',
+    meaning: 'Moving out (~[を] します: Move out)',
+    type: '',
+    kun: 'ひっこし',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '[お]菓子',
+    meaning: 'Sweets, snacks',
+    type: '',
+    kun: '[お]かし',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '全部',
+    meaning: 'All',
+    type: '',
+    kun: 'ぜんぶ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '自分で',
+    meaning: 'By oneself',
+    type: '',
+    kun: 'じぶんで',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ほかに',
+    meaning: 'Besides',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '教室',
+    meaning: 'classroom',
+    type: 'Noun',
+    kun: ' きょうしつ ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '親切',
+    meaning: 'Helpful, kind, considerate',
+    type: 'I-adjective',
+    kun: 'しんせつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '生活',
+    meaning: 'life; living​',
+    type: 'Noun',
+    kun: ' せいかつ ',
+    sentance: '',
+    translation: ''
+  },
   ]
 
 
@@ -3436,14 +2189,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '親切',
-    meaning: 'Helpful, kind, considerate',
-    type: 'I-adjective',
-    kun: 'しんせつ',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: 'おもしろい',
     meaning: 'Interesting',
@@ -3460,14 +2206,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '生活',
-    meaning: 'life; living​',
-    type: 'Noun',
-    kun: ' せいかつ ',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: '楽しい',
     meaning: 'enjoyable; fun',
@@ -3828,14 +2567,7 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
-  {
-    char: '教室',
-    meaning: 'classroom',
-    type: 'Noun',
-    kun: ' きょうしつ ',
-    sentance: '',
-    translation: ''
-  },
+
   {
     char: '猫',
     meaning: 'cat',
@@ -4188,6 +2920,1993 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
+  {
+    char: 'そちら',
+    meaning: 'your place',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+ 
+  {
+    char: '貸す',
+    meaning: 'to lend',
+    type: 'Godan verb',
+    kun: 'かす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '教える',
+    meaning: 'to teach',
+    type: 'Ichidan verb',
+    kun: 'おしえる',
+    sentance: '',
+    translation: ''
+  },
+ 
+  {
+    char: '借りる',
+    meaning: 'to borrow',
+    type: 'Ichidan verb',
+    kun: 'かりる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'かけます',
+    meaning: 'To make',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '習う',
+    meaning: 'to learn',
+    type: 'Godan verb',
+    kun: 'ならう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'どこ',
+    meaning: 'where',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'どこか',
+    meaning: 'Somewhere, some place',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'いくつ',
+    meaning: 'How many',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
 
+  {
+    char: 'どちら',
+    meaning: 'Which way, where／Which on of two things',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'どちらも',
+    meaning: 'Both',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '誕生日',
+    meaning: 'birthday',
+    type: 'Noun',
+    kun: 'たんじょうび',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: 'あげる',
+    meaning: 'to give',
+    type: 'Ichidan verb',
+    kun: 'あげる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'もらう',
+    meaning: 'to receive',
+    type: 'Godan verb',
+    kun: 'もらう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '送る',
+    meaning: 'to send',
+    type: 'Godan verb',
+    kun: 'おくる',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: 'どうして',
+    meaning: 'why',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'どう',
+    meaning: 'How',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～ごろ',
+    meaning: 'About～(time)',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '用事',
+    meaning: 'tasks; things to do',
+    type: 'Noun',
+    kun: ' ようじ ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '今度',
+    meaning: 'next time',
+    type: 'Noun, Adverb',
+    kun: ' こんど ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '一人で',
+    meaning: 'alone; by oneself',
+    type: 'Expression',
+    kun: 'ひとりで',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '豚肉',
+    meaning: 'Pork',
+    type: 'Noun',
+    kun: 'ぶたにく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'とり肉',
+    meaning: 'Chicken',
+    type: 'Noun',
+    kun: 'とりにく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '牛肉',
+    meaning: 'Beef',
+    type: 'Noun',
+    kun: 'ぎゅうにく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '釣り',
+    meaning: 'fishing',
+    type: 'Noun',
+    kun: 'つり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '名前',
+    meaning: 'Name',
+    type: '',
+    kun: 'なまえ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: 'まっすぐ',
+    meaning: 'Straight',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ゆっくり',
+    meaning: 'Slowly',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '電話する',
+    meaning: 'Phone',
+    type: '',
+    kun: 'でんわする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '涼しい',
+    meaning: 'cool; refreshing​',
+    type: 'I-adjective',
+    kun: 'すずしい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '暖／温かい',
+    meaning: 'warm; mild',
+    type: 'I-adjective',
+    kun: 'あたたかい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '服',
+    meaning: 'Clothes',
+    type: '',
+    kun: 'ふく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '地図',
+    meaning: 'Map',
+    type: '',
+    kun: 'ちず',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'もう少し',
+    meaning: 'A little more',
+    type: '',
+    kun: 'もうすこし',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'もう～',
+    meaning: '～More、Another ～',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'いかがですか',
+    meaning: "Won't you have? Would you like to have?",
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '荷物',
+    meaning: 'luggage',
+    type: 'Noun',
+    kun: 'にもつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '高校',
+    meaning: 'Senior high school',
+    type: '',
+    kun: 'こうこう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '知りません',
+    meaning: "I don't know",
+    type: '',
+    kun: 'しりません',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～知っていますか',
+    meaning: 'Do you know？',
+    type: '',
+    kun: 'しっていますか',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '知る',
+    meaning: 'Get to know',
+    type: '',
+    kun: 'しる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '取る',
+    meaning: 'Take, pass',
+    type: '',
+    kun: 'とる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '浴びる',
+    meaning: 'Take [shower]',
+    type: '',
+    kun: 'あぼり',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: 'や「など」',
+    meaning: '～、～、And so on',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～が、～',
+    meaning: '～、But ～',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'おふろ',
+    meaning: 'Bath',
+    type: '',
+    kun: 'おふろ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '１人',
+    meaning: '１Person',
+    type: '',
+    kun: 'ひとり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '２人',
+    meaning: '２Poeple',
+    type: '',
+    kun: 'ふたり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '研究者 ',
+    meaning: 'researcher​',
+    type: 'Noun',
+    kun: ' けんきゅうしゃ ',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: '辞書',
+    meaning: 'dictionary',
+    type: 'Noun',
+    kun: ' じしょ ',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: '悪い',
+    meaning: 'Bad',
+    type: '',
+    kun: 'わるい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '手伝う',
+    meaning: 'Help （With task）',
+    type: '',
+    kun: 'てつだう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '呼ぶ',
+    meaning: 'Call',
+    type: '',
+    kun: 'よぶ',
+    sentance: '',
+    translation: ''
+  },
+
+    
+  {
+    char: 'どうぞ',
+    meaning: 'Here you are. (Used when offering something)',
+    type: 'Noun',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: 'どうも',
+    meaning: 'thanks',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～方',
+    meaning: 'How to ～、Way of ~',
+    type: '',
+    kun: '～かた',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '見せる',
+    meaning: 'Show',
+    type: '',
+    kun: 'みせる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '広い',
+    meaning: 'Wide, spacious',
+    type: 'Noun',
+    kun: 'ひろい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '入る',
+    meaning: 'Enter',
+    type: '',
+    kun: 'はいる',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: '歯医者',
+    meaning: 'Dentist',
+    type: '',
+    kun: 'はいしゃ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '残念',
+    meaning: 'regrettable',
+    type: 'Na-adjective',
+    kun: ' ざんねん ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '出ます',
+    meaning: 'Take out, hand in',
+    type: '',
+    kun: 'でます',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '甘い',
+    meaning: 'sweet-tasting; sweet',
+    type: 'I-adjective',
+    kun: 'あまい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '旅行',
+    meaning: 'travel; trip',
+    type: 'Noun',
+    kun: ' りょこう ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '欲しい',
+    meaning: 'wanting (to have)',
+    type: 'I-adjective',
+    kun: 'ほしい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '少々',
+    meaning: 'just a minute',
+    type: 'Adverb',
+    kun: ' しょうしょう ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '研究する',
+    meaning: 'Do research',
+    type: '',
+    kun: 'けんきゅうする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '曇り',
+    meaning: 'cloudiness; cloudy weather',
+    type: 'Noun',
+    kun: 'くもり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '目',
+    meaning: 'Eye',
+    type: '',
+    kun: 'め',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '耳',
+    meaning: 'Ear',
+    type: '',
+    kun: 'みみ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '鼻',
+    meaning: 'Nose',
+    type: '',
+    kun: 'はな',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '口',
+    meaning: 'Mouth',
+    type: '',
+    kun: 'くち',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '歯',
+    meaning: 'Tooth',
+    type: '',
+    kun: 'は',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'おなか',
+    meaning: 'Stomach',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '足',
+    meaning: 'Foot',
+    type: '',
+    kun: 'あし',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '泳ぐ',
+    meaning: 'swim​',
+    type: 'Noun',
+    kun: 'およぐ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'どうやって',
+    meaning: 'In what way, how',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '出かける',
+    meaning: 'Go out',
+    type: '',
+    kun: 'でかける',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '危ない',
+    meaning: 'Dangerous',
+    type: '',
+    kun: 'あぶない',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '大丈夫',
+    meaning: 'All right',
+    type: '',
+    kun: 'だいじょうぶ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '熱',
+    meaning: 'Temperature, fever',
+    type: '',
+    kun: 'ねつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '病気',
+    meaning: 'Ilness, disease',
+    type: '',
+    kun: 'びょうき',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '薬',
+    meaning: 'Medicine',
+    type: '',
+    kun: 'くすり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～までに',
+    meaning: 'Before～,by～(Indicates time limit)',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ですから',
+    meaning: 'Therefore, so',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'できます',
+    meaning: 'Be able to, can',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '弾く',
+    meaning: 'Play(Instrument)',
+    type: '',
+    kun: 'ひく',
+    sentance: '',
+    translation: ''
+  },  
+  {
+    char: '歌う',
+    meaning: 'Sing',
+    type: '',
+    kun: 'うたう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ぜび',
+    meaning: 'Expression of hope',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '馬',
+    meaning: 'Horse',
+    type: '',
+    kun: 'うま',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'お祈り',
+    meaning: 'Prayer',
+    type: '',
+    kun: 'おいのり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '引く',
+    meaning: 'Pull',
+    type: '',
+    kun: 'ひく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '留学する',
+    meaning: 'Study abroad',
+    type: '',
+    kun: 'りゅうがくする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '月',
+    meaning: 'Moon',
+    type: '',
+    kun: 'つき',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～けど',
+    meaning: '～But、Replacement for が',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '話す',
+    meaning: 'Speak, talk',
+    type: '',
+    kun: 'はなす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '降る',
+    meaning: 'Rain',
+    type: '',
+    kun: 'ふる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '１つ',
+    meaning: '１',
+    type: '',
+    kun: 'ひとつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '２つ',
+    meaning: '２',
+    type: '',
+    kun: 'ふたつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '３つ',
+    meaning: '３',
+    type: '',
+    kun: 'みっつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '４つ',
+    meaning: '４',
+    type: '',
+    kun: 'よっつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '５つ',
+    meaning: '５',
+    type: '',
+    kun: 'いつつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '６つ',
+    meaning: '６',
+    type: '',
+    kun: 'むっつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '７つ',
+    meaning: '７',
+    type: '',
+    kun: 'ななつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '８つ',
+    meaning: '８',
+    type: '',
+    kun: 'やっつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '９つ',
+    meaning: '９',
+    type: '',
+    kun: 'ここのつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '１０つ',
+    meaning: '１０',
+    type: '',
+    kun: 'とお',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '塩',
+    meaning: 'Salt',
+    type: '',
+    kun: 'しお',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '砂糖',
+    meaning: 'Sugar',
+    type: '',
+    kun: 'さとう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '冬',
+    meaning: 'Winter',
+    type: 'Noun',
+    kun: 'ふゆ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '雪',
+    meaning: 'Snow',
+    type: 'Noun',
+    kun: 'ゆき',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '多い',
+    meaning: 'many; a lot​',
+    type: 'I-adjective',
+    kun: 'おおい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '売る',
+    meaning: 'Sell',
+    type: '',
+    kun: 'うる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '見学する',
+    meaning: 'Tour, visit a place to study in',
+    type: '',
+    kun: 'けんがくする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '乗る',
+    meaning: 'Ride, get on [train]',
+    type: '',
+    kun: 'のる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '降りる',
+    meaning: 'Get off [train]',
+    type: '',
+    kun: 'おりる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '乗り換える',
+    meaning: 'change [train]',
+    type: '',
+    kun: 'のりかえる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '重い',
+    meaning: 'heavy; weighty',
+    type: 'I-adjective',
+    kun: 'おもい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '低い',
+    meaning: 'Low',
+    type: 'Noun, Adverb',
+    kun: ' ひくい ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '夏',
+    meaning: 'summer',
+    type: 'Noun',
+    kun: 'なつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '始める',
+    meaning: 'Start, begin',
+    type: '',
+    kun: 'はじめる',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: 'どの～',
+    meaning: 'Which～（Used for three or more）',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'どれ',
+    meaning: 'Which one（Of three or more things）',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '背',
+    meaning: 'Height',
+    type: '',
+    kun: 'せ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '緑',
+    meaning: 'Green',
+    type: '',
+    kun: 'みどり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '別々',
+    meaning: 'separate',
+    type: 'Noun',
+    kun: ' べつべつ ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '禁煙',
+    meaning: 'No smoking',
+    type: '',
+    kun: 'きんえん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '入れる',
+    meaning: 'Put in, insert',
+    type: '',
+    kun: 'いれる',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '押す',
+    meaning: 'Push, press',
+    type: '',
+    kun: 'おす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'だれ／誰',
+    meaning: 'who?',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '遊ぶ',
+    meaning: 'Enjoy oneself, play',
+    type: 'Noun',
+    kun: 'あそぶ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '上着',
+    meaning: 'Jacket, outerwear',
+    type: '',
+    kun: 'うわぎ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '下着',
+    meaning: 'Underwear',
+    type: '',
+    kun: 'したぎ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '洗う',
+    meaning: 'Wash',
+    type: '',
+    kun: 'あらう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '天才',
+    meaning: 'Genius',
+    type: '',
+    kun: 'てんさい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '日記',
+    meaning: 'Diary',
+    type: '',
+    kun: 'にっき',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '飛ぶ',
+    meaning: 'Fly',
+    type: '',
+    kun: 'とぶ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '跳ぶ',
+    meaning: 'Jump',
+    type: '',
+    kun: 'とぶ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '登る',
+    meaning: 'Climb',
+    type: '',
+    kun: 'のぼる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '走る',
+    meaning: 'Run',
+    type: '',
+    kun: 'はしる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '潜る',
+    meaning: 'Dive',
+    type: '',
+    kun: 'もぐる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '這う',
+    meaning: 'Crawl',
+    type: '',
+    kun: 'はう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ける',
+    meaning: 'Kick',
+    type: '',
+    kun: 'ける',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '振る',
+    meaning: 'Wave',
+    type: '',
+    kun: 'ふる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '持ち上げる',
+    meaning: 'Lift',
+    type: '',
+    kun: 'もちあげる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '迎える',
+    meaning: 'Go to meet, welcome, greeting',
+    type: 'Noun',
+    kun: 'むかえる',
+    sentance: '',
+    translation: ''
+  },
+
+
+ 
+  
+  {
+    char: '点ける',
+    meaning: 'Turn on',
+    type: '',
+    kun: 'つける',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '消す',
+    meaning: 'Turn off',
+    type: '',
+    kun: 'けす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '開ける',
+    meaning: 'Open',
+    type: '',
+    kun: 'あける',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '閉める',
+    meaning: 'Close, shut',
+    type: '',
+    kun: 'しめる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '急ぐ',
+    meaning: 'Hurry',
+    type: '',
+    kun: 'いそぐ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '待つ',
+    meaning: 'Wait',
+    type: '',
+    kun: 'まつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '持つ',
+    meaning: 'Hold',
+    type: '',
+    kun: 'もつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '使う',
+    meaning: 'Use',
+    type: '',
+    kun: 'つかう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '止める',
+    meaning: 'Stop, park',
+    type: '',
+    kun: 'とめる',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '座る',
+    meaning: 'Sit down',
+    type: '',
+    kun: 'すわる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '立つ',
+    meaning: 'Stand up',
+    type: '',
+    kun: 'たつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'あまり',
+    meaning: 'not much​',
+    type: '',
+    kun: 'あまり',
+    sentance: '',
+    translation: ''
+  }, 
+  {
+    char: '振り向く',
+    meaning: 'Look back',
+    type: '',
+    kun: 'ふりむく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '置く',
+    meaning: 'Put',
+    type: '',
+    kun: 'おく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '作る、造る',
+    meaning: 'Make, Produce',
+    type: '',
+    kun: 'つくる',
+    sentance: '',
+    translation: ''
+  },
+
+
+  {
+    char: '住む',
+    meaning: 'Be Living',
+    type: '',
+    kun: 'すむ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '遠い',
+    meaning: 'Far',
+    type: 'Noun',
+    kun: 'とおい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '遅い',
+    meaning: 'Slow, late',
+    type: 'Noun',
+    kun: 'おそい',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: 'はがき',
+    meaning: 'Postcard',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '約束',
+    meaning: 'promise',
+    type: 'Noun',
+    kun: ' やくそく ',
+    sentance: '',
+    translation: ''
+  },
+  
+
+  
+  {
+    char: '棚',
+    meaning: 'Shelf​',
+    type: 'I-adjective',
+    kun: 'たな',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '簡単',
+    meaning: 'simple; easy',
+    type: 'Na-adjective',
+    kun: ' かんたん ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '辛い',
+    meaning: 'spicy; hot​',
+    type: 'I-adjective',
+    kun: 'からい',
+    sentance: '',
+    translation: ''
+  },
+
+
+  {
+    char: '窓',
+    meaning: 'Window',
+    type: 'I-adjective',
+    kun: 'まど',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '体',
+    meaning: 'Body, Health',
+    type: '',
+    kun: 'からだ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '忘れる',
+    meaning: 'Forget',
+    type: '',
+    kun: 'わすれる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '無くす',
+    meaning: 'Lose (something)',
+    type: '',
+    kun: 'なくす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '払う',
+    meaning: 'Pay',
+    type: '',
+    kun: 'はらう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '脱ぐ',
+    meaning: 'Take off (Clothes, shoes)',
+    type: '',
+    kun: 'ぬぐ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '持って行く',
+    meaning: 'Take (something)',
+    type: '',
+    kun: 'もっていく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '持って来る',
+    meaning: 'Bring (something)',
+    type: '',
+    kun: 'もってくる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '間',
+    meaning: 'Between, among​',
+    type: 'Noun',
+    kun: 'あいだ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '曲げる',
+    meaning: 'Bend',
+    type: '',
+    kun: 'まげる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '伸ばす',
+    meaning: 'Extend',
+    type: '',
+    kun: 'のばす',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '転ぶ',
+    meaning: 'Fall down',
+    type: '',
+    kun: 'ころぶ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '泊まる',
+    meaning: 'To stay at (Hotel)',
+    type: '',
+    kun: 'とまる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '[お]湯',
+    meaning: 'Hot water',
+    type: '',
+    kun: '[お]ゆ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '動く',
+    meaning: 'Move, work',
+    type: '',
+    kun: 'うごく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '会社をやめる',
+    meaning: 'Quit or retire from company',
+    type: '',
+    kun: 'かいしゃをやめる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '階段',
+    meaning: 'staircase',
+    type: 'Noun',
+    kun: ' かいだん ',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: '大変',
+    meaning: 'Hard, tough, severe, awful',
+    type: 'Noun',
+    kun: 'たいへん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'よかったら',
+    meaning: 'If you like',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '思う',
+    meaning: 'Think',
+    type: '',
+    kun: 'おもう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '言う',
+    meaning: 'Say',
+    type: '',
+    kun: 'いう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '勝つ',
+    meaning: 'To Win',
+    type: '',
+    kun: 'かつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '負ける',
+    meaning: 'To lose, be beaten',
+    type: '',
+    kun: 'まける',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '何回も',
+    meaning: 'Many times',
+    type: '',
+    kun: 'なんかいも',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ー目',
+    meaning: 'the-th (indicating order)',
+    type: '',
+    kun: 'ーめ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '眠い',
+    meaning: 'Sleepy',
+    type: '',
+    kun: 'ねむい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '強い',
+    meaning: 'Strong',
+    type: '',
+    kun: 'つよい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '弱い',
+    meaning: 'Weak',
+    type: '',
+    kun: 'よわい',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '練習',
+    meaning: 'Practice',
+    type: '',
+    kun: 'れんしゅう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'むだ',
+    meaning: 'Wasteful',
+    type: '',
+    kun: 'むだ「な」',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'もうすぐ',
+    meaning: 'Soon',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '歩く',
+    meaning: 'Walk',
+    type: '',
+    kun: 'あるく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '隣',
+    meaning: 'Next, next door',
+    type: '',
+    kun: 'となり',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '季節',
+    meaning: 'Season',
+    type: 'Noun',
+    kun: 'きせつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '春',
+    meaning: 'Spring',
+    type: 'Noun',
+    kun: 'はる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '秋',
+    meaning: 'Autumn, fall',
+    type: 'Noun',
+    kun: 'あき',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'ずっと',
+    meaning: 'By far',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '散歩する',
+    meaning: 'Take a walk',
+    type: 'Noun',
+    kun: 'さんぽする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '失礼',
+    meaning: 'rude',
+    type: 'Noun',
+    kun: 'しつれい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '要る',
+    meaning: 'Need, require',
+    type: '',
+    kun: 'いる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '特に',
+    meaning: 'Especially',
+    type: '',
+    kun: 'とくに',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'でも',
+    meaning: 'But',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '両親',
+    meaning: 'parents',
+    type: 'Noun',
+    kun: 'りょうしん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '問題',
+    meaning: 'Question, problem, trouble',
+    type: '',
+    kun: 'もんだい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '答え',
+    meaning: 'Answer',
+    type: '',
+    kun: 'こたえ',
+    sentance: '',
+    translation: ''
+  },
+
+
+  {
+    char: 'すぐ',
+    meaning: 'Immediately',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'また',
+    meaning: 'Again',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'あとで',
+    meaning: 'Later',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+
+
+
+  {
+    char: '資料',
+    meaning: 'Materials, data',
+    type: '',
+    kun: 'しりょう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '課長',
+    meaning: 'Section head',
+    type: '',
+    kun: 'かちょう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '部長',
+    meaning: 'Department head',
+    type: '',
+    kun: 'ぶちょう',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '社長',
+    meaning: 'Company President',
+    type: '',
+    kun: 'しゃちょう',
+    sentance: '',
+    translation: ''
+  },
+  
+  {
+    char: '製品',
+    meaning: 'Products',
+    type: '',
+    kun: 'せいひん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '経済',
+    meaning: 'Economy',
+    type: '',
+    kun: 'けいざい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '市役所',
+    meaning: 'City Hall',
+    type: '',
+    kun: 'しやくしょ',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '独身',
+    meaning: 'Single',
+    type: '',
+    kun: 'どくしん',
+    sentance: '',
+    translation: ''
+  },
+
+  {
+    char: '若い',
+    meaning: 'Young',
+    type: '',
+    kun: 'わかい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '長い',
+    meaning: 'Long',
+    type: '',
+    kun: 'ながい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '夢',
+    meaning: 'Dream',
+    type: '',
+    kun: 'ゆめ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'すごい',
+    meaning: 'Great (Express astonishment or admiration)',
+    type: '',
+    kun: 'すごい',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '自動車',
+    meaning: 'Car, automobile',
+    type: '',
+    kun: 'じどうしゃ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '髪',
+    meaning: 'Hair',
+    type: '',
+    kun: 'かみ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '心配する',
+    meaning: 'Worry',
+    type: '',
+    kun: 'しんぱする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '残業する',
+    meaning: 'Work overtime',
+    type: '',
+    kun: 'ざんぎょうする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '話',
+    meaning: 'Talk, speach, story',
+    type: '',
+    kun: 'はなし　～をします',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '～に ついて',
+    meaning: 'About～、Concerning～',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '覚える',
+    meaning: 'Memorise',
+    type: '',
+    kun: 'おぼえる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '現金',
+    meaning: 'Cash',
+    type: '',
+    kun: 'げんきん',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '生まれる',
+    meaning: 'Be born',
+    type: '',
+    kun: 'うまれる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '集める',
+    meaning: 'Collect, gather',
+    type: '',
+    kun: 'あつめる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '予約する',
+    meaning: 'Reserve, book',
+    type: '',
+    kun: 'よやくする',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '捨てる',
+    meaning: 'Throw away',
+    type: '',
+    kun: 'すてる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '大切',
+    meaning: 'Important, precious',
+    type: '',
+    kun: 'たいせつ',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '趣味',
+    meaning: 'Hobby',
+    type: '',
+    kun: 'しゅみ',
+    sentance: '',
+    translation: ''
+  },
 
   ]

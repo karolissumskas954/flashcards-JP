@@ -5,7 +5,7 @@ import { minaN5 } from '../constants/kanji';
 
 const initialState = {
   set: minaN5,
-  name: 'genki',
+  name: 'wanikani',
   learn: [  
     {
     char: 'Filler card',

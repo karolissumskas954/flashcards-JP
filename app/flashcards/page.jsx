@@ -54,6 +54,19 @@ const Flashcards = () => {
 
 
   const [kanjiList, setKanjiList] = useState(lr);
+  const [removed, setRemoved] = useState([]);
+
+
+  const addRemove = (name) => {
+    setRemoved((prevNames) => {
+      if (!prevNames.includes(name)) {
+        return [...prevNames, name]; // Add the name if it's not already in the selected array
+      }
+      return prevNames; // Do nothing if the name is already selected
+    });
+  };
+
+
 
   const addKanji = (kanji) => {
     const index = kanjiList.indexOf(kanji);
@@ -81,7 +94,7 @@ const Flashcards = () => {
           transition: { delay: 1.5, duration: 0.4, ease: 'easeIn' }
         }}
       >
-
+{/* 
         <div className={` ${isVisible == true ? '' : 'transparent'}  
         justify-start transition duration-700 ease-in-out opacity flex  container pl-9
           ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
@@ -99,7 +112,7 @@ const Flashcards = () => {
                                         : 'text-accent') : 'text-eel'} cursor-pointer`} />
           <span className="pb-1 pl-2">{kanjiList.length}</span>
           </Link>
-        </div>
+        </div> */}
  
 
         {/* Upper bracker */}
@@ -223,7 +236,7 @@ const Flashcards = () => {
                         <div className="flex flex-col">
                           <div className=" flex flex-row items-center ">
                             <div
-                              onClick={() => {addKanji(kanji), setSel(!sel)}}
+                              onClick={() => addRemove(kanji.char)}
 
                               className={`
                                 ${name == 'testSet'
@@ -305,6 +318,17 @@ const Flashcards = () => {
           </CarouselContent>
         </Carousel>
       </motion.div>
+
+      <div className="pt-10 mx-10 h-96 flex flex-col-reverse">
+      <ul className="grid grid-cols-12 gap-4">
+        {removed.map((name, index) => (
+          <li key={index} className="text-center">
+            <span className="text-black text-2xl">{name}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+
     </div>
   )
 }
