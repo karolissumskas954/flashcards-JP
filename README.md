@@ -4,7 +4,7 @@ Flashcards-JP is a Japanese learning website designed to help users learn Kanji 
 
 ## Features
 
-    Kanji Learning: Study Kanji with readings, meanings, and example sentences.
+    Kanji Learning: Study Kanji with readings and meanings.
     Grammar Points: Learn essential grammar structures with explanations and examples.
     Flashcards: Interactive flashcards to reinforce learning.
 
