@@ -166,7 +166,7 @@ export const grammar = [
                 note: '',
             },
             {
-                explanation: '',
+                explanation: '-',
                 example: '…はい、[もう]送りました。',
                 translation: '...Yes, I have [sent it].',
                 note: '',
@@ -213,6 +213,30 @@ export const grammar = [
                 explanation: '',
                 example: '富士山は高い山です。',
                 translation: 'Mt. Fuji is a high mountain.',
+                note: '',
+            },
+            {
+                explanation: '3) Affirmative/negative forms of noun sentences な-adj.',
+                example: 'きのうは雨でした。',
+                translation: 'It as rainy yesterday.',
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'きのうの試験は簡単じゃありませんでした。',
+                translation: "Yesterday's exam wasn't easy.",
+                note: '',
+            },
+            {
+                explanation: '3) Affirmative/negative forms of noun sentences い-adj.',
+                example: 'きのうは暑かったです。',
+                translation: 'It was hot yesterday.',
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'きのうのパーティーはあまり楽しくなかったです。',
+                translation: "I didn't enjoy yesterday's party very much.",
                 note: '',
             },
             
@@ -608,6 +632,248 @@ export const grammar = [
                 note: '',
             },
 
+        ]
+    },
+    {
+        lesson : 12,
+        name: 'N1 は N2 より adj です',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Describes the quality or state of N1 in comparison with N2. ',
+                example: 'この車はあの車より大きいです。',
+                translation: "This car is bigger than that one.",
+                note: '',
+            },
+        ]
+    },
+    {
+        lesson : 12,
+        name: 'N1 と N2 と どちらが adj ですか ...N1 / N2 の ほうが adj です ',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) どちら is used when comparing any two items. ',
+                example: 'サッカーと野球とどちらがおもしろいですか。 野球<-やきゅう',
+                translation: "Which [do you think] is more interesting, soccer or baseball?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…サッカーのほうがおもしろいです。',
+                translation: "... [I think] soccer is more interesting.",
+                note: '',
+            },
+            {
+                explanation: '-',
+                example: 'ミラーさんとサントスさんとどちらがテニスが上手ですか。',
+                translation: "Who is better at tennis, Miller or Santos?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '北海道と大阪とどちらが涼しいですか。',
+                translation: "Which is cooler, Hokkaido or Osaka?",
+                note: '',
+            },
+        ]
+    },
+    {
+        lesson : 13,
+        name: 'N が欲しいです ',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) 欲しい is an い-adj, its object is marked by が.',
+                example: 'わたしは友達が欲しいです。',
+                translation: "I want some friends.",
+                note: '',
+            },
+            {
+                explanation: '-',
+                example: '今何がいちばん欲しいですか。',
+                translation: "What do you want the most right now?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…車が欲しいです。',
+                translation: "... I want a car.",
+                note: '',
+            },
+            {
+                explanation: '-',
+                example: 'みかんが欲しいですか。',
+                translation: "Do you want an orange?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…いいえ、欲しくないです。',
+                translation: "... No, I don't.",
+                note: '',
+            },
+        ]
+    },
+    {
+        lesson : 13,
+        name: 'V ます-form たいです',
+        ex: '',
+        examples: [
+            {
+                explanation: "1) Is used to express speaker's desire to do something.",
+                example: 'わたしは沖縄へ行きたいです。',
+                translation: "I want to go to Okinawa.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'わたしはてんぷらを食べたいです。',
+                translation: "I'd like to eat some tempura.",
+                note: '',
+            },
+            {
+                explanation: '-',
+                example: '神戸で何を買いたいですか。',
+                translation: "What do you want to buy in Kobe?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…靴を買いたいです。',
+                translation: "... I want to buy some shoes.",
+                note: '',
+            },
+            {
+                explanation: '-',
+                example: 'おなかが痛いですから、何も食べたくないです。',
+                translation: "My stomach hurts, so I don't want to eat anything.",
+                note: '[Note 1] 欲しいです and たいです can only be used when talking about what the speaker or listener wants.',
+            },
+            {
+                explanation: '',
+                example: '',
+                translation: "",
+                note: '[Note 2] Neither 欲しいです and たいです should be used when offering someoe something. Not a proper way: コーヒーが欲しいですか or コーヒーが飲みたいですか. Proper way: コーヒーはいかがですか or コーヒーを飲みませんか.',
+            },
+        ]
+    },
+    {
+        lesson : 13,
+        name: 'N(place) N/V に 行きます/来ます/帰ります',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) The purpose of the actions 行きます/来ます/帰ります are marked by に.',
+                example: '神戸へインド料理を食べにいきます。',
+                translation: "I'm going to Kobe to have some Indian food.",
+                note: '',
+            },
+            {
+                explanation: '2) When the verb before に is N します, it is used in the form N に 行きます/来ます/帰ります.',
+                example: '神戸へ買い物にいきます。',
+                translation: "I'm going shopping in Kobe.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '日本へ美術の勉強に来ました。',
+                translation: "I came to Japan to study art.",
+                note: '[Note] When the event is festival or concert and comes before に, the purpose is ussually seeing the festival or listening to concert.',
+            },
+            {
+                explanation: '',
+                example: 'あした京都のお祭りに行きます。',
+                translation: "I'm going to see a festival in Kyoto tomorrow.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 14,
+        name: 'V-てform',
+        ex: '',
+        examples: [
+            {
+                explanation: 'Godan) う、つ、る',
+                example: '会う -> 会って、立つ -> 立って、帰る -> 帰って',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Godan) む、ぶ、ぬ',
+                example: '休む -> 休んで、遊ぶ -> 遊んで、死ぬ -> 死んで',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Godan) く、ぐ',
+                example: '書く -> 書いて、泳ぐ -> 泳いで',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Godan) す',
+                example: '話す -> 話し',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Ichidan) いる、える',
+                example: '食べる -> 食べて、起きる -> 起きて',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Irregular) 行く、する、来る',
+                example: '行く -> 行って、くる -> きて、する -> して',
+                translation: "",
+                note: '',
+            },
+        ]
+    },
+    {
+        lesson : 14,
+        name: 'V-てform',
+        ex: '',
+        examples: [
+            {
+                explanation: 'Godan) う、つ、る',
+                example: '会う -> 会って、立つ -> 立って、帰る -> 帰って',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Godan) む、ぶ、ぬ',
+                example: '休む -> 休んで、遊ぶ -> 遊んで、死ぬ -> 死んで',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Godan) く、ぐ',
+                example: '書く -> 書いて、泳ぐ -> 泳いで',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Godan) す',
+                example: '話す -> 話し',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Ichidan) いる、える',
+                example: '食べる -> 食べて、起きる -> 起きて',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: 'Irregular) 行く、する、来る',
+                example: '行く -> 行って、くる -> きて、する -> して',
+                translation: "",
+                note: '',
+            },
         ]
     },
 ]

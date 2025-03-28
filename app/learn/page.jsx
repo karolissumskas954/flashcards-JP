@@ -28,6 +28,12 @@ const Learn = () => {
     setSelectedIndex(index);
   };
 
+  const [showText, setShowText] = useState(false);
+
+  const handleCircleClick = () => {
+    setShowText(!showText);
+  };
+
 
 
   return (
@@ -88,11 +94,15 @@ const Learn = () => {
                                           : 'bg-accent'}`}>
           </div>          
           {/* Display the examples for the current grammar */}
-          <div className=" justify-start items-start w-full pb-4">
+          <div className=" justify-start items-start w-full pb-6">
             {grammarItem.examples.map((example, idx) => (
               <div key={idx} className="mb-4 mx-4 text-wrap max-w-full break-words">
                 {example.explanation && <p className=" text-black text-[24px] font-bold">{example.explanation}</p>}
-                <p className="text-black text-[22px]  pl-6">{example.example}</p>
+                <div className="flex flex-row justify-between">
+                  <div className="flex items-start">
+                    <p className={`${showText == true ? 'text-black' : 'text-white'}  text-[22px]  pl-6`}>{example.example}</p>
+                  </div>
+                </div>
                 <p className="italic text-black mt-[-10px] pl-6 text-[22px]">{example.translation}</p>
                 {example.note && <p className="text-black text-[20px]">{example.note}</p>}
               </div>
@@ -107,6 +117,47 @@ const Learn = () => {
 
 
           </div>
+          <div className="absolute bottom-2 left-2">
+          <div className="flex justify-center items-center" onClick={handleCircleClick}>
+                    <div className={`
+                                ${name == 'testSet'
+                                  ? 'bg-accent'
+                                  : name == 'radicals'
+                                    ? 'bg-macaw'
+                                    : name == 'genki'
+                                      ? 'bg-orange'
+                                      : name == 'mina'
+                                        ? 'bg-red'
+                                        : name == 'wanikani'
+                                          ? 'bg-pur'
+                                          : 'bg-accent'}
+                               w-6 h-6 ${showText == true? 'bg-opacity-10': 'bg-opacity-30'}  items-center flex justify-center rounded-full cursor-pointer `}>
+
+                            <div className={`
+                                ${name == 'testSet'
+                                  ? 'bg-accent'
+                                  : name == 'radicals'
+                                    ? 'bg-macaw'
+                                    : name == 'genki'
+                                      ? 'bg-orange'
+                                      : name == 'mina'
+                                        ? 'bg-red'
+                                        : name == 'wanikani'
+                                          ? 'bg-pur'
+                                          : 'bg-accent'}
+                               w-4 h-4 ${showText == true? 'bg-opacity-50': ''}  items-center flex justify-center rounded-full cursor-pointer `}>
+
+
+                                
+                               </div>
+
+                               </div>
+                  </div>
+
+
+          </div>
+
+
 
         
         </div>
