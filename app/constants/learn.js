@@ -834,46 +834,176 @@ export const grammar = [
         ]
     },
     {
-        lesson : 14,
-        name: 'V-てform',
+        lesson : 15,
+        name: 'V て-formもいいですか',
+        ex: 'May I do...?',
+        examples: [
+            {
+                explanation: 'Asking permission to do something.',
+                example: '写真を撮ってもいいですか。',
+                translation: "May I take a photo?",
+                note: '',
+            },
+            {
+                explanation: 'Response to this pattern.',
+                example: 'ここでタバコを吸ってもいいですか。',
+                translation: "May I smoke here?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…ええ、[吸っては]いいですよ。',
+                translation: "...Yes, you may [smoke].",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…すみません、ちょっと。のどが痛いですから。痛い->いたい',
+                translation: "...Sorry, I'd prefer it if you didn't. I've got a sore throat.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…いいえ、[吸っては]いけません。禁煙ですから。',
+                translation: "...No, you must not [smoke]. It's no smoking area.",
+                note: '',
+            },
+        ]
+    },
+    {
+        lesson : 15,
+        name: 'V て-formはいけません',
+        ex: 'You must not do...',
+        examples: [
+            {
+                explanation: 'To express prohibition.',
+                example: 'ここでタバコを吸ってはいけません。禁煙ですから。',
+                translation: "You can't smoke here. It's a No Smoking area.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 15,
+        name: 'V て-formいます',
         ex: '',
         examples: [
             {
-                explanation: 'Godan) う、つ、る',
-                example: '会う -> 会って、立つ -> 立って、帰る -> 帰って',
+                explanation: '1) To show a state.',
+                example: '私は田中さんを知っています。',
+                translation: "I know Tanaka.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '私はカメラを持っています。',
+                translation: "I have a camera.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '私は大阪に住んでいます。',
+                translation: "I live in Osaka.",
+                note: '[Note 1] The negative of しっています is しりません. Not say しっていません.',
+            },
+            {
+                explanation: '',
+                example: '市役所の電話番号を知っていますか。',
                 translation: "",
                 note: '',
             },
             {
-                explanation: 'Godan) む、ぶ、ぬ',
-                example: '休む -> 休んで、遊ぶ -> 遊んで、死ぬ -> 死んで',
+                explanation: '',
+                example: '…はい、知っています。',
                 translation: "",
                 note: '',
             },
             {
-                explanation: 'Godan) く、ぐ',
-                example: '書く -> 書いて、泳ぐ -> 泳いで',
+                explanation: '',
+                example: '…いいえ、知りません。',
                 translation: "",
+                note: '[Note 2] The phrase もっています can mean either having something with you at the moment, or owning it.',
+            },
+            {
+                explanation: '2) To show same action repeaten for a long period of time.',
+                example: 'IMCはコンピューターソフトを作っています。',
+                translation: "IMC produces computer software.",
                 note: '',
             },
             {
-                explanation: 'Godan) す',
-                example: '話す -> 話し',
-                translation: "",
+                explanation: '',
+                example: 'ミラーさんはIMCで働いています。',
+                translation: "Miller works at IMC.",
                 note: '',
             },
             {
-                explanation: 'Ichidan) いる、える',
-                example: '食べる -> 食べて、起きる -> 起きて',
-                translation: "",
+                explanation: '',
+                example: '妹は大学で勉強しています。',
+                translation: "My younger sister is studying at university.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 15,
+        name: 'NにV',
+        ex: '',
+        examples: [
+            {
+                explanation: 'に is used to indicate the location of subject resulting from the action. (入ります, 座ります, 乗ります, 登ります, 着きます).',
+                example: 'ここに入ってはいけません。',
+                translation: "You can't come in here.",
                 note: '',
             },
             {
-                explanation: 'Irregular) 行く、する、来る',
-                example: '行く -> 行って、くる -> きて、する -> して',
+                explanation: '',
+                example: 'ここに座ってもいいですか。',
+                translation: "May I sit here?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '京都駅から16番のバスに乗ってください。',
+                translation: "Take the Number 16 bus from Kyoto Station.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 15,
+        name: 'N1にN2をV',
+        ex: '',
+        examples: [
+            {
+                explanation: 'に indicates the location (N1) of N2 as the result of an anction.',
+                example: 'ここに車を止めてください。',
+                translation: "Stop the car here, please.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'ここに住所を書いてください。',
+                translation: "Write your address here, please.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 15,
+        name: '',
+        ex: '',
+        examples: [
+            {
+                explanation: '',
+                example: '',
                 translation: "",
                 note: '',
             },
+
         ]
     },
 ]

@@ -66,7 +66,7 @@ const Learn = () => {
                     : 'border-accent'}
           
           `}>
-          <div className={`flex flex-row justify-center items-center gap-5 w-full ${name == 'testSet'
+          <div className={`flex flex-col justify-center items-center w-full ${name == 'testSet'
                                   ? 'bg-accent'
                                   : name == 'radicals'
                                     ? 'bg-macaw'
