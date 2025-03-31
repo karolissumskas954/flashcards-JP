@@ -33,7 +33,7 @@ const Learn = () => {
   const carouselRef = useRef(null);
 
 
-  const [showText, setShowText] = useState(false);
+  const [showText, setShowText] = useState(true);
 
   const handleCircleClick = () => {
     setShowText(!showText);
@@ -75,7 +75,7 @@ const Learn = () => {
         ref={carouselRef}
         >
         <CarouselContent >
-  {grammar.map((grammarItem, index) => {
+  {grammar.slice().reverse().map((grammarItem, index) => {
     return (
       <CarouselItem key={index} className='group' onMouseEnter={() => handleCarouselItemHover(index)}>
         {/* Card face 1 */}
