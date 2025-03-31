@@ -994,6 +994,45 @@ export const grammar = [
     },
     {
         lesson : 15,
+        name: 'Join two or more sentences',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) V1て-form,[V2て-form], V3. (Listed in order)',
+                example: '朝ジョギングをして、シャワーを浴びて、会社へ行きます。',
+                translation: "In the morning, I go jogging, take a shower, and then go to work.",
+                note: '',
+            },
+            {
+                explanation: '2) い-adj -> ～くて.',
+                example: '昨日は天気が良くて、暑かったです。',
+                translation: "It was fine and hot yesterday.",
+                note: '',
+            },
+            
+            {
+                explanation: '3) な-adj -> ～で.',
+                example: '奈良は静かで、きれいです。',
+                translation: "Nara is quiet, beautiful city.",
+                note: '[Note] ~て cannot be used, if there is two contrasting descriptions.',
+            },
+            {
+                explanation: '',
+                example: 'この部屋は狭いですが、きれいです。',
+                translation: "This room is snall but clean.",
+                note: '',
+            },
+            {
+                explanation: '4) N で.',
+                example: 'カリナさんはインドネシア人で、富士大学の留学生です。',
+                translation: "Karina is Indonesian, she's a student at Fuji University.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 15,
         name: '',
         ex: '',
         examples: [

@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/carousel"
 
 import { motion } from "framer-motion";
+import { FaArrowRight } from "react-icons/fa";
 
 import React, { useState, useRef, useEffect } from 'react';
 
@@ -20,6 +21,7 @@ import { grammar } from "../constants/learn";
 
 const Learn = () => {
   const name = useSelector((state) => state.sets.name);
+  const isVisible = useSelector((state) => state.show.isVisible);
 
   const [selectedIndex, setSelectedIndex] = useState(0);
   const dispatch = useDispatch();
@@ -28,16 +30,37 @@ const Learn = () => {
     setSelectedIndex(index);
   };
 
+  const carouselRef = useRef(null);
+
+
   const [showText, setShowText] = useState(false);
 
   const handleCircleClick = () => {
     setShowText(!showText);
   };
 
+  const goLast = () => {
+    const lastIndex = grammar.length - 1;
+
+  };
+
+
 
 
   return (
     <div className="pt-10 pb-5 ">
+
+      <div className="w-full container">
+        
+        <div className={` ${isVisible == true ? '' : 'transparent'}  
+        justify-start transition duration-700 ease-in-out opacity flex  container pr-9 pb-2
+          ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
+          <FaArrowRight onClick={()=>goLast()}  className='text-black cursor-pointer text-[32px]'/>
+         
+        </div>
+
+
+      </div>
       <motion.div className=""
         initial={{ opacity: 0 }}
         animate={{
@@ -46,8 +69,12 @@ const Learn = () => {
         }}
       >
 
-        <Carousel className="w-full md:container" >
-        <CarouselContent index={selectedIndex}>
+        <Carousel className="w-full md:container" 
+        selectedIndex={selectedIndex}
+        onSelect={(index) => setSelectedIndex(index)}
+        ref={carouselRef}
+        >
+        <CarouselContent >
   {grammar.map((grammarItem, index) => {
     return (
       <CarouselItem key={index} className='group' onMouseEnter={() => handleCarouselItemHover(index)}>
