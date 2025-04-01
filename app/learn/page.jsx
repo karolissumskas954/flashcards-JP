@@ -52,12 +52,12 @@ const Learn = () => {
 
       <div className="w-full container">
         
-        <div className={` ${isVisible == true ? '' : 'transparent'}  
+        {/* <div className={` ${isVisible == true ? '' : 'transparent'}  
         justify-start transition duration-700 ease-in-out opacity flex  container pr-9 pb-2
           ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
           <FaArrowRight onClick={()=>goLast()}  className='text-black cursor-pointer text-[32px]'/>
          
-        </div>
+        </div> */}
 
 
       </div>
@@ -70,9 +70,9 @@ const Learn = () => {
       >
 
         <Carousel className="w-full md:container" 
-        selectedIndex={selectedIndex}
-        onSelect={(index) => setSelectedIndex(index)}
-        ref={carouselRef}
+        // selectedIndex={selectedIndex}
+        // onSelect={(index) => setSelectedIndex(index)}
+        // ref={carouselRef}
         >
         <CarouselContent >
   {grammar.slice().reverse().map((grammarItem, index) => {
@@ -139,7 +139,7 @@ const Learn = () => {
 
           <div className="absolute bottom-0 right-2">
             <span className="text-gray-400">
-              Lesson: {grammarItem.lesson}
+              Lesson: {grammarItem.lesson} [{grammarItem.book}]
             </span>
 
 
