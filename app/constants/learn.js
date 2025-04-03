@@ -1171,7 +1171,97 @@ export const grammar = [
         ]
     },
     {
-        lesson : 15,
+        lesson : 19,
+        book: 'N5',
+        name: 'V た-form',
+        ex: '',
+        examples: [
+            {
+                explanation: 'て-form -> た-form.',
+                example: '書いて->書いた　,　飲んで->飲んだ　,　食べて->食べた　,　来て->来た　,　した->した',
+                translation: "",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 19,
+        book: 'N5',
+        name: 'V た-form ことがあります',
+        ex: 'Have experience of doing',
+        examples: [
+            {
+                explanation: 'What happened in the past as an experience.',
+                example: '馬に乗ったことがあります。',
+                translation: "I have ridden a horse.",
+                note: '',
+            },
+            {
+                explanation: 'Past tense is used when mentioning what happened in the past.',
+                example: '去年北海度で馬に乗りました。',
+                translation: "I rode a horse last year in Hokkaido.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 19,
+        book: 'N5',
+        name: 'V1 た-formり, V2 た-formりします',
+        ex: 'V1,V2 and so on',
+        examples: [
+            {
+                explanation: 'To tell verb examples of longer list.',
+                example: '日曜日はテニスをしたり、映画を見たりします。',
+                translation: "On sundays, I play tennis, watch film, and so on.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '日曜日はテニスをしたり、映画を見たりしました。',
+                translation: "Last sunday, I play tennis, watch film, and so on.",
+                note: '[Note] て-pattern is used to enumerate successive actions in their order.',
+            },
+            {
+                explanation: '',
+                example: '日曜日はテニスをして、映画を見ました。',
+                translation: "On sunday, I played tennis and then watched a film.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 19,
+        book: 'N5',
+        name: '{い->く/な->に/Nに}なります',
+        ex: 'To become',
+        examples: [
+            {
+                explanation: 'Indicates a change of state.',
+                example: '寒い 　->　 寒くなります。',
+                translation: "Get cold.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '元気「な」　->　 元気になります。',
+                translation: "Get better.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '25歳 　->　 25歳になります',
+                translation: "Turn 25 [years old].",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 19,
         book: 'N5',
         name: '',
         ex: '',
