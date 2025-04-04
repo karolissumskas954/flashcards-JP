@@ -1261,6 +1261,78 @@ export const grammar = [
         ]
     },
     {
+        lesson : 20,
+        book: 'N5',
+        name: 'Polite/Plain style',
+        ex: '',
+        examples: [
+            {
+                style: 'table',
+                headings:[{heading: 'Polite style'}, {heading: 'Plain style'}],
+                content:[
+                    {
+                        sen: '明日東京へ行きます。',
+                        tran: 'I shall be going to Tokyo tomorrow.',
+
+                        sen1: '明日東京へ行く。',
+                        tran2: 'I am off to Tokyo tomorrow.',
+                    },
+                    {
+                        sen: '毎日忙しいです。',
+                        tran: 'I am busy every day.',
+
+                        sen1: '毎日忙しい。',
+                        tran2: 'I am busy every day.',
+                    },
+                    {
+                        sen: '相撲が好きです。',
+                        tran: 'I like sumo.',
+
+                        sen1: '相撲が好きだ。',
+                        tran2: 'I like sumo.',
+                    },
+                    {
+                        sen: '富士山に登りたいです。',
+                        tran: 'I would like to climb Mt Fuji.',
+
+                        sen1: '富士山に登りたい。',
+                        tran2: 'I want to climb Mt Fuji.',
+                    },
+                    {
+                        sen: 'ドイツへ行ったことがありません。',
+                        tran: 'I have never been to Germany.',
+
+                        sen1: 'ドイツへ行ったことがない。',
+                        tran2: 'I have never been to Germany.',
+                    },
+                    ],
+            },
+
+        ]
+    },
+    {
+        lesson : 19,
+        book: 'N5',
+        name: '',
+        ex: '',
+        examples: [
+            {
+                style: 'table',
+                headings:[{heading: ""}, {heading: ""}],
+                content:[
+                    {
+                        sen: "",
+                        tran: "",
+
+                        sen1: "",
+                        tran2: "",
+                    },
+                ]
+            },
+
+        ]
+    },
+    {
         lesson : 19,
         book: 'N5',
         name: '',

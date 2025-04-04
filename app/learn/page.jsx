@@ -123,7 +123,34 @@ const Learn = () => {
           {/* Display the examples for the current grammar */}
           <div className=" justify-start items-start w-full pb-6">
             {grammarItem.examples.map((example, idx) => (
-              <div key={idx} className="mb-4 mx-4 text-wrap max-w-full break-words">
+              example.style  ? 
+                (<div >
+                  <table className=" flex w-full flex-col my-3 table-fixed rounded-xl">
+                    <thead className="flex w-full  px-2 ">
+                      <tr className="flex  w-full justify-evenly">
+                        {example.headings.map((head, id) => (
+                          <th key={id} className="text-black text-[22px] font-bold w-full border border-black">{head.heading}</th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody className="flex flex-col w-full px-2">
+                        {example.content.map((co, id) => (
+                        <tr className="flex w-full justify-evenly ">
+                        <td className="border w-full border-black ">
+                          <p className="pl-2 text-black">{co.sen}</p>
+                          <p className="pl-2 text-black">{co.tran}</p>
+                        </td>
+                        <td className="w-full border border-black ">
+                          <p className="pl-2 text-black">{co.sen1}</p>
+                          <p className="pl-2 text-black">{co.tran2}</p>
+                        </td>
+                      </tr>
+                        ))}
+                      
+                    </tbody>
+                  </table>
+                </div>) : 
+                (<div key={idx} className="mb-4 mx-4 text-wrap max-w-full break-words">
                 {example.explanation && <p className=" text-black text-[24px] font-bold">{example.explanation}</p>}
                 <div className="flex flex-row justify-between">
                   <div className="flex items-start">
@@ -132,7 +159,9 @@ const Learn = () => {
                 </div>
                 <p className="italic text-black mt-[-10px] pl-6 text-[22px]">{example.translation}</p>
                 {example.note && <p className="text-black text-[20px]">{example.note}</p>}
-              </div>
+              </div>)
+              
+
             ))}
           </div>
 
@@ -145,7 +174,7 @@ const Learn = () => {
 
           </div>
           <div className="absolute bottom-2 left-2">
-          <div className="flex justify-center items-center" onClick={handleCircleClick}>
+          {/* <div className="flex justify-center items-center" onClick={handleCircleClick}>
                     <div className={`
                                 ${name == 'testSet'
                                   ? 'bg-accent'
@@ -179,7 +208,7 @@ const Learn = () => {
                                </div>
 
                                </div>
-                  </div>
+                  </div> */}
 
 
           </div>
