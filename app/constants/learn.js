@@ -1156,7 +1156,7 @@ export const grammar = [
         ]
     },
     {
-        lesson : 18,
+        lesson : 17,
         book: 'N5',
         name: 'なくてもいいです',
         ex: 'Need not do',
@@ -1165,6 +1165,39 @@ export const grammar = [
                 explanation: 'Not necessary to do something.',
                 example: '明日来なくてもいいです。',
                 translation: "You don't have to come tomorrow.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 18,
+        book: 'N5',
+        name: 'N/V } ができます',
+        ex: 'Can do',
+        examples: [
+            {
+                explanation: '1) In case of a noun.',
+                example: 'ミラーさんは日本語ができます。',
+                translation: "Miller can speak Japanese.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '雪がたくさん降りましたから、今年はスキーができます。　(今年)->ことし',
+                translation: "A lot of snow has fallen, so we can ski this year.",
+                note: '',
+            },
+            {
+                explanation: '2) In case of a verb.',
+                example: 'ミラーさんは漢字を読むことができます。',
+                translation: "Miller can read kanji.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'ガードで払うことができます。',
+                translation: "You can pay by card.",
                 note: '',
             },
 
@@ -1306,6 +1339,51 @@ export const grammar = [
                         tran2: 'I have never been to Germany.',
                     },
                     ],
+            },
+
+        ]
+    },
+    {
+        lesson : 21,
+        book: 'N5',
+        name: 'Plain form と思います',
+        ex: 'I think that',
+        examples: [
+            {
+                explanation: '1) When expressing conjecture.',
+                example: '明日雨が降ると思います。',
+                translation: "I think it's going to rain tomorrow.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'テレーザちゃんはもう寝たと思います。',
+                translation: "I think Teresa's already gone to bed.",
+                note: 'To express a negative conjecture, negative before と.',
+            },
+            {
+                explanation: '',
+                example: 'ミラーさんはこのニュースを知っていますか。',
+                translation: "…いいえ、知らないと思います。",
+                note: '',
+            },
+            {
+                explanation: '2) When stating an opinion.',
+                example: '日本は物価が高いと思います。',
+                translation: "I think the prices in Japan are high.",
+                note: 'When asking someones opinion about something, the exression についてどう思いますか is used without putting と.',
+            },
+            {
+                explanation: '',
+                example: '新しい空港についてどう思いますか。',
+                translation: "…きれいですが、ちょっと交通が不便だと思います。",
+                note: 'Agreement with someones opinion:',
+            },
+            {
+                explanation: '',
+                example: 'ケータイは便利ですね。',
+                translation: "…僕もそう思います。",
+                note: '',
             },
 
         ]
