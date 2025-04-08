@@ -10,6 +10,8 @@ import { minaN5, minaN5Burned } from "../constants/kanji";
 import { useDispatch, useSelector } from 'react-redux';
 import { setName, setSet } from "../redux/setReducer";
 
+import { grammar } from "../constants/learn";
+
 const Sets = () => {
   const dispatch = useDispatch();
   const set = useSelector((state) => state.sets.set);
@@ -40,41 +42,59 @@ const Sets = () => {
   }
 
 
-  const numRows = 9;
-  const numCols = 3;
+  const GrammarGrid = () => {
+    // We store a checked state for each item using its index
+    const [checkedStates, setCheckedStates] = useState(
+      Array(grammar.length).fill(false)
+    );
+  
+    const handleCheckboxChange = (index) => {
+      const newStates = [...checkedStates];
+      newStates[index] = !newStates[index];
+      setCheckedStates(newStates);
+    };
+  
+    return (
+      <div className="grid grid-cols-4 gap-4 w-full">
+        {grammar.map((item, index) => (
+          <div
+            key={index}
+            className={`border p-2 justify-center text-center rounded-xl flex flex-row items-center cursor-pointer
+              ${checkedStates[index] ? (
+                name === 'testSet'
+                  ? 'bg-accent'
+                  : name === 'radicals'
+                    ? 'bg-macaw'
+                    : name === 'genki'
+                      ? 'bg-orange'
+                      : name === 'mina'
+                        ? 'bg-red'
+                        : name === 'wanikani'
+                          ? 'bg-pur'
+                          : 'bg-accent'
+              ) + ' text-white ' : 'text-macaw border-secondary'}`}
+              onClick={() => handleCheckboxChange(index)}
+          >
+            <label className="">
+              {/* <input
+                type="checkbox"
+                checked={checkedStates[index]}
+                onChange={() => handleCheckboxChange(index)}
+              /> */}
+            </label>
+            <div className="w-full">
+            <span className="font-medium">
+              <p>Lesson {item.lesson}:</p>
+              <p>{item.name}</p>
+              
+            </span>
+            </div>
+          </div>
+        ))}
+      </div>
+    );
+  };
 
-  const gridItems = [];
-  for (let i = 0; i < numRows; i++) {
-    for (let j = 0; j < numCols; j++) {
-
-      const [isChecked, setIsChecked] = useState(false);
-
-      const handleChange = (event) => {
-        setIsChecked(event.target.checked);
-      };
-      const boxNumber = i * numCols + j + 1;
-      gridItems.push(
-        <div
-          key={`${i}-${j}`}
-          className="border border-eel text-eel p-2 justify-center  text-center rounded-xl flex flex-row" // Tailwind classes
-        >
-              <div>
-      <label>
-        <input
-          type="checkbox"
-          checked={isChecked}
-          onChange={handleChange}
-        />
-      </label>
-    </div>
-          <span className="mx-2 font-medium">
-            第{boxNumber}課
-          </span>
-          
-        </div>
-      );
-    }
-  }
 
   return (
     <motion.div className="container"
@@ -159,8 +179,8 @@ const Sets = () => {
 
       <div className="flex w-full py-10">
       <div
-      className={`grid grid-cols-3 grid-rows-9 gap-4 w-full`}>
-        {gridItems}
+      className={` w-full`}>
+        <GrammarGrid />
       </div>
 
 

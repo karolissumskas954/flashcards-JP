@@ -1,56 +1,56 @@
 export const grammar = [
-    // {
-    //     lesson : 4,
-    //     book: 'N5',
-    //     name: 'N(time)に V',
-    //     ex: '',
-    //     examples: [
-    //         {
-    //             explanation: '1) Indicate the time of occurance.',
-    //             example: '６時半に起きます。',
-    //             translation: 'I get up at six-thirty.',
-    //             note: '',
-    //         },
-    //         {
-    //             explanation: '',
-    //             example: '７月２日に日本へ来ました。',
-    //             translation: 'I came to Japan on the second of July.',
-    //             note: ' ',
-    //         },
-    //     ]
-    // },
-    // {
-    //     lesson : 4,
-    //     book: 'N5',
-    //     name: 'N1からN2まで',
-    //     ex: '',
-    //     examples: [
-    //         {
-    //             explanation: '1) から-Starting place or time, まで-Finishing.',
-    //             example: '９時から５時まで勉強します。',
-    //             translation: 'I study from 9 to 5.',
-    //             note: '',
-    //         },
-    //         {
-    //             explanation: '2) からandまで Not always used together.',
-    //             example: '９時から働きます。',
-    //             translation: 'I start work at 9.',
-    //             note: ' ',
-    //         },
-    //         {
-    //             explanation: '3) To indicate starting/finishing of noun as topic, [です] can be used.',
-    //             example: '銀行は９時から３時までです。',
-    //             translation: 'The bank is open from 9 to 3.',
-    //             note: ' ',
-    //         },
-    //         {
-    //             explanation: '',
-    //             example: '昼休みは１２時からです。',
-    //             translation: 'The lunch brake starts at 12.',
-    //             note: ' ',
-    //         },
-    //     ]
-    // },
+    {
+        lesson : 4,
+        book: 'N5',
+        name: 'N(time)に V',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Indicate the time of occurance.',
+                example: '６時半に起きます。',
+                translation: 'I get up at six-thirty.',
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '７月２日に日本へ来ました。',
+                translation: 'I came to Japan on the second of July.',
+                note: ' ',
+            },
+        ]
+    },
+    {
+        lesson : 4,
+        book: 'N5',
+        name: 'N1からN2まで',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) から-Starting place or time, まで-Finishing.',
+                example: '９時から５時まで勉強します。',
+                translation: 'I study from 9 to 5.',
+                note: '',
+            },
+            {
+                explanation: '2) からandまで Not always used together.',
+                example: '９時から働きます。',
+                translation: 'I start work at 9.',
+                note: ' ',
+            },
+            {
+                explanation: '3) To indicate starting/finishing of noun as topic, [です] can be used.',
+                example: '銀行は９時から３時までです。',
+                translation: 'The bank is open from 9 to 3.',
+                note: ' ',
+            },
+            {
+                explanation: '',
+                example: '昼休みは１２時からです。',
+                translation: 'The lunch brake starts at 12.',
+                note: ' ',
+            },
+        ]
+    },
     // {
     //     lesson : 5,
     //     book: 'N5',
