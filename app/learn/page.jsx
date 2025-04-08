@@ -133,7 +133,7 @@ const Learn = () => {
                         ))}
                       </tr>
                     </thead>
-                    <tbody className="flex flex-col w-full px-2">
+                    <tbody className="flex flex-col w-full px-2 text-[18px]">
                         {example.content.map((co, id) => (
                         <tr className="flex w-full justify-evenly ">
                         <td className="border w-full border-black ">

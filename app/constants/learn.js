@@ -1389,6 +1389,39 @@ export const grammar = [
         ]
     },
     {
+        lesson : 21,
+        book: 'N5',
+        name: 'と言います',
+        ex: 'Say',
+        examples: [
+            {
+                explanation: '1) Reporting speech directly.',
+                example: '寝る前に、「お休みなさい」と言います。',
+                translation: "We say, 'Good night' before going o bed.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'ミラーさんは「来週東京へ出張します」と言いました。',
+                translation: "Miller sayd, 'I am going to Tokyo on business trip next week.'",
+                note: '',
+            },
+            {
+                explanation: '2) Reporting speech indirectly.',
+                example: 'ミラーさんは東京へ出張すると言いました。',
+                translation: "Miller sayd that he would be going to Tokyo on business trip.",
+                note: 'Particle に indicates the person spoken to.',
+            },
+            {
+                explanation: '',
+                example: '父に留学したいと言いました。',
+                translation: "I told my father that I wanted to study abroad.",
+                note: '',
+            },
+
+        ]
+    },
+    {
         lesson : 19,
         book: 'N5',
         name: '',
