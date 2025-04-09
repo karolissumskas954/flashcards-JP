@@ -1,56 +1,56 @@
 export const grammar = [
-    {
-        lesson : 4,
-        book: 'N5',
-        name: 'N(time)に V',
-        ex: '',
-        examples: [
-            {
-                explanation: '1) Indicate the time of occurance.',
-                example: '６時半に起きます。',
-                translation: 'I get up at six-thirty.',
-                note: '',
-            },
-            {
-                explanation: '',
-                example: '７月２日に日本へ来ました。',
-                translation: 'I came to Japan on the second of July.',
-                note: ' ',
-            },
-        ]
-    },
-    {
-        lesson : 4,
-        book: 'N5',
-        name: 'N1からN2まで',
-        ex: '',
-        examples: [
-            {
-                explanation: '1) から-Starting place or time, まで-Finishing.',
-                example: '９時から５時まで勉強します。',
-                translation: 'I study from 9 to 5.',
-                note: '',
-            },
-            {
-                explanation: '2) からandまで Not always used together.',
-                example: '９時から働きます。',
-                translation: 'I start work at 9.',
-                note: ' ',
-            },
-            {
-                explanation: '3) To indicate starting/finishing of noun as topic, [です] can be used.',
-                example: '銀行は９時から３時までです。',
-                translation: 'The bank is open from 9 to 3.',
-                note: ' ',
-            },
-            {
-                explanation: '',
-                example: '昼休みは１２時からです。',
-                translation: 'The lunch brake starts at 12.',
-                note: ' ',
-            },
-        ]
-    },
+    // {
+    //     lesson : 4,
+    //     book: 'N5',
+    //     name: 'N(time)に V',
+    //     ex: '',
+    //     examples: [
+    //         {
+    //             explanation: '1) Indicate the time of occurance.',
+    //             example: '６時半に起きます。',
+    //             translation: 'I get up at six-thirty.',
+    //             note: '',
+    //         },
+    //         {
+    //             explanation: '',
+    //             example: '７月２日に日本へ来ました。',
+    //             translation: 'I came to Japan on the second of July.',
+    //             note: ' ',
+    //         },
+    //     ]
+    // },
+    // {
+    //     lesson : 4,
+    //     book: 'N5',
+    //     name: 'N1からN2まで',
+    //     ex: '',
+    //     examples: [
+    //         {
+    //             explanation: '1) から-Starting place or time, まで-Finishing.',
+    //             example: '９時から５時まで勉強します。',
+    //             translation: 'I study from 9 to 5.',
+    //             note: '',
+    //         },
+    //         {
+    //             explanation: '2) からandまで Not always used together.',
+    //             example: '９時から働きます。',
+    //             translation: 'I start work at 9.',
+    //             note: ' ',
+    //         },
+    //         {
+    //             explanation: '3) To indicate starting/finishing of noun as topic, [です] can be used.',
+    //             example: '銀行は９時から３時までです。',
+    //             translation: 'The bank is open from 9 to 3.',
+    //             note: ' ',
+    //         },
+    //         {
+    //             explanation: '',
+    //             example: '昼休みは１２時からです。',
+    //             translation: 'The lunch brake starts at 12.',
+    //             note: ' ',
+    //         },
+    //     ]
+    // },
     // {
     //     lesson : 5,
     //     book: 'N5',
@@ -1338,6 +1338,20 @@ export const grammar = [
                         sen1: 'ドイツへ行ったことがない。',
                         tran2: 'I have never been to Germany.',
                     },
+                    {
+                        sen: '少し疲れました。',
+                        tran: "I'm a little tired.",
+
+                        sen1: '少し疲れた。',
+                        tran2: "I'm a little tired.",
+                    },
+                    {
+                        sen: '昨日は雨でした。',
+                        tran: 'It rained yesterday.',
+
+                        sen1: '昨日は雨だった。',
+                        tran2: 'It rained yesterday.',
+                    },
                     ],
             },
 
@@ -1416,6 +1430,114 @@ export const grammar = [
                 explanation: '',
                 example: '父に留学したいと言いました。',
                 translation: "I told my father that I wanted to study abroad.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 21,
+        book: 'N5',
+        name: 'Lesson 21',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) でしょう... Right?',
+                example: '明日パーティーに行くでしょう。',
+                translation: "You're going to the party tomorrow, right?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…ええ、行きます。',
+                translation: "...Yes, I am.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '北海度は寒かったでしょう。',
+                translation: "I bet it was cold in Hokkaido, wasn't it?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '…いいえ、そんなに寒くなかったです。',
+                translation: "...No, it wasn't cold.",
+                note: '',
+            },
+            {
+                explanation: '2) N1(place) で N2 があります.',
+                example: '東京で日本とブラジルのサッカーの試合があります。',
+                translation: "There's a soccer match between Japan and Brazil in Tokyo.",
+                note: '',
+            },
+            {
+                explanation: '3) N(occasion) で.',
+                example: '会議で何か意見を言いましたか。',
+                translation: "Did you say anything at the meeting?",
+                note: '',
+            },
+            {
+                explanation: '4) N でも V.',
+                example: 'ちょっとビールでも飲みませんか。',
+                translation: "How about drinking beer or something?",
+                note: '',
+            },
+            {
+                explanation: '5) V ない-form ないと.',
+                example: 'もう帰らないと。',
+                translation: "I have to be getting home...",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 23,
+        book: 'N5',
+        name: 'とき、～(Main clause)',
+        ex: 'When',
+        examples: [
+            {
+                explanation: '1) とき is used to connect two sentences.',
+                example: '図書館で本を借りるとき、カードが要ります。',
+                translation: "You need your cards when you borriw a book deim the library.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '使い方がわからないとき、僕に聞いてください。',
+                translation: "If you don't know how to use it, please ask me.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '体の調子が悪いとき、「元気茶」を飲みます。',
+                translation: "When I don't feel very well, I drink 'Genki-cha'.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '暇なとき、うちへ遊びに来ませんか。',
+                translation: "Please come and visit me when you have some free time.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '妻が病気のとき、会社を休ます。',
+                translation: "I take time off when my wife is ill.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '若いとき、あまり勉強しませんでした。',
+                translation: "I didn't study very much when I was young.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '子供のとき、よく川で泳ぎました。',
+                translation: "I often swam in the river when I was a child.",
                 note: '',
             },
 
