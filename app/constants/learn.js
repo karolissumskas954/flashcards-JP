@@ -673,7 +673,7 @@ export const grammar = [
     {
         lesson : 12,
         book: 'N5',
-        name: 'N1 と N2 と どちらが adj ですか ...N1 / N2 の ほうが adj です ',
+        name: 'N1 と N2 と どちらが adj ですか ',
         ex: '',
         examples: [
             {

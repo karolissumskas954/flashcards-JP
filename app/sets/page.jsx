@@ -55,12 +55,21 @@ const Sets = () => {
     };
   
     return (
-      <div className="grid grid-cols-4 gap-4 w-full">
+      <div className="grid grid-cols-3 gap-6">
         {grammar.map((item, index) => (
-          <div
-            key={index}
-            className={`border p-2 justify-center text-center rounded-xl flex flex-row items-center cursor-pointer
-              ${checkedStates[index] ? (
+
+
+        <div className="flex  w-full justify-center relative mb-5 gap-5"
+        
+        style={{
+          transition: 'transform 0.5s ease-in-out',
+          transform: !show ? 'translateY(0%)' : 'translateY(100%)',
+          // Adjust -100% as needed
+        }}
+        >
+        <Button  
+        className={`
+          ${checkedStates[index] ? (
                 name === 'testSet'
                   ? 'bg-accent'
                   : name === 'radicals'
@@ -70,26 +79,100 @@ const Sets = () => {
                       : name === 'mina'
                         ? 'bg-red'
                         : name === 'wanikani'
-                          ? 'bg-pur'
-                          : 'bg-accent'
-              ) + ' text-white ' : 'text-macaw border-secondary'}`}
-              onClick={() => handleCheckboxChange(index)}
-          >
-            <label className="">
-              {/* <input
-                type="checkbox"
-                checked={checkedStates[index]}
-                onChange={() => handleCheckboxChange(index)}
-              /> */}
-            </label>
-            <div className="w-full">
-            <span className="font-medium">
-              <p>Lesson {item.lesson}:</p>
-              <p>{item.name}</p>
-              
-            </span>
-            </div>
-          </div>
+                          ? 'bg-pur '
+                          : 'bg-accent '
+              ) + ' brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full h-[100px]`}>
+
+        </Button>
+        <Button onClick={() => handleCheckboxChange(index)} className={`
+          ${checkedStates[index] ? (
+                  name === 'testSet'
+                    ? 'bg-accent'
+                    : name === 'radicals'
+                      ? 'bg-macaw'
+                      : name === 'genki'
+                        ? 'bg-orange'
+                        : name === 'mina'
+                          ? 'bg-red'
+                          : name === 'wanikani'
+                            ? 'bg-pur'
+                            : 'bg-accent'
+                ) + ' text-white ' : ' bg-bg border-2 text-macaw'}
+          
+          
+          h-[100px] transition duration-700 ease-in-out opacity  uppercase flex items-center w-full absolute inset-0 -mt-2 `}>
+          <span className="text-wrap">
+          <p className="">Lesson {item.lesson}:</p>
+          <p className="">{item.name}</p>
+          </span>
+        </Button>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          // <div
+          //   key={index}
+          //   className={`
+          //     `}
+          //     onClick={() => handleCheckboxChange(index)}
+          //     style={{
+          //       transition: 'transform 0.5s ease-in-out',
+          //       transform: !show ? 'translateY(0%)' : 'translateY(100%)',
+          //       // Adjust -100% as needed
+          //     }}
+          // >
+            
+          //   <div className="w-full  rounded-xl flex flex-row  cursor-pointer relative  mb-[120px]">
+          //   <button  className={`${checkedStates[index] ? (
+          //       name === 'testSet'
+          //         ? 'bg-accent'
+          //         : name === 'radicals'
+          //           ? 'bg-macaw'
+          //           : name === 'genki'
+          //             ? 'bg-orange'
+          //             : name === 'mina'
+          //               ? 'bg-red'
+          //               : name === 'wanikani'
+          //                 ? 'bg-pur '
+          //                 : 'bg-accent '
+          //     ) + ' text-white brightness-75' : ''} h-full w-full bg-black -mt-5 transition duration-700 ease-in-out opacity rounded-xl  `}>
+          //       <p>a</p>
+          //   </button>
+          //   <button  className={` ${checkedStates[index] ? (
+          //       name === 'testSet'
+          //         ? 'bg-accent'
+          //         : name === 'radicals'
+          //           ? 'bg-macaw'
+          //           : name === 'genki'
+          //             ? 'bg-orange'
+          //             : name === 'mina'
+          //               ? 'bg-red'
+          //               : name === 'wanikani'
+          //                 ? 'bg-pur'
+          //                 : 'bg-accent'
+          //     ) + ' text-white ' : ' border-2 text-macaw'} transition duration-700 ease-in-out opacity mt-5 w-full absolute rounded-xl`}>
+          //   <span className="font-medium ">
+          //     <p>Lesson {item.lesson}:</p>
+          //     <p>{item.name}</p>
+          //   </span>
+          //   </button>
+
+          //   </div>
+          // </div>
         ))}
       </div>
     );
@@ -176,9 +259,15 @@ const Sets = () => {
           </Button>
         </div> */}
       </div>
+      <div className="w-full border-2 border-secondary">
+        </div>
+
+      
 
       <div className="flex w-full py-10">
+        
       <div
+      
       className={` w-full`}>
         <GrammarGrid />
       </div>
