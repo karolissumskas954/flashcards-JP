@@ -97,10 +97,10 @@ const Sets = () => {
                           : name === 'wanikani'
                             ? 'bg-pur'
                             : 'bg-accent'
-                ) + ' text-white ' : ' bg-bg border-2 text-macaw'}
+                ) + ' text-white -mt-1' : ' bg-bg border-2 text-macaw -mt-2'}
           
           
-          h-[100px] transition duration-700 ease-in-out opacity  uppercase flex items-center w-full absolute inset-0 -mt-2 `}>
+          h-[100px] transition duration-700 ease-in-out opacity  uppercase flex items-center w-full absolute inset-0  `}>
           <span className="text-wrap">
           <p className="">Lesson {item.lesson}:</p>
           <p className="">{item.name}</p>
@@ -202,7 +202,7 @@ const Sets = () => {
           }}
         >
           <Button size="lg" className={`${name == 'genki' ? 'bg-orange  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('genki')} size="lg" className={`${name == 'genki' ? 'bg-orange' : 'bg-bg border-2 text-macaw'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 -mt-1`}>
+          <Button onClick={() => handleChangeSet('genki')} size="lg" className={`${name == 'genki' ? 'bg-orange -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
             <span>
             みんなの日本語N5
             </span>
@@ -216,7 +216,7 @@ const Sets = () => {
           }}
         >
           <Button size="lg" className={`${name == 'mina' ? 'bg-red  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('mina')} size="lg" className={`${name == 'mina' ? 'bg-red' : 'bg-bg border-2 text-macaw'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 -mt-1`}>
+          <Button onClick={() => handleChangeSet('mina')} size="lg" className={`${name == 'mina' ? 'bg-red -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
             <span>
               みんなの日本語N5 Burned
             </span>

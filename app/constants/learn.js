@@ -1544,6 +1544,87 @@ export const grammar = [
         ]
     },
     {
+        lesson : 23,
+        book: 'N5',
+        name: 'とき、～(Main clause)',
+        ex: 'When',
+        examples: [
+            {
+                explanation: '1) With dictionary form, what described in main clause happened before ～とき. Using た-form - what happened after.',
+                example: 'パリへ行くとき、鞄を買いました。',
+                translation: "I bought a bag when going to Paris.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'パリへ行ったとき、鞄を買いました。',
+                translation: "I bought a bag when I went to Paris.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 23,
+        book: 'N5',
+        name: 'と、～(Main clause)',
+        ex: 'If...then...',
+        examples: [
+            {
+                explanation: '1) Indicate if a certain action occurs.',
+                example: 'このボタンを押すと、おつりが出ます。',
+                translation: "If you press this button, you'll get your change.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'これを回すと、音が大きくなります。',
+                translation: "When you turn this, it gets louder.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '右へ曲がると、郵便局があります。',
+                translation: "If you turn right, you'll see a post office.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 24,
+        book: 'N5',
+        name: 'くれます',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Someone else giving something to speaker.',
+                example: '僕は佐藤さんに花を上げました。',
+                translation: "I gave some flowers to Sato.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '❌ 佐藤さんは僕にクリスマスカードを上げました。',
+                translation: "",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '⭕ 佐藤さんは僕にクリスマスカードをくれました。',
+                translation: "Sato gave me a Christmas card.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '佐藤さんは妹にお菓子をくれました。',
+                translation: "Sato gave some candies to my younger sister.",
+                note: '',
+            },
+
+        ]
+    },
+    {
         lesson : 19,
         book: 'N5',
         name: '',
