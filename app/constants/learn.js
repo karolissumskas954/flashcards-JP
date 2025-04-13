@@ -1625,6 +1625,57 @@ export const grammar = [
         ]
     },
     {
+        lesson : 24,
+        book: 'N5',
+        name: 'て-form 上げる/もらう/くれる',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) て-form 上げる [I did for someone].',
+                example: '僕は木村さんに本を貸してあげました。',
+                translation: "I lent Kimura a book.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'タクシーを呼びましょうか。',
+                translation: "Shall I call a taxi?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '手伝いましょうか。',
+                translation: "May I help you?",
+                note: '',
+            },
+            {
+                explanation: '2) て-form もらう [Someone gave me (Profit, benefit)].',
+                example: '僕は山田さんに図書館の電話番号を教えてもらいました。',
+                translation: "Yamada told me the phone number of the library.",
+                note: '',
+            },
+            {
+                explanation: '3) て-form くれる [Gave me].',
+                example: '母はセーターを送ってくれました。',
+                translation: "My mother sent me a sweater.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '僕に旅行の写真を見せてくれます。',
+                translation: "He shows me the photos taken during the travel.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '僕を大阪城へ連れて行ってくれます。',
+                translation: "He takes me to Osaka Castle.",
+                note: '',
+            },
+
+        ]
+    },
+    {
         lesson : 19,
         book: 'N5',
         name: '',
