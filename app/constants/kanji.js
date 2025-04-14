@@ -861,6 +861,72 @@ export const minaN5 = [
     sentance: '',
     translation: ''
   },
+  {
+    char: '考える',
+    meaning: 'Think, consider',
+    type: '',
+    kun: 'かんがえる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '着く',
+    meaning: 'Arrive',
+    type: '',
+    kun: 'つく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '年を取る',
+    meaning: 'Grow old',
+    type: '',
+    kun: '[としを～]とる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '足りる',
+    meaning: 'Be enough, be sufficient',
+    type: '',
+    kun: 'たりる',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '田舎',
+    meaning: 'Countryside, hometown',
+    type: '',
+    kun: 'いなか',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '億',
+    meaning: 'Hundred million',
+    type: '',
+    kun: 'おく',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: 'もし[たら～]',
+    meaning: 'If',
+    type: '',
+    kun: '',
+    sentance: '',
+    translation: ''
+  },
+  {
+    char: '意味',
+    meaning: 'Meaning',
+    type: '',
+    kun: 'いみ',
+    sentance: '',
+    translation: ''
+  },
+
+
   ]
 
 

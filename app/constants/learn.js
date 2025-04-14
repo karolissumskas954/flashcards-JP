@@ -1501,7 +1501,7 @@ export const grammar = [
             {
                 explanation: '1) とき is used to connect two sentences.',
                 example: '図書館で本を借りるとき、カードが要ります。',
-                translation: "You need your cards when you borriw a book deim the library.",
+                translation: "You need your cards when you borrow a book from the library.",
                 note: '',
             },
             {
