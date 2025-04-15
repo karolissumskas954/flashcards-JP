@@ -1676,6 +1676,114 @@ export const grammar = [
         ]
     },
     {
+        lesson : 25,
+        book: 'N5',
+        name: 'Plain pas form ら、',
+        ex: 'If...',
+        examples: [
+            {
+                explanation: '1) (Main clause) describes what will happen if condition is true.',
+                example: 'お金があったら、旅行します。',
+                translation: "If I had money, I'd go travelling.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '時間がなかったら、テレビを見ません。',
+                translation: "If I don't have time, I won't watch TV.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '安かったら、パソコンを買いたいです。',
+                translation: "I'd like to buy a PC if I can find a cheap one.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '暇だったら、手伝ってください。',
+                translation: "Please lend me a hand if you're free.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'いい天気だったら、散歩しませんか。',
+                translation: "Shall we go for a walk if the weather's nice?",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 25,
+        book: 'N5',
+        name: 'V た-form ら、',
+        ex: 'When.../After.../Once...',
+        examples: [
+            {
+                explanation: '1) To express if certain action will happen.',
+                example: '10時になったら、出かけましょう。',
+                translation: "Shall we go out once it gets to 10 o'clock?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'うちへ帰ったら、すぐシャワーを浴びます。',
+                translation: "I take a shower as soon as I get home.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 25,
+        book: 'N5',
+        name: '}も、～',
+        ex: 'Even if...',
+        examples: [
+            {
+                explanation: '1) V て-form / V ない-form / い-adj -> くて / な-adj -> で / N で }も、～(Main clause).',
+                example: '雨が降っても、洗濯します',
+                translation: "I'll do the laundry even if it rains.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '安くても、僕はグループ旅行が嫌いです。',
+                translation: "I hate package holidays, even if they are cheap.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '便利でも、パソコンを使いません。',
+                translation: "I'm not going to use a PC, even if it is convenient.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '日曜日でも、働きます。',
+                translation: "I'm going to work, even if it is Sunday.",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 25,
+        book: 'N5',
+        name: 'もし',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Used with conjunction with ～たら to give notice that clause following it is conditional.',
+                example: 'もし１億円あったら、いろいろな国を旅行したいです。',
+                translation: "If I had a hundred million yen, I'd like to travel round the world.",
+                note: '',
+            },
+
+        ]
+    },
+    {
         lesson : 19,
         book: 'N5',
         name: '',
