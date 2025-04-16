@@ -108,71 +108,6 @@ const Sets = () => {
         </Button>
         </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          // <div
-          //   key={index}
-          //   className={`
-          //     `}
-          //     onClick={() => handleCheckboxChange(index)}
-          //     style={{
-          //       transition: 'transform 0.5s ease-in-out',
-          //       transform: !show ? 'translateY(0%)' : 'translateY(100%)',
-          //       // Adjust -100% as needed
-          //     }}
-          // >
-            
-          //   <div className="w-full  rounded-xl flex flex-row  cursor-pointer relative  mb-[120px]">
-          //   <button  className={`${checkedStates[index] ? (
-          //       name === 'testSet'
-          //         ? 'bg-accent'
-          //         : name === 'radicals'
-          //           ? 'bg-macaw'
-          //           : name === 'genki'
-          //             ? 'bg-orange'
-          //             : name === 'mina'
-          //               ? 'bg-red'
-          //               : name === 'wanikani'
-          //                 ? 'bg-pur '
-          //                 : 'bg-accent '
-          //     ) + ' text-white brightness-75' : ''} h-full w-full bg-black -mt-5 transition duration-700 ease-in-out opacity rounded-xl  `}>
-          //       <p>a</p>
-          //   </button>
-          //   <button  className={` ${checkedStates[index] ? (
-          //       name === 'testSet'
-          //         ? 'bg-accent'
-          //         : name === 'radicals'
-          //           ? 'bg-macaw'
-          //           : name === 'genki'
-          //             ? 'bg-orange'
-          //             : name === 'mina'
-          //               ? 'bg-red'
-          //               : name === 'wanikani'
-          //                 ? 'bg-pur'
-          //                 : 'bg-accent'
-          //     ) + ' text-white ' : ' border-2 text-macaw'} transition duration-700 ease-in-out opacity mt-5 w-full absolute rounded-xl`}>
-          //   <span className="font-medium ">
-          //     <p>Lesson {item.lesson}:</p>
-          //     <p>{item.name}</p>
-          //   </span>
-          //   </button>
-
-          //   </div>
-          // </div>
         ))}
       </div>
     );
@@ -222,50 +157,39 @@ const Sets = () => {
             </span>
           </Button>
         </div>
-        {/* <div className="flex  w-full justify-center relative mb-5 z-10"
-          style={{
-            transition: 'transform 0.5s ease-in-out',
-            transform: !show ? 'translateY(0%)' : 'translateY(100%)', // Adjust -100% as needed
-          }}
-        >
-          <Button size="lg" className={`${name == 'radicals' ? 'bg-macaw  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('radicals')} size="lg" className={`${name == 'radicals' ? 'bg-macaw' : 'bg-bg border-2 text-macaw'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 -mt-1`}>
-            <span>
-              Radicals
-            </span>
-          </Button>
-        </div> */}
-
-
-        {/* <div className="flex  w-full justify-center relative mb-5"
-          style={{
-            transition: 'transform 0.5s ease-in-out',
-            transform: !show ? 'translateY(0%)' : 'translateY(100%)', // Adjust -100% as needed
-          }}
-        >
-          <Button size="lg" className={`${name == 'wanikani' ? 'bg-pur  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('wanikani')} size="lg" className={`${name == 'wanikani' ? 'bg-pur' : 'bg-bg border-2 text-macaw'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 -mt-1`}>
-            <span>
-              wanikani
-            </span>
-          </Button>
-        </div> */}
-        {/* <div className="flex w-full justify-center relative my-5 z-10">
-          <Button size="lg" className={`${name == 'testSet' ? 'bg-accent3' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('testSet')} size="lg" className={`${name == 'testSet' ? '' : 'bg-bg border-2 text-macaw'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 -mt-1`}>
-            <span>
-              Test set
-            </span>
-          </Button>
-        </div> */}
       </div>
       <div className="w-full border-2 border-secondary">
-        </div>
+      </div>
+      <div className="w-full flex justify-center py-5">
 
-      
+          
+      <label class="inline-flex items-center cursor-pointer">
+        <span class="mx-3 text-sm font-medium text-gray-900 dark:text-gray-300">Kanji</span>
+        <input type="checkbox" value="" class="sr-only peer"/>
+        <div class="relative
+        w-36 h-11 bg-gray-200 border-b-8 border-gray-300 after:mt-1
+          rounded-full peer peer-checked:after:translate-x-28 
+           peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[4px]
+          after:bg-white after:border-gray-300 after:border after:rounded-full 
+          after:h-7 after:w-7 after:transition-all peer-checked:border-b-8 peer-checked:border-macaw/70 
+    
+            peer-checked:bg-macaw ">
+              {/* <div className="absolute ">
+                <div className="h-14 w-40 bg-secondary rounded-full">
+
+                </div>
+
+              </div> */}
+            </div>
+          
+        <span class="mx-3 text-sm font-medium text-gray-900 dark:text-gray-300">Grammar</span>
+      </label>
+
+      </div>
+      <div className="w-full border-2 border-secondary">
+      </div>
 
       <div className="flex w-full py-10">
-        
       <div
       
       className={` w-full`}>

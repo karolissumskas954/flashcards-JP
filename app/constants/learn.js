@@ -1783,41 +1783,41 @@ export const grammar = [
 
         ]
     },
-    {
-        lesson : 19,
-        book: 'N5',
-        name: '',
-        ex: '',
-        examples: [
-            {
-                style: 'table',
-                headings:[{heading: ""}, {heading: ""}],
-                content:[
-                    {
-                        sen: "",
-                        tran: "",
+    // {
+    //     lesson : 19,
+    //     book: 'N5',
+    //     name: '',
+    //     ex: '',
+    //     examples: [
+    //         {
+    //             style: 'table',
+    //             headings:[{heading: ""}, {heading: ""}],
+    //             content:[
+    //                 {
+    //                     sen: "",
+    //                     tran: "",
 
-                        sen1: "",
-                        tran2: "",
-                    },
-                ]
-            },
+    //                     sen1: "",
+    //                     tran2: "",
+    //                 },
+    //             ]
+    //         },
 
-        ]
-    },
-    {
-        lesson : 19,
-        book: 'N5',
-        name: '',
-        ex: '',
-        examples: [
-            {
-                explanation: '',
-                example: '',
-                translation: "",
-                note: '',
-            },
+    //     ]
+    // },
+    // {
+    //     lesson : 19,
+    //     book: 'N5',
+    //     name: '',
+    //     ex: '',
+    //     examples: [
+    //         {
+    //             explanation: '',
+    //             example: '',
+    //             translation: "",
+    //             note: '',
+    //         },
 
-        ]
-    },
+    //     ]
+    // },
 ]
