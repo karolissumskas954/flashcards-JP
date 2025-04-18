@@ -1678,7 +1678,7 @@ export const grammar = [
     {
         lesson : 25,
         book: 'N5',
-        name: 'Plain pas form ら、',
+        name: 'Plain past form ら、',
         ex: 'If...',
         examples: [
             {

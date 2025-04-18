@@ -154,10 +154,10 @@ const Learn = () => {
                 {example.explanation && <p className=" text-black text-[24px] font-bold">{example.explanation}</p>}
                 <div className="flex flex-row justify-between">
                   <div className="flex items-start">
-                    <p className={`${showText == true ? 'text-black' : 'text-white'}  text-[22px]  pl-6`}>{example.example}</p>
+                    <p className={` text-[22px] text-black  pl-6`}>{example.example}</p>
                   </div>
                 </div>
-                <p className="italic text-black mt-[-10px] pl-6 text-[22px]">{example.translation}</p>
+                <p className={`${showText == true ? '' : 'invisible'}  italic text-black mt-[-10px] pl-6 text-[22px]`}>{example.translation}</p>
                 {example.note && <p className="text-black text-[20px]">{example.note}</p>}
               </div>)
               
@@ -174,7 +174,7 @@ const Learn = () => {
 
           </div>
           <div className="absolute bottom-2 left-2">
-          {/* <div className="flex justify-center items-center" onClick={handleCircleClick}>
+          <div className="flex justify-center items-center" onClick={handleCircleClick}>
                     <div className={`
                                 ${name == 'testSet'
                                   ? 'bg-accent'
@@ -208,7 +208,7 @@ const Learn = () => {
                                </div>
 
                                </div>
-                  </div> */}
+                  </div>
 
 
           </div>

@@ -63,17 +63,17 @@ const Sets = () => {
         {grammar.map((item, index) => (
           <React.Fragment key={index}>
             {item.lesson > currentLesson ?
-              <div className="col-span-2 border-b py-2 mb-2 text-center font-semibold">
+              <div className="col-span-2 border-b border-eel py-2 mb-2 text-center font-semibold text-eel text-[16px]">
                 Lesson {item.lesson}
               </div>
               :
-              <div>
-
+              <div className="absolute">
+                
               </div>
             }
 
 
-      <div className="flex  w-full justify-center relative mb-5 gap-5"
+      <div className="flex col-span-1  w-full justify-center relative mb-5 gap-5"
         
         style={{
           transition: 'transform 0.5s ease-in-out',
@@ -114,9 +114,9 @@ const Sets = () => {
                 ) + ' text-white -mt-1' : ' bg-bg border-2 text-macaw -mt-2'}
           
           
-          h-[100px] transition duration-700 ease-in-out opacity  uppercase flex items-center w-full absolute inset-0  `}>
+          h-[100px] transition duration-700 ease-in-out opacity  flex items-center w-full absolute inset-0  `}>
           <span className="text-wrap">
-          <p className="">{item.name}</p>
+          <p className="text-[26px]">{item.name}</p>
           {/* <p className="">{item.kun}</p>
           <p className="">{item.meaning}</p> */}
           <div className="absolute invisible">
