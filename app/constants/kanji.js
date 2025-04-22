@@ -2,99 +2,99 @@ export const minaN5 = [
   {
     char: '1日',
     meaning: '1 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ついたち',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '２日',
     meaning: '2 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ふつか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '３日',
     meaning: '3 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'みっか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '４日',
     meaning: '4 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'よっか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '５日',
     meaning: '5 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'いつか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '６日',
     meaning: '6 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'むいか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '７日',
     meaning: '7 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'なのか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '８日',
     meaning: '8 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ようか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '９日',
     meaning: '9 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ここのか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '１０日',
     meaning: '10 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'とおか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '２０日',
     meaning: '20 day',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'はつか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'だいたい',
     meaning: 'Mostly, roughly',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   
@@ -105,10 +105,10 @@ export const minaN5 = [
   {
     char: '狭い',
     meaning: 'Narrow, small',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'せまい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
  
  
@@ -118,28 +118,28 @@ export const minaN5 = [
   {
     char: 'とても',
     meaning: 'very',
-    type: '',
+    lesson: '1',
     kun: 'とても',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'たくさん',
     meaning: 'Many much',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
  
  
   {
     char: '細かい',
     meaning: 'small; detailed',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'こまかい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
 
@@ -150,19 +150,19 @@ export const minaN5 = [
   {
     char: '軽い',
     meaning: 'light (not heavy)',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'かるい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '住所',
     meaning: 'Address',
-    type: '',
+    lesson: '1',
     kun: 'じゅうしょ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -170,53 +170,53 @@ export const minaN5 = [
   {
     char: '時刻表',
     meaning: 'Timetable',
-    type: '',
+    lesson: '1',
     kun: 'じこくひょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '短い',
     meaning: 'Short',
-    type: '',
+    lesson: '1',
     kun: 'みじかい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '明るい',
     meaning: 'Bright, Light',
-    type: '',
+    lesson: '1',
     kun: 'あかるい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '暗い',
     meaning: 'Dark',
-    type: '',
+    lesson: '1',
     kun: 'くらい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '頭',
     meaning: 'Head, brain',
-    type: '',
+    lesson: '1',
     kun: 'あたま',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '顔',
     meaning: 'Face',
-    type: '',
+    lesson: '1',
     kun: 'かお',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -226,10 +226,10 @@ export const minaN5 = [
   {
     char: '返す',
     meaning: 'Give back, return',
-    type: '',
+    lesson: '1',
     kun: 'かえす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -237,10 +237,10 @@ export const minaN5 = [
   {
     char: '出張する',
     meaning: 'Go on business trip',
-    type: '',
+    lesson: '1',
     kun: 'しゅっちょうする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -249,10 +249,10 @@ export const minaN5 = [
   {
     char: '健康保険証',
     meaning: '「Health」Insurance card',
-    type: '',
+    lesson: '1',
     kun: '「けんこう」ほけんしょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -263,18 +263,18 @@ export const minaN5 = [
   {
     char: '換える',
     meaning: 'Exchange, change',
-    type: '',
+    lesson: '1',
     kun: 'かえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '運転する',
     meaning: 'Drive',
-    type: '',
+    lesson: '1',
     kun: 'うんてんする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -285,10 +285,10 @@ export const minaN5 = [
   {
     char: '動物',
     meaning: 'Animal',
-    type: '',
+    lesson: '1',
     kun: 'どうぶつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -297,633 +297,633 @@ export const minaN5 = [
   {
     char: '投げる',
     meaning: 'Throw',
-    type: '',
+    lesson: '1',
     kun: 'なげる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '掃除する',
     meaning: 'Clean (a room)',
-    type: '',
+    lesson: '1',
     kun: 'そうじする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '洗濯する',
     meaning: 'Wash (Clothes)',
-    type: '',
+    lesson: '1',
     kun: 'せんたくする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '成る',
     meaning: 'Become',
-    type: '',
+    lesson: '1',
     kun: 'なる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '調子',
     meaning: 'Condition',
-    type: '',
+    lesson: '1',
     kun: 'ちょうし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '無料',
     meaning: 'Excessive, Impossible',
-    type: '',
+    lesson: '1',
     kun: 'むり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
  
   {
     char: '調べる',
     meaning: 'Check, investigate',
-    type: '',
+    lesson: '1',
     kun: 'しらべる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '修理する',
     meaning: 'Repair',
-    type: '',
+    lesson: '1',
     kun: 'しゅうりする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '役に立つ',
     meaning: 'Be useful',
-    type: '',
+    lesson: '1',
     kun: 'やくにたつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '気をつける',
     meaning: 'Pay attention, take care',
-    type: '',
+    lesson: '1',
     kun: 'きをつける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '不便',
     meaning: 'Inconvenient',
-    type: '',
+    lesson: '1',
     kun: 'ふべん「な」',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'ほんとう',
     meaning: 'True',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '交通',
     meaning: 'Transport, traffic',
-    type: '',
+    lesson: '1',
     kun: 'こうつう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '物価',
     meaning: '[Commodity] Prices',
-    type: '',
+    lesson: '1',
     kun: 'ぶっか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '放送',
     meaning: 'Anouncement, broadcast',
-    type: '',
+    lesson: '1',
     kun: 'ほうそう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '試合',
     meaning: 'Game, mach',
-    type: '',
+    lesson: '1',
     kun: 'しあい　～をします',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '意見',
     meaning: 'Opinion',
-    type: '',
+    lesson: '1',
     kun: 'いけん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '地球',
     meaning: 'Earth',
-    type: '',
+    lesson: '1',
     kun: 'ちきゅう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '最近',
     meaning: 'Recently, these days',
-    type: '',
+    lesson: '1',
     kun: 'さいきん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'たぶん',
     meaning: 'Probably, perhaps, maybe',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'きっと',
     meaning: 'Surely, definitely',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ほんとうに',
     meaning: 'Really',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: 'もちろん',
     meaning: 'Of course',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'うそ',
     meaning: 'Lie',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '着る',
     meaning: 'Put on (a shirt, etc.)',
-    type: '',
+    lesson: '1',
     kun: 'きる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '履く',
     meaning: 'Put on (a shoes, trousers, etc.)',
-    type: '',
+    lesson: '1',
     kun: 'はく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '被る',
     meaning: 'Put on (a hat, etc.)',
-    type: '',
+    lesson: '1',
     kun: 'かぶる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '掛ける',
     meaning: 'Put on [Glasees]',
-    type: '',
+    lesson: '1',
     kun: '[眼鏡を] ~ かける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '帽子',
     meaning: 'Hat',
-    type: '',
+    lesson: '1',
     kun: 'ぼうし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '眼鏡',
     meaning: 'Glasses',
-    type: '',
+    lesson: '1',
     kun: 'めがね',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '都合',
     meaning: 'Convenience',
-    type: '',
+    lesson: '1',
     kun: 'つごう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'よく',
     meaning: 'Often',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '聞く',
     meaning: 'Ask [The teacher]',
-    type: '',
+    lesson: '1',
     kun: '[先生に] ~ きく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '回す',
     meaning: 'Turn (Rotate)',
-    type: '',
+    lesson: '1',
     kun: 'まわす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '変える',
     meaning: 'Change',
-    type: '',
+    lesson: '1',
     kun: 'かえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '触る',
     meaning: 'Touch [a door]',
-    type: '',
+    lesson: '1',
     kun: '[ドアに] ~ さわる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '出る',
     meaning: '[change] come out',
-    type: '',
+    lesson: '1',
     kun: '[お釣りが] ~ でる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '渡る',
     meaning: 'Cross [a bridge]',
-    type: '',
+    lesson: '1',
     kun: '[橋を] ~ わたる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '曲がる',
     meaning: 'Turn [to the right]',
-    type: '',
+    lesson: '1',
     kun: '[右へ] ~ まがる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '寂しい',
     meaning: 'Lonely',
-    type: '',
+    lesson: '1',
     kun: 'さびしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '音',
     meaning: 'Sound',
-    type: '',
+    lesson: '1',
     kun: 'おと',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '故障',
     meaning: 'breakdown (~します: break down)',
-    type: '',
+    lesson: '1',
     kun: 'こしょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '道',
     meaning: 'Road, way',
-    type: '',
+    lesson: '1',
     kun: 'みち',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '車道',
     meaning: 'Road',
-    type: '',
+    lesson: '1',
     kun: 'しゃどう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '通り',
     meaning: 'Street',
-    type: '',
+    lesson: '1',
     kun: 'とおり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '交差点',
     meaning: 'Crossroad',
-    type: '',
+    lesson: '1',
     kun: 'こうさてん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '信号',
     meaning: 'Traffic lights',
-    type: '',
+    lesson: '1',
     kun: 'しんごう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '角',
     meaning: 'Corner',
-    type: '',
+    lesson: '1',
     kun: 'かど',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '橋',
     meaning: 'Bridge',
-    type: '',
+    lesson: '1',
     kun: 'はし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '駐車場',
     meaning: 'Car park, parking lot',
-    type: '',
+    lesson: '1',
     kun: 'ちゅうしゃじょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '建物',
     meaning: 'Building',
-    type: '',
+    lesson: '1',
     kun: 'たてもの',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'くれる',
     meaning: 'Give (me)',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '直す',
     meaning: 'Repair, correct',
-    type: '',
+    lesson: '1',
     kun: 'なおす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '連れて行く',
     meaning: 'Take (someone)',
-    type: '',
+    lesson: '1',
     kun: 'つれていく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '連れて来る',
     meaning: 'bring (someone)',
-    type: '',
+    lesson: '1',
     kun: 'つれてくる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '送る',
     meaning: 'escort [someone], go with',
-    type: '',
+    lesson: '1',
     kun: '[人を] ~ おくる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '紹介する',
     meaning: 'Introduce',
-    type: '',
+    lesson: '1',
     kun: 'しょうかいする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '案内する',
     meaning: 'show around, show the way',
-    type: '',
+    lesson: '1',
     kun: 'あんないする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '説明する',
     meaning: 'Explain',
-    type: '',
+    lesson: '1',
     kun: 'せつめいする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '準備',
     meaning: 'Preparation (~[を] します: Prepare)',
-    type: '',
+    lesson: '1',
     kun: 'じゅんび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '引っ越し',
     meaning: 'Moving out (~[を] します: Move out)',
-    type: '',
+    lesson: '1',
     kun: 'ひっこし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '[お]菓子',
     meaning: 'Sweets, snacks',
-    type: '',
+    lesson: '1',
     kun: '[お]かし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '全部',
     meaning: 'All',
-    type: '',
+    lesson: '1',
     kun: 'ぜんぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '自分で',
     meaning: 'By oneself',
-    type: '',
+    lesson: '1',
     kun: 'じぶんで',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ほかに',
     meaning: 'Besides',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '教室',
     meaning: 'classroom',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' きょうしつ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '親切',
     meaning: 'Helpful, kind, considerate',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'しんせつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '生活',
     meaning: 'life; living​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' せいかつ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '考える',
     meaning: 'Think, consider',
-    type: '',
+    lesson: '1',
     kun: 'かんがえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '着く',
     meaning: 'Arrive',
-    type: '',
+    lesson: '1',
     kun: 'つく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '年を取る',
     meaning: 'Grow old',
-    type: '',
+    lesson: '1',
     kun: '[としを～]とる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '足りる',
     meaning: 'Be enough, be sufficient',
-    type: '',
+    lesson: '1',
     kun: 'たりる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '田舎',
     meaning: 'Countryside, hometown',
-    type: '',
+    lesson: '1',
     kun: 'いなか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '億',
     meaning: 'Hundred million',
-    type: '',
+    lesson: '1',
     kun: 'おく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'もし[たら～]',
     meaning: 'If',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '意味',
     meaning: 'Meaning',
-    type: '',
+    lesson: '1',
     kun: 'いみ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -934,3243 +934,3243 @@ export const minaN5 = [
     {
       char: '学生',
       meaning: 'student',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'がくせい',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '初めて',
       meaning: 'For the first time',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'はじめて',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '学校',
       meaning: 'school',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'がっこう',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '公園',
       meaning: 'Park',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'こうえん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '会社員',
       meaning: 'company employee',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' かいしゃいん ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '大学',
       meaning: 'university',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'だいがく',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '銀行員',
       meaning: 'bank employee',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' ぎんこういん ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '医者',
       meaning: 'doctor',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' いしゃ ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },　
     {
       char: '方',
       meaning: 'direction, way',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'かた',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '先生',
       meaning: 'teacher',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' せんせい ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '歳',
       meaning: '... years old',
-      type: 'Counter',
+      lesson: 'Counter',
       kun: 'さい',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '子',
       meaning: 'child',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'こ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '人',
       meaning: 'person',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ひと, じん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '時間',
       meaning: 'Time',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'じかん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: 'ー時間',
       meaning: 'ー hour(s)',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ーじかん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: 'ー週間',
       meaning: 'ー week(s)',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ーしゅうかん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: 'ーか月',
       meaning: 'ー month(s)',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ーかげつ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: 'ー年',
       meaning: 'ー year(s)',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ーねん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '何',
       meaning: 'what​',
-      type: 'Pronoun',
+      lesson: 'Pronoun',
       kun: 'なん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
   
     {
       char: '喫茶店',
       meaning: 'Cafe, coffee shop​',
-      type: '',
+      lesson: '1',
       kun: 'きっさてん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
 
     {
       char: '傘',
       meaning: 'umbrella',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' かさ ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '本',
       meaning: 'book',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' ほん ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '手帳',
       meaning: 'personal organiser',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'てちょう',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '名刺',
       meaning: 'business card​',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' めいし ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '雑誌',
       meaning: 'magazine',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ざっし',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '鞄',
       meaning: 'bag, briefcase',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'かばん',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '鍵',
       meaning: 'key​',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'かぎ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
 
     {
       char: 'お世話',
       meaning: 'help; aid',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'おせわ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '時計',
       meaning: 'clock; watch',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' とけい ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '鉛筆',
       meaning: 'pencil​',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' えんぴつ ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '机',
       meaning: 'desk​',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' つくえ ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: 'いす',
       meaning: 'chair; seat',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' いす ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: 'お土産',
       meaning: 'souvenir',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'おみやげ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '英語',
       meaning: 'English',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' えいご ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '映画',
       meaning: 'film, movie',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' えいが ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '近い',
       meaning: 'near; close',
-      type: 'I-adjective',
+      lesson: 'I-adjective',
       kun: 'ちかい',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '違います',
       meaning: 'No, it is not',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: 'ちがいます',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '食堂',
       meaning: 'dining room; cafeteria',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' しょくどう ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '会議室 ',
       meaning: 'conference room',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' かいぎしつ ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
     {
       char: '事務所',
       meaning: 'office​',
-      type: 'Noun',
+      lesson: 'Noun',
       kun: ' じむしょ ',
-      sentance: '',
-      translation: ''
+      level: 'N5',
+      include: 1
     },
    
   {
     char: '靴',
     meaning: 'shoes',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'くつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いくら',
     meaning: 'how much',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いちばん',
     meaning: 'The most',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '円',
     meaning: 'yen',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'えん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '売り場',
     meaning: 'department, counter',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' うりば ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '地下 ',
     meaning: 'basement',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ちか ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '見る',
     meaning: 'to see',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'みる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '階',
     meaning: 'story; floor',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'よく',
     meaning: 'Well, much',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'りんご',
     meaning: 'Apple',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'みかん',
     meaning: 'Mandarin orange',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '用品',
     meaning: 'things (for); goods',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ようひん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '紳士服',
     meaning: 'menswear​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しんしふく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '家具',
     meaning: 'furniture',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かぐ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '受付',
     meaning: 'reception (desk)',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' うけつけ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '自動販売機',
     meaning: 'vending machine',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' じどうはんばいき ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '車',
     meaning: 'car',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'くるま',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '電話 ',
     meaning: 'phone​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' でんわ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '電車 ',
     meaning: 'electric train',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' でんしゃ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '部屋',
     meaning: 'room​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'へや',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '家',
     meaning: 'house​​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'うち',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '電気',
     meaning: 'electricity​​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' でんき ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '時',
     meaning: "hour; o'clock​",
-    type: 'Suffix',
+    lesson: 'Suffix',
     kun: 'じ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '今',
     meaning: 'now',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'いま',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '分',
     meaning: 'minute',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ふん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '午前',
     meaning: 'morning; a.m',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ごぜん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '休み',
     meaning: 'rest; vacation',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' やすみ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '毎朝',
     meaning: 'every morning​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'まいあさ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '起きる',
     meaning: 'to get up​',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'おきる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '勉強',
     meaning: 'study​',
-    type: 'Noun, Suru verb',
+    lesson: 'Noun, Suru verb',
     kun: 'べんきょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '日曜日',
     meaning: 'Sunday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'にちようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '月曜日',
     meaning: 'Monday',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'げつようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '火曜日',
     meaning: 'Tuesday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '水曜日',
     meaning: 'Wednesday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'すいようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '木曜日',
     meaning: 'Thursday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'もくようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '金曜日',
     meaning: 'Friday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'きんようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '土曜日',
     meaning: 'Saturday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'どようび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '銀行',
     meaning: 'bank',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ぎんこう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'から;まで',
     meaning: 'From ; To',
-    type: '',
+    lesson: '1',
     kun: 'から;まで',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '毎晩',
     meaning: 'every night​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' まいばん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '寝る',
     meaning: 'to go to sleep',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'ねる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '毎日',
     meaning: 'every day​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' まいにち ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '午後',
     meaning: 'afternoon; p.m.​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ごご ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '働く',
     meaning: 'to work',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'はたらく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '番',
     meaning: 'number',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ばん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'かかります',
     meaning: 'Take, cost （Referring to time or momney）',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '試験',
     meaning: 'exam; test​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しけん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '県',
     meaning: 'Prefecture​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'けん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '会議',
     meaning: 'meeting; conference',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' かいぎ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'うしろ',
     meaning: 'Back, behind',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: '  ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '郵便局',
     meaning: 'post office​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ゆうびんきょく ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '図書館',
     meaning: 'library​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' としょかん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '昼',
     meaning: 'midday​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ひる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'あした',
     meaning: 'tomorrow',
-    type: '',
+    lesson: '1',
     kun: 'あした',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'きのう',
     meaning: 'yesterday',
-    type: '',
+    lesson: '1',
     kun: 'きのう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'あさって',
     meaning: 'The day after tomorrow',
-    type: '',
+    lesson: '1',
     kun: 'あさって',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'おととい',
     meaning: 'Day before yesterday',
-    type: '',
+    lesson: '1',
     kun: 'おととい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'きょう',
     meaning: 'today',
-    type: '',
+    lesson: '1',
     kun: 'きょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'けさ',
     meaning: 'this morning',
-    type: '',
+    lesson: '1',
     kun: 'けさ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '美術館',
     meaning: 'art museum; art gallery',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' びじゅつかん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '終わる',
     meaning: 'end',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'おわる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '行く',
     meaning: 'to go',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'いく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '帰る',
     meaning: 'to return',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'かえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '家族',
     meaning: 'family​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' かぞく ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '来る',
     meaning: 'to come',
-    type: 'Kuru verb',
+    lesson: 'Kuru verb',
     kun: 'くる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いつ',
     meaning: 'when',
-    type: '',
+    lesson: '1',
     kun: 'いつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '次の',
     meaning: 'next; following',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'つぎの',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '急行',
     meaning: 'rapid (train)​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' きゅうこう ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '特急',
     meaning: 'express (train)​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'とっきゅう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '先月',
     meaning: 'last month',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'せんげつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '来週',
     meaning: 'next week​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'らいしゅう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '飛行機',
     meaning: 'airplane',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ひこうき ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '船',
     meaning: 'ship; boat',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ふね',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '駅',
     meaning: 'train station​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'えき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '友達',
     meaning: 'friend',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ともだち ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '彼女',
     meaning: 'she; her',
-    type: 'Pronoun',
+    lesson: 'Pronoun',
     kun: ' かのじょ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '病院',
     meaning: 'hospital',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'びょういん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '読む',
     meaning: 'to read​',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'よむ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '新聞',
     meaning: 'newspaper​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しんぶん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '買う',
     meaning: 'to buy',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'かう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '飲む',
     meaning: 'to drink',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'のむ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '食べる',
     meaning: 'to eat​',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'たべる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '卵',
     meaning: 'eggs',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'たまご',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '会',
     meaning: 'meeting',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '川',
     meaning: 'River',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かわ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '会う',
     meaning: 'to meet',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'あう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '週末',
     meaning: 'Weekend',
-    type: '',
+    lesson: '1',
     kun: 'しゅうまつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いっしょに',
     meaning: 'together',
-    type: '',
+    lesson: '1',
     kun: 'いっしょに',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '聞く',
     meaning: 'to hear​',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'きく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '吸う',
     meaning: 'to smoke',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'すう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '写真',
     meaning: 'photograph',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しゃしん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '撮る',
     meaning: 'to take',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'とる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '庭',
     meaning: 'garden; yard',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'にわ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '牛乳',
     meaning: 'milk',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ぎゅうにゅう ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '野菜',
     meaning: 'vegetable',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'やさい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '宿題',
     meaning: 'homework',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しゅくだい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '書く',
     meaning: 'to write',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'かく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '切符',
     meaning: 'ticket​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'きっぷ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'もう',
     meaning: 'already',
-    type: '',
+    lesson: '1',
     kun: 'もう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'そして',
     meaning: 'and',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '外',
     meaning: 'Outside',
-    type: '',
+    lesson: '1',
     kun: 'そと',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ー台',
     meaning: 'Counter for mashines',
-    type: '',
+    lesson: '1',
     kun: 'ーだい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ー人',
     meaning: 'ーPeople',
-    type: '',
+    lesson: '1',
     kun: 'ーにん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'そうですか',
     meaning: 'I see',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'そうですね',
     meaning: 'Yes, it is',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いつも',
     meaning: 'Always, usually',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'それから',
     meaning: 'After that, and then',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～から',
     meaning: 'Because',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'これから',
     meaning: 'From now on, soon',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'わかりました',
     meaning: 'I see',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '紙',
     meaning: 'paper​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かみ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '果物',
     meaning: 'fruit',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' くだもの ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '時々',
     meaning: 'sometimes',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ときどき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '切る',
     meaning: 'to cut',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'きる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'する／します',
     meaning: 'Do, play',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'きれい',
     meaning: 'pretty; beautiful、Clean',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'きれい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '高い',
     meaning: 'tall; expensive',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'たかい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '賑やか',
     meaning: 'lively; bustling',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'にぎやか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '有名',
     meaning: 'famous',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: ' ゆうめい ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '寒い',
     meaning: 'cold (e.g. weather)',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'さむい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '寮',
     meaning: 'dormitory​​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'りょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   }, 
   {
     char: '古い',
     meaning: 'old',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'ふるい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },  
   {
     char: '便利',
     meaning: 'convenient',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'べんり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どんな',
     meaning: 'what kind　Of',
-    type: '',
+    lesson: '1',
     kun: 'どんな',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '大きい',
     meaning: 'big',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'おおきい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'おもしろい',
     meaning: 'Interesting',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'おもしろい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'おいしい',
     meaning: 'Delicious, tasty',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '楽しい',
     meaning: 'enjoyable; fun',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'たのしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'お仕事',
     meaning: 'work; job',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'おしごと',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '忙しい',
     meaning: 'busy; occupied',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'いそがしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '元気',
     meaning: 'Healthy, energetic, cheerful',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: ' げんき ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '暇',
     meaning: 'free time​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ひま',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '新しい',
     meaning: 'new',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'あたらしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '易しい',
     meaning: 'easy',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'やさしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '熱い、暑い',
     meaning: 'hot',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'あつい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いい',
     meaning: 'good',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'いい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '静か',
     meaning: 'quiet; silent​',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'しずか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '地下鉄',
     meaning: 'underground, subway',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ちかてつ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '新幹線',
     meaning: 'Shinkansen; bullet train​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しんかんせん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '食べ物',
     meaning: 'food​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'たべもの',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '町',
     meaning: 'town',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'まち',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '青い',
     meaning: 'blue',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'あおい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '冷たい',
     meaning: 'cold (to the touch)',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'つめたい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '赤い',
     meaning: 'red',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'あかい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '所',
     meaning: 'place',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ところ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '難しい',
     meaning: 'difficult; hard',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'むずかしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '料理',
     meaning: 'cooking',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' りょうり ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '少し',
     meaning: 'a little; a bit',
-    type: 'Adverb',
+    lesson: 'Adverb',
     kun: 'すこし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '少ない',
     meaning: 'Few, a little',
-    type: 'Adverb',
+    lesson: 'Adverb',
     kun: 'すくない',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'すてき',
     meaning: 'Fine, nice, wonderful',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '分かる',
     meaning: 'to understand',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'わかる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '子供',
     meaning: 'child',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' こども ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'はし',
     meaning: 'Chopsticks',
-    type: '',
+    lesson: '1',
     kun: '  ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '花',
     meaning: 'Flower',
-    type: '',
+    lesson: '1',
     kun: 'はな',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '早く、速く',
     meaning: 'early; quickly',
-    type: 'Adverb ',
+    lesson: 'Adverb ',
     kun: 'はやく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '黒い',
     meaning: 'Black',
-    type: 'Adverb ',
+    lesson: 'Adverb ',
     kun: 'くろい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '好き',
     meaning: 'liking; favourite',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'すき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '絵',
     meaning: 'picture',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'え',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '上手',
     meaning: 'skillful; good (at)',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: ' じょうず ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '全然',
     meaning: '(not) at all',
-    type: 'Adverb ',
+    lesson: 'Adverb ',
     kun: ' ぜんぜん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '彼',
     meaning: 'he; him​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かれ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '魚',
     meaning: 'fish​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'さかな',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '歌',
     meaning: 'song; singing​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'うた',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '下手',
     meaning: 'unskillful',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'へた',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '嫌い',
     meaning: 'disliked; hated',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: 'きらい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '箱',
     meaning: 'box',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'はこ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '水',
     meaning: 'Water',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'みず',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '手紙',
     meaning: 'letter; note​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' てがみ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '前',
     meaning: 'in front (of)',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'まえ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '白い',
     meaning: 'white​',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'しろい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '中',
     meaning: 'inside',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'なか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '下',
     meaning: 'below; down',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'した',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '猫',
     meaning: 'cat',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ねこ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '店',
     meaning: 'store; shop',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'みせ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '木',
     meaning: 'tree',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'き',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '冷蔵庫',
     meaning: 'refrigerator',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'れいぞうこ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '物',
     meaning: 'thing',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'もの',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '上',
     meaning: 'above; up​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'うえ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '右',
     meaning: 'right',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'みぎ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '左',
     meaning: 'Left',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ひだり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '自転車',
     meaning: 'bicycle; bike',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'じてんしゃ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '歩いて',
     meaning: 'on foot',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'あるいて',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いろいろ',
     meaning: 'Various',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '犬',
     meaning: 'dog',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'いぬ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '乗り場',
     meaning: 'bus stop; railway platform',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'のりば',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '象',
     meaning: 'elephant',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ぞう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '小さい',
     meaning: 'Small, little',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ちいさい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '電池',
     meaning: 'battery; cell​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'でんち',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '切手',
     meaning: 'stamp (postage)',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' きって ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '枚',
     meaning: 'counter for thin, flat objects',
-    type: 'Counter',
+    lesson: 'Counter',
     kun: 'まい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '全部で',
     meaning: 'In total',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ぜんぶで ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '兄弟',
     meaning: 'siblings',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' きょうだい ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '回',
     meaning: 'counter for occurrences',
-    type: 'Counter',
+    lesson: 'Counter',
     kun: 'かい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～ぐらい',
     meaning: 'about～',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どのぐらい',
     meaning: 'How long',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'まだ',
     meaning: 'not yet',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～だけ',
     meaning: 'only～',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '半',
     meaning: 'half',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'はん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '出',
     meaning: 'coming out; going out',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'で',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '封筒',
     meaning: 'envelope',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ふうとう ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '弟',
     meaning: 'younger brother',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'おとうと',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '音楽',
     meaning: 'Music',
     kun: 'おんがく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'お茶',
     meaning: 'Tea, green　ｔea',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'おちゃ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '雨',
     meaning: 'rain​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'あめ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '天気',
     meaning: 'weather',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'てんき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '外国',
     meaning: 'Foreign country',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'がいこく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ちょっと',
     meaning: 'A little while, a little bit',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '法',
     meaning: 'law',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ほう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '海',
     meaning: 'sea; ocean',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'うみ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '山',
     meaning: 'mountain; hill​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'やま',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '祭り',
     meaning: 'festival',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'まつり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '留学生',
     meaning: 'Foreign student',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'りゅうがくせい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '疲れ',
     meaning: 'tiredness; fatigue',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'つかれ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '空港',
     meaning: 'Airport',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'くうこう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '買い物する',
     meaning: 'Do shopping',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'かいものする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '食事する',
     meaning: 'Have a meal, dine',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しょくじする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'そちら',
     meaning: 'your place',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
  
   {
     char: '貸す',
     meaning: 'to lend',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'かす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '教える',
     meaning: 'to teach',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'おしえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
  
   {
     char: '借りる',
     meaning: 'to borrow',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'かりる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'かけます',
     meaning: 'To make',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '習う',
     meaning: 'to learn',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'ならう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どこ',
     meaning: 'where',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どこか',
     meaning: 'Somewhere, some place',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いくつ',
     meaning: 'How many',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'どちら',
     meaning: 'Which way, where／Which on of two things',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どちらも',
     meaning: 'Both',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '誕生日',
     meaning: 'birthday',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'たんじょうび',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: 'あげる',
     meaning: 'to give',
-    type: 'Ichidan verb',
+    lesson: 'Ichidan verb',
     kun: 'あげる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'もらう',
     meaning: 'to receive',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'もらう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '送る',
     meaning: 'to send',
-    type: 'Godan verb',
+    lesson: 'Godan verb',
     kun: 'おくる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'どうして',
     meaning: 'why',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どう',
     meaning: 'How',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～ごろ',
     meaning: 'About～(time)',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '用事',
     meaning: 'tasks; things to do',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' ようじ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '今度',
     meaning: 'next time',
-    type: 'Noun, Adverb',
+    lesson: 'Noun, Adverb',
     kun: ' こんど ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '一人で',
     meaning: 'alone; by oneself',
-    type: 'Expression',
+    lesson: 'Expression',
     kun: 'ひとりで',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '豚肉',
     meaning: 'Pork',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ぶたにく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'とり肉',
     meaning: 'Chicken',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'とりにく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '牛肉',
     meaning: 'Beef',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ぎゅうにく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '釣り',
     meaning: 'fishing',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'つり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '名前',
     meaning: 'Name',
-    type: '',
+    lesson: '1',
     kun: 'なまえ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'まっすぐ',
     meaning: 'Straight',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ゆっくり',
     meaning: 'Slowly',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '電話する',
     meaning: 'Phone',
-    type: '',
+    lesson: '1',
     kun: 'でんわする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '涼しい',
     meaning: 'cool; refreshing​',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'すずしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '暖／温かい',
     meaning: 'warm; mild',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'あたたかい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '服',
     meaning: 'Clothes',
-    type: '',
+    lesson: '1',
     kun: 'ふく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '地図',
     meaning: 'Map',
-    type: '',
+    lesson: '1',
     kun: 'ちず',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'もう少し',
     meaning: 'A little more',
-    type: '',
+    lesson: '1',
     kun: 'もうすこし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'もう～',
     meaning: '～More、Another ～',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'いかがですか',
     meaning: "Won't you have? Would you like to have?",
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '荷物',
     meaning: 'luggage',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'にもつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '高校',
     meaning: 'Senior high school',
-    type: '',
+    lesson: '1',
     kun: 'こうこう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '知りません',
     meaning: "I don't know",
-    type: '',
+    lesson: '1',
     kun: 'しりません',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～知っていますか',
     meaning: 'Do you know？',
-    type: '',
+    lesson: '1',
     kun: 'しっていますか',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '知る',
     meaning: 'Get to know',
-    type: '',
+    lesson: '1',
     kun: 'しる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '取る',
     meaning: 'Take, pass',
-    type: '',
+    lesson: '1',
     kun: 'とる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '浴びる',
     meaning: 'Take [shower]',
-    type: '',
+    lesson: '1',
     kun: 'あぼり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'や「など」',
     meaning: '～、～、And so on',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～が、～',
     meaning: '～、But ～',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'おふろ',
     meaning: 'Bath',
-    type: '',
+    lesson: '1',
     kun: 'おふろ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '１人',
     meaning: '１Person',
-    type: '',
+    lesson: '1',
     kun: 'ひとり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '２人',
     meaning: '２Poeple',
-    type: '',
+    lesson: '1',
     kun: 'ふたり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '研究者 ',
     meaning: 'researcher​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' けんきゅうしゃ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: '辞書',
     meaning: 'dictionary',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' じしょ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: '悪い',
     meaning: 'Bad',
-    type: '',
+    lesson: '1',
     kun: 'わるい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '手伝う',
     meaning: 'Help （With task）',
-    type: '',
+    lesson: '1',
     kun: 'てつだう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '呼ぶ',
     meaning: 'Call',
-    type: '',
+    lesson: '1',
     kun: 'よぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
     
   {
     char: 'どうぞ',
     meaning: 'Here you are. (Used when offering something)',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: 'どうも',
     meaning: 'thanks',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～方',
     meaning: 'How to ～、Way of ~',
-    type: '',
+    lesson: '1',
     kun: '～かた',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '見せる',
     meaning: 'Show',
-    type: '',
+    lesson: '1',
     kun: 'みせる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '広い',
     meaning: 'Wide, spacious',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ひろい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '入る',
     meaning: 'Enter',
-    type: '',
+    lesson: '1',
     kun: 'はいる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: '歯医者',
     meaning: 'Dentist',
-    type: '',
+    lesson: '1',
     kun: 'はいしゃ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '残念',
     meaning: 'regrettable',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: ' ざんねん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '出ます',
     meaning: 'Take out, hand in',
-    type: '',
+    lesson: '1',
     kun: 'でます',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '甘い',
     meaning: 'sweet-tasting; sweet',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'あまい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '旅行',
     meaning: 'travel; trip',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' りょこう ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '欲しい',
     meaning: 'wanting (to have)',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'ほしい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '少々',
     meaning: 'just a minute',
-    type: 'Adverb',
+    lesson: 'Adverb',
     kun: ' しょうしょう ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '研究する',
     meaning: 'Do research',
-    type: '',
+    lesson: '1',
     kun: 'けんきゅうする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '曇り',
     meaning: 'cloudiness; cloudy weather',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'くもり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '目',
     meaning: 'Eye',
-    type: '',
+    lesson: '1',
     kun: 'め',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '耳',
     meaning: 'Ear',
-    type: '',
+    lesson: '1',
     kun: 'みみ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '鼻',
     meaning: 'Nose',
-    type: '',
+    lesson: '1',
     kun: 'はな',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '口',
     meaning: 'Mouth',
-    type: '',
+    lesson: '1',
     kun: 'くち',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '歯',
     meaning: 'Tooth',
-    type: '',
+    lesson: '1',
     kun: 'は',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'おなか',
     meaning: 'Stomach',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '足',
     meaning: 'Foot',
-    type: '',
+    lesson: '1',
     kun: 'あし',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '泳ぐ',
     meaning: 'swim​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'およぐ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どうやって',
     meaning: 'In what way, how',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '出かける',
     meaning: 'Go out',
-    type: '',
+    lesson: '1',
     kun: 'でかける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '危ない',
     meaning: 'Dangerous',
-    type: '',
+    lesson: '1',
     kun: 'あぶない',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '大丈夫',
     meaning: 'All right',
-    type: '',
+    lesson: '1',
     kun: 'だいじょうぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '熱',
     meaning: 'Temperature, fever',
-    type: '',
+    lesson: '1',
     kun: 'ねつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '病気',
     meaning: 'Ilness, disease',
-    type: '',
+    lesson: '1',
     kun: 'びょうき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '薬',
     meaning: 'Medicine',
-    type: '',
+    lesson: '1',
     kun: 'くすり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～までに',
     meaning: 'Before～,by～(Indicates time limit)',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ですから',
     meaning: 'Therefore, so',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'できます',
     meaning: 'Be able to, can',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '弾く',
     meaning: 'Play(Instrument)',
-    type: '',
+    lesson: '1',
     kun: 'ひく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },  
   {
     char: '歌う',
     meaning: 'Sing',
-    type: '',
+    lesson: '1',
     kun: 'うたう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ぜび',
     meaning: 'Expression of hope',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '馬',
     meaning: 'Horse',
-    type: '',
+    lesson: '1',
     kun: 'うま',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'お祈り',
     meaning: 'Prayer',
-    type: '',
+    lesson: '1',
     kun: 'おいのり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '引く',
     meaning: 'Pull',
-    type: '',
+    lesson: '1',
     kun: 'ひく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '留学する',
     meaning: 'Study abroad',
-    type: '',
+    lesson: '1',
     kun: 'りゅうがくする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '月',
     meaning: 'Moon',
-    type: '',
+    lesson: '1',
     kun: 'つき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～けど',
     meaning: '～But、Replacement for が',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '話す',
     meaning: 'Speak, talk',
-    type: '',
+    lesson: '1',
     kun: 'はなす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '降る',
     meaning: 'Rain',
-    type: '',
+    lesson: '1',
     kun: 'ふる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '１つ',
     meaning: '１',
-    type: '',
+    lesson: '1',
     kun: 'ひとつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '２つ',
     meaning: '２',
-    type: '',
+    lesson: '1',
     kun: 'ふたつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '３つ',
     meaning: '３',
-    type: '',
+    lesson: '1',
     kun: 'みっつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '４つ',
     meaning: '４',
-    type: '',
+    lesson: '1',
     kun: 'よっつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '５つ',
     meaning: '５',
-    type: '',
+    lesson: '1',
     kun: 'いつつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '６つ',
     meaning: '６',
-    type: '',
+    lesson: '1',
     kun: 'むっつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '７つ',
     meaning: '７',
-    type: '',
+    lesson: '1',
     kun: 'ななつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '８つ',
     meaning: '８',
-    type: '',
+    lesson: '1',
     kun: 'やっつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '９つ',
     meaning: '９',
-    type: '',
+    lesson: '1',
     kun: 'ここのつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '１０つ',
     meaning: '１０',
-    type: '',
+    lesson: '1',
     kun: 'とお',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '塩',
     meaning: 'Salt',
-    type: '',
+    lesson: '1',
     kun: 'しお',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '砂糖',
     meaning: 'Sugar',
-    type: '',
+    lesson: '1',
     kun: 'さとう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '冬',
     meaning: 'Winter',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ふゆ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '雪',
     meaning: 'Snow',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'ゆき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '多い',
     meaning: 'many; a lot​',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'おおい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '売る',
     meaning: 'Sell',
-    type: '',
+    lesson: '1',
     kun: 'うる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '見学する',
     meaning: 'Tour, visit a place to study in',
-    type: '',
+    lesson: '1',
     kun: 'けんがくする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '乗る',
     meaning: 'Ride, get on [train]',
-    type: '',
+    lesson: '1',
     kun: 'のる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '降りる',
     meaning: 'Get off [train]',
-    type: '',
+    lesson: '1',
     kun: 'おりる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '乗り換える',
     meaning: 'change [train]',
-    type: '',
+    lesson: '1',
     kun: 'のりかえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '重い',
     meaning: 'heavy; weighty',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'おもい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '低い',
     meaning: 'Low',
-    type: 'Noun, Adverb',
+    lesson: 'Noun, Adverb',
     kun: ' ひくい ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '夏',
     meaning: 'summer',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'なつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '始める',
     meaning: 'Start, begin',
-    type: '',
+    lesson: '1',
     kun: 'はじめる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: 'どの～',
     meaning: 'Which～（Used for three or more）',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'どれ',
     meaning: 'Which one（Of three or more things）',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '背',
     meaning: 'Height',
-    type: '',
+    lesson: '1',
     kun: 'せ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '緑',
     meaning: 'Green',
-    type: '',
+    lesson: '1',
     kun: 'みどり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '別々',
     meaning: 'separate',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' べつべつ ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '禁煙',
     meaning: 'No smoking',
-    type: '',
+    lesson: '1',
     kun: 'きんえん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '入れる',
     meaning: 'Put in, insert',
-    type: '',
+    lesson: '1',
     kun: 'いれる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '押す',
     meaning: 'Push, press',
-    type: '',
+    lesson: '1',
     kun: 'おす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'だれ／誰',
     meaning: 'who?',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '遊ぶ',
     meaning: 'Enjoy oneself, play',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'あそぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '上着',
     meaning: 'Jacket, outerwear',
-    type: '',
+    lesson: '1',
     kun: 'うわぎ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '下着',
     meaning: 'Underwear',
-    type: '',
+    lesson: '1',
     kun: 'したぎ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '洗う',
     meaning: 'Wash',
-    type: '',
+    lesson: '1',
     kun: 'あらう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '天才',
     meaning: 'Genius',
-    type: '',
+    lesson: '1',
     kun: 'てんさい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '日記',
     meaning: 'Diary',
-    type: '',
+    lesson: '1',
     kun: 'にっき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '飛ぶ',
     meaning: 'Fly',
-    type: '',
+    lesson: '1',
     kun: 'とぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '跳ぶ',
     meaning: 'Jump',
-    type: '',
+    lesson: '1',
     kun: 'とぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '登る',
     meaning: 'Climb',
-    type: '',
+    lesson: '1',
     kun: 'のぼる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '走る',
     meaning: 'Run',
-    type: '',
+    lesson: '1',
     kun: 'はしる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '潜る',
     meaning: 'Dive',
-    type: '',
+    lesson: '1',
     kun: 'もぐる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '這う',
     meaning: 'Crawl',
-    type: '',
+    lesson: '1',
     kun: 'はう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ける',
     meaning: 'Kick',
-    type: '',
+    lesson: '1',
     kun: 'ける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '振る',
     meaning: 'Wave',
-    type: '',
+    lesson: '1',
     kun: 'ふる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '持ち上げる',
     meaning: 'Lift',
-    type: '',
+    lesson: '1',
     kun: 'もちあげる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '迎える',
     meaning: 'Go to meet, welcome, greeting',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'むかえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -4179,166 +4179,166 @@ export const minaN5 = [
   {
     char: '点ける',
     meaning: 'Turn on',
-    type: '',
+    lesson: '1',
     kun: 'つける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '消す',
     meaning: 'Turn off',
-    type: '',
+    lesson: '1',
     kun: 'けす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '開ける',
     meaning: 'Open',
-    type: '',
+    lesson: '1',
     kun: 'あける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '閉める',
     meaning: 'Close, shut',
-    type: '',
+    lesson: '1',
     kun: 'しめる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '急ぐ',
     meaning: 'Hurry',
-    type: '',
+    lesson: '1',
     kun: 'いそぐ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '待つ',
     meaning: 'Wait',
-    type: '',
+    lesson: '1',
     kun: 'まつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '持つ',
     meaning: 'Hold',
-    type: '',
+    lesson: '1',
     kun: 'もつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '使う',
     meaning: 'Use',
-    type: '',
+    lesson: '1',
     kun: 'つかう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '止める',
     meaning: 'Stop, park',
-    type: '',
+    lesson: '1',
     kun: 'とめる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '座る',
     meaning: 'Sit down',
-    type: '',
+    lesson: '1',
     kun: 'すわる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '立つ',
     meaning: 'Stand up',
-    type: '',
+    lesson: '1',
     kun: 'たつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'あまり',
     meaning: 'not much​',
-    type: '',
+    lesson: '1',
     kun: 'あまり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   }, 
   {
     char: '振り向く',
     meaning: 'Look back',
-    type: '',
+    lesson: '1',
     kun: 'ふりむく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '置く',
     meaning: 'Put',
-    type: '',
+    lesson: '1',
     kun: 'おく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '作る、造る',
     meaning: 'Make, Produce',
-    type: '',
+    lesson: '1',
     kun: 'つくる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '住む',
     meaning: 'Be Living',
-    type: '',
+    lesson: '1',
     kun: 'すむ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '遠い',
     meaning: 'Far',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'とおい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '遅い',
     meaning: 'Slow, late',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'おそい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: 'はがき',
     meaning: 'Postcard',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '約束',
     meaning: 'promise',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' やくそく ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
 
@@ -4346,419 +4346,419 @@ export const minaN5 = [
   {
     char: '棚',
     meaning: 'Shelf​',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'たな',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '簡単',
     meaning: 'simple; easy',
-    type: 'Na-adjective',
+    lesson: 'Na-adjective',
     kun: ' かんたん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '辛い',
     meaning: 'spicy; hot​',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'からい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: '窓',
     meaning: 'Window',
-    type: 'I-adjective',
+    lesson: 'I-adjective',
     kun: 'まど',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '体',
     meaning: 'Body, Health',
-    type: '',
+    lesson: '1',
     kun: 'からだ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '忘れる',
     meaning: 'Forget',
-    type: '',
+    lesson: '1',
     kun: 'わすれる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '無くす',
     meaning: 'Lose (something)',
-    type: '',
+    lesson: '1',
     kun: 'なくす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '払う',
     meaning: 'Pay',
-    type: '',
+    lesson: '1',
     kun: 'はらう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '脱ぐ',
     meaning: 'Take off (Clothes, shoes)',
-    type: '',
+    lesson: '1',
     kun: 'ぬぐ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '持って行く',
     meaning: 'Take (something)',
-    type: '',
+    lesson: '1',
     kun: 'もっていく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '持って来る',
     meaning: 'Bring (something)',
-    type: '',
+    lesson: '1',
     kun: 'もってくる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '間',
     meaning: 'Between, among​',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'あいだ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '曲げる',
     meaning: 'Bend',
-    type: '',
+    lesson: '1',
     kun: 'まげる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '伸ばす',
     meaning: 'Extend',
-    type: '',
+    lesson: '1',
     kun: 'のばす',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '転ぶ',
     meaning: 'Fall down',
-    type: '',
+    lesson: '1',
     kun: 'ころぶ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '泊まる',
     meaning: 'To stay at (Hotel)',
-    type: '',
+    lesson: '1',
     kun: 'とまる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '[お]湯',
     meaning: 'Hot water',
-    type: '',
+    lesson: '1',
     kun: '[お]ゆ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '動く',
     meaning: 'Move, work',
-    type: '',
+    lesson: '1',
     kun: 'うごく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '会社をやめる',
     meaning: 'Quit or retire from company',
-    type: '',
+    lesson: '1',
     kun: 'かいしゃをやめる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '階段',
     meaning: 'staircase',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: ' かいだん ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: '大変',
     meaning: 'Hard, tough, severe, awful',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'たいへん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'よかったら',
     meaning: 'If you like',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '思う',
     meaning: 'Think',
-    type: '',
+    lesson: '1',
     kun: 'おもう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '言う',
     meaning: 'Say',
-    type: '',
+    lesson: '1',
     kun: 'いう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '勝つ',
     meaning: 'To Win',
-    type: '',
+    lesson: '1',
     kun: 'かつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '負ける',
     meaning: 'To lose, be beaten',
-    type: '',
+    lesson: '1',
     kun: 'まける',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '何回も',
     meaning: 'Many times',
-    type: '',
+    lesson: '1',
     kun: 'なんかいも',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ー目',
     meaning: 'the-th (indicating order)',
-    type: '',
+    lesson: '1',
     kun: 'ーめ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '眠い',
     meaning: 'Sleepy',
-    type: '',
+    lesson: '1',
     kun: 'ねむい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '強い',
     meaning: 'Strong',
-    type: '',
+    lesson: '1',
     kun: 'つよい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '弱い',
     meaning: 'Weak',
-    type: '',
+    lesson: '1',
     kun: 'よわい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '練習',
     meaning: 'Practice',
-    type: '',
+    lesson: '1',
     kun: 'れんしゅう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'むだ',
     meaning: 'Wasteful',
-    type: '',
+    lesson: '1',
     kun: 'むだ「な」',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'もうすぐ',
     meaning: 'Soon',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '歩く',
     meaning: 'Walk',
-    type: '',
+    lesson: '1',
     kun: 'あるく',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '隣',
     meaning: 'Next, next door',
-    type: '',
+    lesson: '1',
     kun: 'となり',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '季節',
     meaning: 'Season',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'きせつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '春',
     meaning: 'Spring',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'はる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '秋',
     meaning: 'Autumn, fall',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'あき',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'ずっと',
     meaning: 'By far',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '散歩する',
     meaning: 'Take a walk',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'さんぽする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '失礼',
     meaning: 'rude',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'しつれい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '要る',
     meaning: 'Need, require',
-    type: '',
+    lesson: '1',
     kun: 'いる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '特に',
     meaning: 'Especially',
-    type: '',
+    lesson: '1',
     kun: 'とくに',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'でも',
     meaning: 'But',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '両親',
     meaning: 'parents',
-    type: 'Noun',
+    lesson: 'Noun',
     kun: 'りょうしん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '問題',
     meaning: 'Question, problem, trouble',
-    type: '',
+    lesson: '1',
     kun: 'もんだい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '答え',
     meaning: 'Answer',
-    type: '',
+    lesson: '1',
     kun: 'こたえ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
   {
     char: 'すぐ',
     meaning: 'Immediately',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'また',
     meaning: 'Again',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'あとで',
     meaning: 'Later',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
 
@@ -4766,213 +4766,213 @@ export const minaN5 = [
   {
     char: '資料',
     meaning: 'Materials, data',
-    type: '',
+    lesson: '1',
     kun: 'しりょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '課長',
     meaning: 'Section head',
-    type: '',
+    lesson: '1',
     kun: 'かちょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '部長',
     meaning: 'Department head',
-    type: '',
+    lesson: '1',
     kun: 'ぶちょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '社長',
     meaning: 'Company President',
-    type: '',
+    lesson: '1',
     kun: 'しゃちょう',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   
   {
     char: '製品',
     meaning: 'Products',
-    type: '',
+    lesson: '1',
     kun: 'せいひん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '経済',
     meaning: 'Economy',
-    type: '',
+    lesson: '1',
     kun: 'けいざい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '市役所',
     meaning: 'City Hall',
-    type: '',
+    lesson: '1',
     kun: 'しやくしょ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '独身',
     meaning: 'Single',
-    type: '',
+    lesson: '1',
     kun: 'どくしん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   {
     char: '若い',
     meaning: 'Young',
-    type: '',
+    lesson: '1',
     kun: 'わかい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '長い',
     meaning: 'Long',
-    type: '',
+    lesson: '1',
     kun: 'ながい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '夢',
     meaning: 'Dream',
-    type: '',
+    lesson: '1',
     kun: 'ゆめ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: 'すごい',
     meaning: 'Great (Express astonishment or admiration)',
-    type: '',
+    lesson: '1',
     kun: 'すごい',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '自動車',
     meaning: 'Car, automobile',
-    type: '',
+    lesson: '1',
     kun: 'じどうしゃ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '髪',
     meaning: 'Hair',
-    type: '',
+    lesson: '1',
     kun: 'かみ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '心配する',
     meaning: 'Worry',
-    type: '',
+    lesson: '1',
     kun: 'しんぱする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '残業する',
     meaning: 'Work overtime',
-    type: '',
+    lesson: '1',
     kun: 'ざんぎょうする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '話',
     meaning: 'Talk, speach, story',
-    type: '',
+    lesson: '1',
     kun: 'はなし　～をします',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '～に ついて',
     meaning: 'About～、Concerning～',
-    type: '',
+    lesson: '1',
     kun: '',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '覚える',
     meaning: 'Memorise',
-    type: '',
+    lesson: '1',
     kun: 'おぼえる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '現金',
     meaning: 'Cash',
-    type: '',
+    lesson: '1',
     kun: 'げんきん',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '生まれる',
     meaning: 'Be born',
-    type: '',
+    lesson: '1',
     kun: 'うまれる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '集める',
     meaning: 'Collect, gather',
-    type: '',
+    lesson: '1',
     kun: 'あつめる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '予約する',
     meaning: 'Reserve, book',
-    type: '',
+    lesson: '1',
     kun: 'よやくする',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '捨てる',
     meaning: 'Throw away',
-    type: '',
+    lesson: '1',
     kun: 'すてる',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '大切',
     meaning: 'Important, precious',
-    type: '',
+    lesson: '1',
     kun: 'たいせつ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
   {
     char: '趣味',
     meaning: 'Hobby',
-    type: '',
+    lesson: '1',
     kun: 'しゅみ',
-    sentance: '',
-    translation: ''
+    level: 'N5',
+    include: 1
   },
 
   ]
