@@ -1,11 +1,10 @@
 'use client';
 import { createSlice } from '@reduxjs/toolkit';
-import { mina } from '../constants/constants';
-import { minaN5 } from '../constants/kanji';
+import { kanji } from '../constants/kanji';
 
 const initialState = {
-  set: minaN5,
-  name: 'wanikani',
+  set: kanji.filter(item => item.include === 1),
+  name: 'mina',
   learn: [  
     {
     char: 'Filler card',

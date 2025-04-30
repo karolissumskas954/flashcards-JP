@@ -1,124 +1,35 @@
-export const minaN5 = [
+export const kanji = [
   {
-    char: '1日',
-    meaning: '1 day',
-    lesson: 'Noun',
-    kun: 'ついたち',
-    level: 'N5',
+    char: 'Test',
+    meaning: 'Test',
+    lesson: '26',
+    kun: '',
+    level: 'N4',
     include: 1
   },
-  {
-    char: '２日',
-    meaning: '2 day',
-    lesson: 'Noun',
-    kun: 'ふつか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '３日',
-    meaning: '3 day',
-    lesson: 'Noun',
-    kun: 'みっか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '４日',
-    meaning: '4 day',
-    lesson: 'Noun',
-    kun: 'よっか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '５日',
-    meaning: '5 day',
-    lesson: 'Noun',
-    kun: 'いつか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '６日',
-    meaning: '6 day',
-    lesson: 'Noun',
-    kun: 'むいか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '７日',
-    meaning: '7 day',
-    lesson: 'Noun',
-    kun: 'なのか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '８日',
-    meaning: '8 day',
-    lesson: 'Noun',
-    kun: 'ようか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '９日',
-    meaning: '9 day',
-    lesson: 'Noun',
-    kun: 'ここのか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '１０日',
-    meaning: '10 day',
-    lesson: 'Noun',
-    kun: 'とおか',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '２０日',
-    meaning: '20 day',
-    lesson: 'Noun',
-    kun: 'はつか',
-    level: 'N5',
-    include: 1
-  },
-
+ 
   {
     char: 'だいたい',
     meaning: 'Mostly, roughly',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
   },
 
-  
-
-
-
- 
   {
     char: '狭い',
     meaning: 'Narrow, small',
-    lesson: 'Noun',
+    lesson: '2',
     kun: 'せまい',
     level: 'N5',
     include: 1
   },
- 
- 
 
-
- 
   {
     char: 'とても',
     meaning: 'very',
-    lesson: '1',
+    lesson: '2',
     kun: 'とても',
     level: 'N5',
     include: 1
@@ -126,31 +37,25 @@ export const minaN5 = [
   {
     char: 'たくさん',
     meaning: 'Many much',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
   },
  
- 
   {
     char: '細かい',
     meaning: 'small; detailed',
-    lesson: 'I-adjective',
+    lesson: '2',
     kun: 'こまかい',
     level: 'N5',
     include: 1
   },
-  
-
-
-
-
 
   {
     char: '軽い',
     meaning: 'light (not heavy)',
-    lesson: 'I-adjective',
+    lesson: '2',
     kun: 'かるい',
     level: 'N5',
     include: 1
@@ -159,7 +64,7 @@ export const minaN5 = [
   {
     char: '住所',
     meaning: 'Address',
-    lesson: '1',
+    lesson: '2',
     kun: 'じゅうしょ',
     level: 'N5',
     include: 1
@@ -170,7 +75,7 @@ export const minaN5 = [
   {
     char: '時刻表',
     meaning: 'Timetable',
-    lesson: '1',
+    lesson: '2',
     kun: 'じこくひょう',
     level: 'N5',
     include: 1
@@ -179,7 +84,7 @@ export const minaN5 = [
   {
     char: '短い',
     meaning: 'Short',
-    lesson: '1',
+    lesson: '2',
     kun: 'みじかい',
     level: 'N5',
     include: 1
@@ -187,7 +92,7 @@ export const minaN5 = [
   {
     char: '明るい',
     meaning: 'Bright, Light',
-    lesson: '1',
+    lesson: '2',
     kun: 'あかるい',
     level: 'N5',
     include: 1
@@ -195,7 +100,7 @@ export const minaN5 = [
   {
     char: '暗い',
     meaning: 'Dark',
-    lesson: '1',
+    lesson: '2',
     kun: 'くらい',
     level: 'N5',
     include: 1
@@ -204,7 +109,7 @@ export const minaN5 = [
   {
     char: '頭',
     meaning: 'Head, brain',
-    lesson: '1',
+    lesson: '2',
     kun: 'あたま',
     level: 'N5',
     include: 1
@@ -213,7 +118,7 @@ export const minaN5 = [
   {
     char: '顔',
     meaning: 'Face',
-    lesson: '1',
+    lesson: '2',
     kun: 'かお',
     level: 'N5',
     include: 1
@@ -226,7 +131,7 @@ export const minaN5 = [
   {
     char: '返す',
     meaning: 'Give back, return',
-    lesson: '1',
+    lesson: '2',
     kun: 'かえす',
     level: 'N5',
     include: 1
@@ -237,7 +142,7 @@ export const minaN5 = [
   {
     char: '出張する',
     meaning: 'Go on business trip',
-    lesson: '1',
+    lesson: '2',
     kun: 'しゅっちょうする',
     level: 'N5',
     include: 1
@@ -249,7 +154,7 @@ export const minaN5 = [
   {
     char: '健康保険証',
     meaning: '「Health」Insurance card',
-    lesson: '1',
+    lesson: '2',
     kun: '「けんこう」ほけんしょう',
     level: 'N5',
     include: 1
@@ -263,7 +168,7 @@ export const minaN5 = [
   {
     char: '換える',
     meaning: 'Exchange, change',
-    lesson: '1',
+    lesson: '2',
     kun: 'かえる',
     level: 'N5',
     include: 1
@@ -271,7 +176,7 @@ export const minaN5 = [
   {
     char: '運転する',
     meaning: 'Drive',
-    lesson: '1',
+    lesson: '2',
     kun: 'うんてんする',
     level: 'N5',
     include: 1
@@ -285,7 +190,7 @@ export const minaN5 = [
   {
     char: '動物',
     meaning: 'Animal',
-    lesson: '1',
+    lesson: '2',
     kun: 'どうぶつ',
     level: 'N5',
     include: 1
@@ -297,7 +202,7 @@ export const minaN5 = [
   {
     char: '投げる',
     meaning: 'Throw',
-    lesson: '1',
+    lesson: '2',
     kun: 'なげる',
     level: 'N5',
     include: 1
@@ -307,7 +212,7 @@ export const minaN5 = [
   {
     char: '掃除する',
     meaning: 'Clean (a room)',
-    lesson: '1',
+    lesson: '2',
     kun: 'そうじする',
     level: 'N5',
     include: 1
@@ -315,7 +220,7 @@ export const minaN5 = [
   {
     char: '洗濯する',
     meaning: 'Wash (Clothes)',
-    lesson: '1',
+    lesson: '2',
     kun: 'せんたくする',
     level: 'N5',
     include: 1
@@ -323,7 +228,7 @@ export const minaN5 = [
   {
     char: '成る',
     meaning: 'Become',
-    lesson: '1',
+    lesson: '2',
     kun: 'なる',
     level: 'N5',
     include: 1
@@ -332,7 +237,7 @@ export const minaN5 = [
   {
     char: '調子',
     meaning: 'Condition',
-    lesson: '1',
+    lesson: '2',
     kun: 'ちょうし',
     level: 'N5',
     include: 1
@@ -342,7 +247,7 @@ export const minaN5 = [
   {
     char: '無料',
     meaning: 'Excessive, Impossible',
-    lesson: '1',
+    lesson: '2',
     kun: 'むり',
     level: 'N5',
     include: 1
@@ -351,7 +256,7 @@ export const minaN5 = [
   {
     char: '調べる',
     meaning: 'Check, investigate',
-    lesson: '1',
+    lesson: '2',
     kun: 'しらべる',
     level: 'N5',
     include: 1
@@ -359,7 +264,7 @@ export const minaN5 = [
   {
     char: '修理する',
     meaning: 'Repair',
-    lesson: '1',
+    lesson: '2',
     kun: 'しゅうりする',
     level: 'N5',
     include: 1
@@ -369,7 +274,7 @@ export const minaN5 = [
   {
     char: '役に立つ',
     meaning: 'Be useful',
-    lesson: '1',
+    lesson: '2',
     kun: 'やくにたつ',
     level: 'N5',
     include: 1
@@ -378,7 +283,7 @@ export const minaN5 = [
   {
     char: '気をつける',
     meaning: 'Pay attention, take care',
-    lesson: '1',
+    lesson: '2',
     kun: 'きをつける',
     level: 'N5',
     include: 1
@@ -388,7 +293,7 @@ export const minaN5 = [
   {
     char: '不便',
     meaning: 'Inconvenient',
-    lesson: '1',
+    lesson: '2',
     kun: 'ふべん「な」',
     level: 'N5',
     include: 1
@@ -397,7 +302,7 @@ export const minaN5 = [
   {
     char: 'ほんとう',
     meaning: 'True',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
@@ -406,7 +311,7 @@ export const minaN5 = [
   {
     char: '交通',
     meaning: 'Transport, traffic',
-    lesson: '1',
+    lesson: '2',
     kun: 'こうつう',
     level: 'N5',
     include: 1
@@ -414,7 +319,7 @@ export const minaN5 = [
   {
     char: '物価',
     meaning: '[Commodity] Prices',
-    lesson: '1',
+    lesson: '2',
     kun: 'ぶっか',
     level: 'N5',
     include: 1
@@ -422,7 +327,7 @@ export const minaN5 = [
   {
     char: '放送',
     meaning: 'Anouncement, broadcast',
-    lesson: '1',
+    lesson: '2',
     kun: 'ほうそう',
     level: 'N5',
     include: 1
@@ -432,7 +337,7 @@ export const minaN5 = [
   {
     char: '試合',
     meaning: 'Game, mach',
-    lesson: '1',
+    lesson: '2',
     kun: 'しあい　～をします',
     level: 'N5',
     include: 1
@@ -440,7 +345,7 @@ export const minaN5 = [
   {
     char: '意見',
     meaning: 'Opinion',
-    lesson: '1',
+    lesson: '2',
     kun: 'いけん',
     level: 'N5',
     include: 1
@@ -449,7 +354,7 @@ export const minaN5 = [
   {
     char: '地球',
     meaning: 'Earth',
-    lesson: '1',
+    lesson: '2',
     kun: 'ちきゅう',
     level: 'N5',
     include: 1
@@ -458,7 +363,7 @@ export const minaN5 = [
   {
     char: '最近',
     meaning: 'Recently, these days',
-    lesson: '1',
+    lesson: '2',
     kun: 'さいきん',
     level: 'N5',
     include: 1
@@ -466,7 +371,7 @@ export const minaN5 = [
   {
     char: 'たぶん',
     meaning: 'Probably, perhaps, maybe',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
@@ -474,7 +379,7 @@ export const minaN5 = [
   {
     char: 'きっと',
     meaning: 'Surely, definitely',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
@@ -482,7 +387,7 @@ export const minaN5 = [
   {
     char: 'ほんとうに',
     meaning: 'Really',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
@@ -492,7 +397,7 @@ export const minaN5 = [
   {
     char: 'もちろん',
     meaning: 'Of course',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
@@ -500,7 +405,7 @@ export const minaN5 = [
   {
     char: 'うそ',
     meaning: 'Lie',
-    lesson: '1',
+    lesson: '2',
     kun: '',
     level: 'N5',
     include: 1
@@ -845,6 +750,7 @@ export const minaN5 = [
     level: 'N5',
     include: 1
   },
+  
   {
     char: '親切',
     meaning: 'Helpful, kind, considerate',
@@ -926,18 +832,104 @@ export const minaN5 = [
     include: 1
   },
 
+  {
+    char: '1日',
+    meaning: '1 day',
+    lesson: '1',
+    kun: 'ついたち',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '２日',
+    meaning: '2 day',
+    lesson: '1',
+    kun: 'ふつか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '３日',
+    meaning: '3 day',
+    lesson: '1',
+    kun: 'みっか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '４日',
+    meaning: '4 day',
+    lesson: '1',
+    kun: 'よっか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '５日',
+    meaning: '5 day',
+    lesson: '1',
+    kun: 'いつか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '６日',
+    meaning: '6 day',
+    lesson: '1',
+    kun: 'むいか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '７日',
+    meaning: '7 day',
+    lesson: '1',
+    kun: 'なのか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '８日',
+    meaning: '8 day',
+    lesson: '1',
+    kun: 'ようか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '９日',
+    meaning: '9 day',
+    lesson: '1',
+    kun: 'ここのか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '１０日',
+    meaning: '10 day',
+    lesson: '1',
+    kun: 'とおか',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '２０日',
+    meaning: '20 day',
+    lesson: '1',
+    kun: 'はつか',
+    level: 'N5',
+    include: 0
+  },
 
-  ]
 
 
-  export const minaN5Burned = [
     {
       char: '学生',
       meaning: 'student',
-      lesson: 'Noun',
+      lesson: '1',
       kun: 'がくせい',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '初めて',
@@ -945,7 +937,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'はじめて',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '学校',
@@ -953,7 +945,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'がっこう',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '公園',
@@ -961,63 +953,71 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'こうえん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '会社員',
       meaning: 'company employee',
-      lesson: 'Noun',
+      lesson: '1',
       kun: ' かいしゃいん ',
       level: 'N5',
-      include: 1
+      include: 0
+    },
+    {
+      char: '社員',
+      meaning: 'Employee',
+      lesson: '1',
+      kun: ' しゃいん ',
+      level: 'N5',
+      include: 0
     },
     {
       char: '大学',
       meaning: 'university',
-      lesson: 'Noun',
+      lesson: '1',
       kun: 'だいがく',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '銀行員',
       meaning: 'bank employee',
-      lesson: 'Noun',
+      lesson: '1',
       kun: ' ぎんこういん ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '医者',
       meaning: 'doctor',
-      lesson: 'Noun',
+      lesson: '1',
       kun: ' いしゃ ',
       level: 'N5',
-      include: 1
-    },　
+      include: 0
+    },
     {
       char: '方',
       meaning: 'direction, way',
       lesson: 'Noun',
       kun: 'かた',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '先生',
       meaning: 'teacher',
-      lesson: 'Noun',
+      lesson: '1',
       kun: ' せんせい ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '歳',
       meaning: '... years old',
-      lesson: 'Counter',
+      lesson: '1',
       kun: 'さい',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '子',
@@ -1025,7 +1025,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'こ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '人',
@@ -1033,7 +1033,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ひと, じん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '時間',
@@ -1041,7 +1041,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'じかん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: 'ー時間',
@@ -1049,7 +1049,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ーじかん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: 'ー週間',
@@ -1057,7 +1057,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ーしゅうかん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: 'ーか月',
@@ -1065,7 +1065,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ーかげつ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: 'ー年',
@@ -1073,7 +1073,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ーねん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '何',
@@ -1081,7 +1081,7 @@ export const minaN5 = [
       lesson: 'Pronoun',
       kun: 'なん',
       level: 'N5',
-      include: 1
+      include: 0
     },
   
     {
@@ -1090,7 +1090,7 @@ export const minaN5 = [
       lesson: '1',
       kun: 'きっさてん',
       level: 'N5',
-      include: 1
+      include: 0
     },
 
     {
@@ -1099,7 +1099,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' かさ ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '本',
@@ -1107,7 +1107,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' ほん ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '手帳',
@@ -1115,7 +1115,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'てちょう',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '名刺',
@@ -1123,7 +1123,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' めいし ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '雑誌',
@@ -1131,7 +1131,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ざっし',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '鞄',
@@ -1139,7 +1139,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'かばん',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '鍵',
@@ -1147,7 +1147,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'かぎ',
       level: 'N5',
-      include: 1
+      include: 0
     },
 
     {
@@ -1156,7 +1156,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'おせわ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '時計',
@@ -1164,7 +1164,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' とけい ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '鉛筆',
@@ -1172,7 +1172,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' えんぴつ ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '机',
@@ -1180,7 +1180,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' つくえ ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: 'いす',
@@ -1188,7 +1188,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' いす ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: 'お土産',
@@ -1196,7 +1196,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'おみやげ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '英語',
@@ -1204,7 +1204,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' えいご ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '映画',
@@ -1212,7 +1212,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' えいが ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '近い',
@@ -1220,7 +1220,7 @@ export const minaN5 = [
       lesson: 'I-adjective',
       kun: 'ちかい',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '違います',
@@ -1228,7 +1228,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: 'ちがいます',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '食堂',
@@ -1236,7 +1236,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' しょくどう ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '会議室 ',
@@ -1244,7 +1244,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' かいぎしつ ',
       level: 'N5',
-      include: 1
+      include: 0
     },
     {
       char: '事務所',
@@ -1252,7 +1252,7 @@ export const minaN5 = [
       lesson: 'Noun',
       kun: ' じむしょ ',
       level: 'N5',
-      include: 1
+      include: 0
     },
    
   {
@@ -1261,7 +1261,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'くつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いくら',
@@ -1269,7 +1269,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いちばん',
@@ -1277,7 +1277,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '円',
@@ -1285,7 +1285,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'えん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '売り場',
@@ -1293,7 +1293,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' うりば ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '地下 ',
@@ -1301,7 +1301,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ちか ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '見る',
@@ -1309,7 +1309,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'みる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '階',
@@ -1317,7 +1317,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'よく',
@@ -1325,7 +1325,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'りんご',
@@ -1333,7 +1333,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'みかん',
@@ -1341,7 +1341,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '用品',
@@ -1349,7 +1349,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ようひん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '紳士服',
@@ -1357,7 +1357,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しんしふく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '家具',
@@ -1365,7 +1365,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かぐ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '受付',
@@ -1373,7 +1373,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' うけつけ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '自動販売機',
@@ -1381,7 +1381,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' じどうはんばいき ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '車',
@@ -1389,7 +1389,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'くるま',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '電話 ',
@@ -1397,7 +1397,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' でんわ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '電車 ',
@@ -1405,7 +1405,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' でんしゃ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '部屋',
@@ -1413,7 +1413,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'へや',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '家',
@@ -1421,7 +1421,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'うち',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '電気',
@@ -1429,7 +1429,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' でんき ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '時',
@@ -1437,7 +1437,7 @@ export const minaN5 = [
     lesson: 'Suffix',
     kun: 'じ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '今',
@@ -1445,7 +1445,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'いま',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '分',
@@ -1453,7 +1453,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ふん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '午前',
@@ -1461,7 +1461,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ごぜん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '休み',
@@ -1469,7 +1469,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' やすみ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '毎朝',
@@ -1477,7 +1477,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'まいあさ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '起きる',
@@ -1485,7 +1485,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'おきる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '勉強',
@@ -1493,7 +1493,7 @@ export const minaN5 = [
     lesson: 'Noun, Suru verb',
     kun: 'べんきょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '日曜日',
@@ -1501,7 +1501,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'にちようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '月曜日',
@@ -1509,7 +1509,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'げつようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '火曜日',
@@ -1517,7 +1517,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '水曜日',
@@ -1525,7 +1525,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'すいようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '木曜日',
@@ -1533,7 +1533,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'もくようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '金曜日',
@@ -1541,7 +1541,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'きんようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '土曜日',
@@ -1549,7 +1549,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'どようび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '銀行',
@@ -1557,7 +1557,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ぎんこう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'から;まで',
@@ -1565,7 +1565,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'から;まで',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '毎晩',
@@ -1573,7 +1573,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' まいばん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '寝る',
@@ -1581,7 +1581,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'ねる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '毎日',
@@ -1589,7 +1589,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' まいにち ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '午後',
@@ -1597,7 +1597,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ごご ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '働く',
@@ -1605,7 +1605,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'はたらく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '番',
@@ -1613,7 +1613,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ばん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'かかります',
@@ -1621,7 +1621,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '試験',
@@ -1629,7 +1629,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しけん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '県',
@@ -1637,7 +1637,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'けん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '会議',
@@ -1645,7 +1645,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' かいぎ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'うしろ',
@@ -1653,7 +1653,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: '  ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '郵便局',
@@ -1661,7 +1661,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ゆうびんきょく ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '図書館',
@@ -1669,7 +1669,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' としょかん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '昼',
@@ -1677,7 +1677,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ひる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'あした',
@@ -1685,7 +1685,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あした',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'きのう',
@@ -1693,7 +1693,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'きのう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'あさって',
@@ -1701,7 +1701,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あさって',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'おととい',
@@ -1709,7 +1709,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おととい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'きょう',
@@ -1717,7 +1717,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'きょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'けさ',
@@ -1725,7 +1725,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'けさ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '美術館',
@@ -1733,7 +1733,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' びじゅつかん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '終わる',
@@ -1741,7 +1741,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'おわる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '行く',
@@ -1749,7 +1749,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'いく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '帰る',
@@ -1757,7 +1757,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'かえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '家族',
@@ -1765,7 +1765,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' かぞく ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '来る',
@@ -1773,7 +1773,7 @@ export const minaN5 = [
     lesson: 'Kuru verb',
     kun: 'くる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いつ',
@@ -1781,7 +1781,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '次の',
@@ -1789,7 +1789,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'つぎの',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '急行',
@@ -1797,7 +1797,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' きゅうこう ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '特急',
@@ -1805,7 +1805,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'とっきゅう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '先月',
@@ -1813,7 +1813,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'せんげつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '来週',
@@ -1821,7 +1821,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'らいしゅう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '飛行機',
@@ -1829,7 +1829,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ひこうき ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '船',
@@ -1837,7 +1837,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ふね',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '駅',
@@ -1845,7 +1845,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'えき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '友達',
@@ -1853,7 +1853,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ともだち ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '彼女',
@@ -1861,15 +1861,15 @@ export const minaN5 = [
     lesson: 'Pronoun',
     kun: ' かのじょ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '病院',
     meaning: 'hospital',
-    lesson: 'Noun',
+    lesson: '1',
     kun: 'びょういん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '読む',
@@ -1877,7 +1877,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'よむ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '新聞',
@@ -1885,7 +1885,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しんぶん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '買う',
@@ -1893,7 +1893,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'かう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '飲む',
@@ -1901,7 +1901,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'のむ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '食べる',
@@ -1909,7 +1909,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'たべる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '卵',
@@ -1917,7 +1917,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'たまご',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '会',
@@ -1925,7 +1925,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '川',
@@ -1933,7 +1933,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かわ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '会う',
@@ -1941,7 +1941,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'あう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '週末',
@@ -1949,7 +1949,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しゅうまつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いっしょに',
@@ -1957,7 +1957,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いっしょに',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '聞く',
@@ -1965,7 +1965,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'きく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '吸う',
@@ -1973,7 +1973,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'すう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '写真',
@@ -1981,7 +1981,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しゃしん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '撮る',
@@ -1989,7 +1989,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'とる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '庭',
@@ -1997,7 +1997,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'にわ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '牛乳',
@@ -2005,7 +2005,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ぎゅうにゅう ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '野菜',
@@ -2013,7 +2013,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'やさい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '宿題',
@@ -2021,7 +2021,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しゅくだい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '書く',
@@ -2029,7 +2029,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'かく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '切符',
@@ -2037,7 +2037,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'きっぷ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'もう',
@@ -2045,7 +2045,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'そして',
@@ -2053,7 +2053,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '外',
@@ -2061,7 +2061,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'そと',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ー台',
@@ -2069,7 +2069,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ーだい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ー人',
@@ -2077,7 +2077,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ーにん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'そうですか',
@@ -2085,7 +2085,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'そうですね',
@@ -2093,7 +2093,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いつも',
@@ -2101,7 +2101,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'それから',
@@ -2109,7 +2109,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～から',
@@ -2117,7 +2117,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'これから',
@@ -2125,7 +2125,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'わかりました',
@@ -2133,7 +2133,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '紙',
@@ -2141,7 +2141,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かみ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '果物',
@@ -2149,7 +2149,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' くだもの ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '時々',
@@ -2157,7 +2157,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ときどき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '切る',
@@ -2165,7 +2165,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'きる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'する／します',
@@ -2173,7 +2173,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'きれい',
@@ -2181,7 +2181,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'きれい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '高い',
@@ -2189,7 +2189,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'たかい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '賑やか',
@@ -2197,7 +2197,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'にぎやか',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '有名',
@@ -2205,7 +2205,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: ' ゆうめい ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '寒い',
@@ -2213,7 +2213,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'さむい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '寮',
@@ -2221,7 +2221,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'りょう',
     level: 'N5',
-    include: 1
+    include: 0
   }, 
   {
     char: '古い',
@@ -2229,7 +2229,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'ふるい',
     level: 'N5',
-    include: 1
+    include: 0
   },  
   {
     char: '便利',
@@ -2237,7 +2237,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'べんり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どんな',
@@ -2245,7 +2245,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'どんな',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '大きい',
@@ -2253,7 +2253,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'おおきい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -2262,7 +2262,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'おもしろい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'おいしい',
@@ -2270,7 +2270,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -2279,7 +2279,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'たのしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'お仕事',
@@ -2287,7 +2287,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'おしごと',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '忙しい',
@@ -2295,7 +2295,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'いそがしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '元気',
@@ -2303,7 +2303,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: ' げんき ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '暇',
@@ -2311,7 +2311,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ひま',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '新しい',
@@ -2319,7 +2319,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'あたらしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '易しい',
@@ -2327,7 +2327,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'やさしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '熱い、暑い',
@@ -2335,7 +2335,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'あつい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いい',
@@ -2343,7 +2343,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'いい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '静か',
@@ -2351,7 +2351,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'しずか',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '地下鉄',
@@ -2359,7 +2359,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ちかてつ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '新幹線',
@@ -2367,7 +2367,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しんかんせん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '食べ物',
@@ -2375,7 +2375,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'たべもの',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '町',
@@ -2383,7 +2383,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'まち',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '青い',
@@ -2391,7 +2391,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'あおい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '冷たい',
@@ -2399,7 +2399,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'つめたい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '赤い',
@@ -2407,7 +2407,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'あかい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '所',
@@ -2415,7 +2415,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ところ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '難しい',
@@ -2423,7 +2423,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'むずかしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '料理',
@@ -2431,7 +2431,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' りょうり ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '少し',
@@ -2439,7 +2439,7 @@ export const minaN5 = [
     lesson: 'Adverb',
     kun: 'すこし',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '少ない',
@@ -2447,7 +2447,7 @@ export const minaN5 = [
     lesson: 'Adverb',
     kun: 'すくない',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'すてき',
@@ -2455,7 +2455,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '分かる',
@@ -2463,7 +2463,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'わかる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '子供',
@@ -2471,7 +2471,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' こども ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'はし',
@@ -2479,7 +2479,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '  ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '花',
@@ -2487,7 +2487,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はな',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '早く、速く',
@@ -2495,7 +2495,7 @@ export const minaN5 = [
     lesson: 'Adverb ',
     kun: 'はやく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '黒い',
@@ -2503,7 +2503,7 @@ export const minaN5 = [
     lesson: 'Adverb ',
     kun: 'くろい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '好き',
@@ -2511,7 +2511,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'すき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '絵',
@@ -2519,7 +2519,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'え',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '上手',
@@ -2527,7 +2527,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: ' じょうず ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '全然',
@@ -2535,7 +2535,7 @@ export const minaN5 = [
     lesson: 'Adverb ',
     kun: ' ぜんぜん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '彼',
@@ -2543,7 +2543,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かれ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '魚',
@@ -2551,7 +2551,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'さかな',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '歌',
@@ -2559,7 +2559,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'うた',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '下手',
@@ -2567,7 +2567,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'へた',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '嫌い',
@@ -2575,7 +2575,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: 'きらい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '箱',
@@ -2583,7 +2583,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'はこ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '水',
@@ -2591,7 +2591,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'みず',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '手紙',
@@ -2599,7 +2599,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' てがみ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '前',
@@ -2607,7 +2607,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'まえ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '白い',
@@ -2615,7 +2615,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'しろい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '中',
@@ -2623,7 +2623,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'なか',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '下',
@@ -2631,7 +2631,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'した',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -2640,7 +2640,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ねこ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '店',
@@ -2648,7 +2648,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'みせ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '木',
@@ -2656,7 +2656,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'き',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '冷蔵庫',
@@ -2664,7 +2664,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'れいぞうこ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '物',
@@ -2672,7 +2672,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'もの',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '上',
@@ -2680,7 +2680,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'うえ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '右',
@@ -2688,7 +2688,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'みぎ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '左',
@@ -2696,7 +2696,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ひだり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '自転車',
@@ -2704,7 +2704,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'じてんしゃ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '歩いて',
@@ -2712,7 +2712,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'あるいて',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いろいろ',
@@ -2720,7 +2720,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '犬',
@@ -2728,7 +2728,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'いぬ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '乗り場',
@@ -2736,7 +2736,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'のりば',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '象',
@@ -2744,7 +2744,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ぞう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '小さい',
@@ -2752,7 +2752,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ちいさい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '電池',
@@ -2760,7 +2760,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'でんち',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '切手',
@@ -2768,7 +2768,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' きって ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '枚',
@@ -2776,7 +2776,7 @@ export const minaN5 = [
     lesson: 'Counter',
     kun: 'まい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '全部で',
@@ -2784,7 +2784,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ぜんぶで ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '兄弟',
@@ -2792,7 +2792,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' きょうだい ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '回',
@@ -2800,7 +2800,7 @@ export const minaN5 = [
     lesson: 'Counter',
     kun: 'かい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～ぐらい',
@@ -2808,7 +2808,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どのぐらい',
@@ -2816,7 +2816,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'まだ',
@@ -2824,7 +2824,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～だけ',
@@ -2832,7 +2832,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '半',
@@ -2840,7 +2840,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'はん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '出',
@@ -2848,7 +2848,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'で',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '封筒',
@@ -2856,7 +2856,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ふうとう ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '弟',
@@ -2864,14 +2864,14 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'おとうと',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '音楽',
     meaning: 'Music',
     kun: 'おんがく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'お茶',
@@ -2879,7 +2879,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'おちゃ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '雨',
@@ -2887,7 +2887,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'あめ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '天気',
@@ -2895,7 +2895,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'てんき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '外国',
@@ -2903,7 +2903,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'がいこく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ちょっと',
@@ -2911,7 +2911,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '法',
@@ -2919,7 +2919,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ほう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '海',
@@ -2927,7 +2927,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'うみ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -2936,7 +2936,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'やま',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '祭り',
@@ -2944,7 +2944,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'まつり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '留学生',
@@ -2952,7 +2952,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'りゅうがくせい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '疲れ',
@@ -2960,7 +2960,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'つかれ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '空港',
@@ -2968,7 +2968,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'くうこう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '買い物する',
@@ -2976,7 +2976,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'かいものする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '食事する',
@@ -2984,7 +2984,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しょくじする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'そちら',
@@ -2992,7 +2992,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
  
   {
@@ -3001,7 +3001,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'かす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '教える',
@@ -3009,7 +3009,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'おしえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
  
   {
@@ -3018,7 +3018,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'かりる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'かけます',
@@ -3026,7 +3026,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '習う',
@@ -3034,7 +3034,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'ならう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どこ',
@@ -3042,7 +3042,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どこか',
@@ -3050,7 +3050,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いくつ',
@@ -3058,7 +3058,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3067,7 +3067,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どちらも',
@@ -3075,7 +3075,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '誕生日',
@@ -3083,7 +3083,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'たんじょうび',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -3092,7 +3092,7 @@ export const minaN5 = [
     lesson: 'Ichidan verb',
     kun: 'あげる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'もらう',
@@ -3100,7 +3100,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'もらう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '送る',
@@ -3108,7 +3108,7 @@ export const minaN5 = [
     lesson: 'Godan verb',
     kun: 'おくる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3117,7 +3117,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どう',
@@ -3125,7 +3125,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～ごろ',
@@ -3133,7 +3133,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '用事',
@@ -3141,7 +3141,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' ようじ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3150,7 +3150,7 @@ export const minaN5 = [
     lesson: 'Noun, Adverb',
     kun: ' こんど ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '一人で',
@@ -3158,7 +3158,7 @@ export const minaN5 = [
     lesson: 'Expression',
     kun: 'ひとりで',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3167,7 +3167,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ぶたにく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'とり肉',
@@ -3175,7 +3175,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'とりにく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '牛肉',
@@ -3183,7 +3183,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ぎゅうにく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '釣り',
@@ -3191,7 +3191,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'つり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '名前',
@@ -3199,7 +3199,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'なまえ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3208,7 +3208,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ゆっくり',
@@ -3216,7 +3216,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '電話する',
@@ -3224,7 +3224,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'でんわする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '涼しい',
@@ -3232,7 +3232,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'すずしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '暖／温かい',
@@ -3240,7 +3240,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'あたたかい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '服',
@@ -3248,7 +3248,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ふく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '地図',
@@ -3256,7 +3256,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ちず',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'もう少し',
@@ -3264,7 +3264,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もうすこし',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'もう～',
@@ -3272,7 +3272,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'いかがですか',
@@ -3280,7 +3280,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '荷物',
@@ -3288,7 +3288,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'にもつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '高校',
@@ -3296,7 +3296,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'こうこう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '知りません',
@@ -3304,7 +3304,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しりません',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～知っていますか',
@@ -3312,7 +3312,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しっていますか',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '知る',
@@ -3320,7 +3320,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '取る',
@@ -3328,7 +3328,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '浴びる',
@@ -3336,7 +3336,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あぼり',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3345,7 +3345,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～が、～',
@@ -3353,7 +3353,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'おふろ',
@@ -3361,7 +3361,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おふろ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '１人',
@@ -3369,7 +3369,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ひとり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '２人',
@@ -3377,15 +3377,15 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ふたり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '研究者 ',
     meaning: 'researcher​',
-    lesson: 'Noun',
+    lesson: '1',
     kun: ' けんきゅうしゃ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -3394,7 +3394,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' じしょ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -3403,7 +3403,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'わるい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '手伝う',
@@ -3411,7 +3411,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'てつだう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '呼ぶ',
@@ -3419,7 +3419,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'よぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
     
@@ -3429,7 +3429,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -3438,7 +3438,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～方',
@@ -3446,7 +3446,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '～かた',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '見せる',
@@ -3454,7 +3454,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'みせる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '広い',
@@ -3462,7 +3462,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ひろい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '入る',
@@ -3470,7 +3470,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はいる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -3479,7 +3479,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はいしゃ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '残念',
@@ -3487,7 +3487,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: ' ざんねん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '出ます',
@@ -3495,7 +3495,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'でます',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '甘い',
@@ -3503,7 +3503,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'あまい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '旅行',
@@ -3511,7 +3511,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' りょこう ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '欲しい',
@@ -3519,7 +3519,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'ほしい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '少々',
@@ -3527,7 +3527,7 @@ export const minaN5 = [
     lesson: 'Adverb',
     kun: ' しょうしょう ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '研究する',
@@ -3535,7 +3535,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'けんきゅうする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '曇り',
@@ -3543,7 +3543,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'くもり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '目',
@@ -3551,7 +3551,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'め',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '耳',
@@ -3559,7 +3559,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'みみ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '鼻',
@@ -3567,7 +3567,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はな',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '口',
@@ -3575,7 +3575,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'くち',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '歯',
@@ -3583,7 +3583,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'は',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'おなか',
@@ -3591,7 +3591,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '足',
@@ -3599,7 +3599,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あし',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '泳ぐ',
@@ -3607,7 +3607,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'およぐ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どうやって',
@@ -3615,7 +3615,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '出かける',
@@ -3623,7 +3623,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'でかける',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '危ない',
@@ -3631,7 +3631,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あぶない',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '大丈夫',
@@ -3639,7 +3639,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'だいじょうぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '熱',
@@ -3647,7 +3647,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ねつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '病気',
@@ -3655,7 +3655,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'びょうき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '薬',
@@ -3663,7 +3663,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'くすり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～までに',
@@ -3671,7 +3671,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ですから',
@@ -3679,7 +3679,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'できます',
@@ -3687,7 +3687,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '弾く',
@@ -3695,7 +3695,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ひく',
     level: 'N5',
-    include: 1
+    include: 0
   },  
   {
     char: '歌う',
@@ -3703,7 +3703,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'うたう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ぜび',
@@ -3711,7 +3711,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '馬',
@@ -3719,7 +3719,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'うま',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'お祈り',
@@ -3727,7 +3727,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おいのり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '引く',
@@ -3735,7 +3735,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ひく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '留学する',
@@ -3743,7 +3743,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'りゅうがくする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '月',
@@ -3751,7 +3751,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'つき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～けど',
@@ -3759,7 +3759,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '話す',
@@ -3767,7 +3767,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はなす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '降る',
@@ -3775,7 +3775,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ふる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '１つ',
@@ -3783,7 +3783,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ひとつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '２つ',
@@ -3791,7 +3791,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ふたつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '３つ',
@@ -3799,7 +3799,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'みっつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '４つ',
@@ -3807,7 +3807,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'よっつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '５つ',
@@ -3815,7 +3815,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いつつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '６つ',
@@ -3823,7 +3823,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'むっつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '７つ',
@@ -3831,7 +3831,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ななつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '８つ',
@@ -3839,7 +3839,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'やっつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '９つ',
@@ -3847,7 +3847,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ここのつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '１０つ',
@@ -3855,7 +3855,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とお',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '塩',
@@ -3863,7 +3863,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しお',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '砂糖',
@@ -3871,7 +3871,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'さとう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '冬',
@@ -3879,7 +3879,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ふゆ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '雪',
@@ -3887,7 +3887,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'ゆき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '多い',
@@ -3895,7 +3895,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'おおい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '売る',
@@ -3903,7 +3903,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'うる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '見学する',
@@ -3911,7 +3911,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'けんがくする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '乗る',
@@ -3919,7 +3919,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'のる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '降りる',
@@ -3927,7 +3927,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おりる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '乗り換える',
@@ -3935,7 +3935,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'のりかえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '重い',
@@ -3943,7 +3943,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'おもい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '低い',
@@ -3951,7 +3951,7 @@ export const minaN5 = [
     lesson: 'Noun, Adverb',
     kun: ' ひくい ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '夏',
@@ -3959,7 +3959,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'なつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '始める',
@@ -3967,7 +3967,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はじめる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -3976,7 +3976,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'どれ',
@@ -3984,7 +3984,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '背',
@@ -3992,7 +3992,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'せ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '緑',
@@ -4000,7 +4000,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'みどり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '別々',
@@ -4008,7 +4008,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' べつべつ ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '禁煙',
@@ -4016,7 +4016,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'きんえん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '入れる',
@@ -4024,7 +4024,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いれる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4033,7 +4033,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'だれ／誰',
@@ -4041,7 +4041,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '遊ぶ',
@@ -4049,7 +4049,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'あそぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '上着',
@@ -4057,7 +4057,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'うわぎ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '下着',
@@ -4065,7 +4065,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'したぎ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4074,7 +4074,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あらう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '天才',
@@ -4082,7 +4082,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'てんさい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '日記',
@@ -4090,7 +4090,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'にっき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '飛ぶ',
@@ -4098,7 +4098,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '跳ぶ',
@@ -4106,7 +4106,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '登る',
@@ -4114,7 +4114,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'のぼる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '走る',
@@ -4122,7 +4122,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はしる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '潜る',
@@ -4130,7 +4130,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もぐる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '這う',
@@ -4138,7 +4138,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ける',
@@ -4146,7 +4146,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ける',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '振る',
@@ -4154,7 +4154,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ふる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '持ち上げる',
@@ -4162,7 +4162,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もちあげる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '迎える',
@@ -4170,7 +4170,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'むかえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -4182,7 +4182,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'つける',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '消す',
@@ -4190,7 +4190,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'けす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '開ける',
@@ -4198,7 +4198,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あける',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '閉める',
@@ -4206,7 +4206,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しめる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '急ぐ',
@@ -4214,7 +4214,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いそぐ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '待つ',
@@ -4222,7 +4222,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'まつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '持つ',
@@ -4230,7 +4230,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '使う',
@@ -4238,7 +4238,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'つかう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '止める',
@@ -4246,7 +4246,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とめる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4255,7 +4255,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'すわる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '立つ',
@@ -4263,7 +4263,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'たつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'あまり',
@@ -4271,7 +4271,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あまり',
     level: 'N5',
-    include: 1
+    include: 0
   }, 
   {
     char: '振り向く',
@@ -4279,7 +4279,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ふりむく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '置く',
@@ -4287,7 +4287,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '作る、造る',
@@ -4295,7 +4295,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'つくる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -4305,7 +4305,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'すむ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '遠い',
@@ -4313,7 +4313,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'とおい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '遅い',
@@ -4321,7 +4321,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'おそい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -4330,7 +4330,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '約束',
@@ -4338,7 +4338,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' やくそく ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
 
@@ -4349,7 +4349,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'たな',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '簡単',
@@ -4357,7 +4357,7 @@ export const minaN5 = [
     lesson: 'Na-adjective',
     kun: ' かんたん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4366,7 +4366,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'からい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -4376,7 +4376,7 @@ export const minaN5 = [
     lesson: 'I-adjective',
     kun: 'まど',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '体',
@@ -4384,7 +4384,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'からだ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '忘れる',
@@ -4392,7 +4392,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'わすれる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '無くす',
@@ -4400,7 +4400,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'なくす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '払う',
@@ -4408,7 +4408,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はらう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '脱ぐ',
@@ -4416,7 +4416,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ぬぐ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '持って行く',
@@ -4424,7 +4424,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もっていく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '持って来る',
@@ -4432,7 +4432,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もってくる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '間',
@@ -4440,7 +4440,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'あいだ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4449,7 +4449,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'まげる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '伸ばす',
@@ -4457,7 +4457,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'のばす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '転ぶ',
@@ -4465,7 +4465,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ころぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4474,7 +4474,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とまる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '[お]湯',
@@ -4482,7 +4482,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '[お]ゆ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '動く',
@@ -4490,7 +4490,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'うごく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '会社をやめる',
@@ -4498,7 +4498,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'かいしゃをやめる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '階段',
@@ -4506,7 +4506,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: ' かいだん ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -4515,7 +4515,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'たいへん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'よかったら',
@@ -4523,7 +4523,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '思う',
@@ -4531,7 +4531,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おもう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '言う',
@@ -4539,7 +4539,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '勝つ',
@@ -4547,7 +4547,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'かつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '負ける',
@@ -4555,7 +4555,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'まける',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '何回も',
@@ -4563,7 +4563,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'なんかいも',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ー目',
@@ -4571,7 +4571,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ーめ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '眠い',
@@ -4579,7 +4579,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ねむい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '強い',
@@ -4587,7 +4587,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'つよい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '弱い',
@@ -4595,7 +4595,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'よわい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4604,7 +4604,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'れんしゅう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'むだ',
@@ -4612,7 +4612,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'むだ「な」',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'もうすぐ',
@@ -4620,7 +4620,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '歩く',
@@ -4628,7 +4628,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あるく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '隣',
@@ -4636,7 +4636,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'となり',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '季節',
@@ -4644,7 +4644,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'きせつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '春',
@@ -4652,7 +4652,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'はる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '秋',
@@ -4660,7 +4660,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'あき',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'ずっと',
@@ -4668,7 +4668,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '散歩する',
@@ -4676,7 +4676,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'さんぽする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '失礼',
@@ -4684,7 +4684,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'しつれい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '要る',
@@ -4692,7 +4692,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'いる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '特に',
@@ -4700,7 +4700,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'とくに',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'でも',
@@ -4708,7 +4708,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '両親',
@@ -4716,7 +4716,7 @@ export const minaN5 = [
     lesson: 'Noun',
     kun: 'りょうしん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '問題',
@@ -4724,7 +4724,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'もんだい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '答え',
@@ -4732,7 +4732,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'こたえ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -4742,7 +4742,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'また',
@@ -4750,7 +4750,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'あとで',
@@ -4758,7 +4758,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -4769,7 +4769,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しりょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '課長',
@@ -4777,7 +4777,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'かちょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '部長',
@@ -4785,7 +4785,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ぶちょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '社長',
@@ -4793,7 +4793,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しゃちょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   
   {
@@ -4802,7 +4802,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'せいひん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '経済',
@@ -4810,7 +4810,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'けいざい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '市役所',
@@ -4818,7 +4818,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しやくしょ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4827,7 +4827,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'どくしん',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -4836,7 +4836,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'わかい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '長い',
@@ -4844,7 +4844,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ながい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '夢',
@@ -4852,7 +4852,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ゆめ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'すごい',
@@ -4860,7 +4860,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'すごい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '自動車',
@@ -4868,7 +4868,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'じどうしゃ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '髪',
@@ -4876,7 +4876,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'かみ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '心配する',
@@ -4884,7 +4884,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しんぱする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '残業する',
@@ -4892,7 +4892,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'ざんぎょうする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '話',
@@ -4900,7 +4900,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'はなし　～をします',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '～に ついて',
@@ -4908,7 +4908,7 @@ export const minaN5 = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '覚える',
@@ -4916,7 +4916,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'おぼえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '現金',
@@ -4924,7 +4924,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'げんきん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '生まれる',
@@ -4932,7 +4932,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'うまれる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '集める',
@@ -4940,7 +4940,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'あつめる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '予約する',
@@ -4948,7 +4948,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'よやくする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '捨てる',
@@ -4956,7 +4956,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'すてる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '大切',
@@ -4964,7 +4964,7 @@ export const minaN5 = [
     lesson: '1',
     kun: 'たいせつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '趣味',
@@ -4972,7 +4972,15 @@ export const minaN5 = [
     lesson: '1',
     kun: 'しゅみ',
     level: 'N5',
-    include: 1
+    include: 0
+  },
+   {
+    char: '教師',
+    meaning: 'Teacher, intructor',
+    lesson: '1',
+    kun: 'きょうし',
+    level: 'N5',
+    include: 0
   },
 
   ]

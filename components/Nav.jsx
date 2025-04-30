@@ -58,6 +58,7 @@ const Nav = () => {
     const [tempName, setTempName] = useState(name)
     const set = useSelector((state) => state.sets.set);
     const setLength = set?.length || 0;
+    // const setLength = set?.filter(item => item.include === 1).length || 0;
     const lrn = useSelector((state) => state.sets.learn);
 
     const handleChangeColor = () => {

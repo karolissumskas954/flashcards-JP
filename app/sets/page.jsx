@@ -4,8 +4,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 
 import React, { useState } from 'react';
-import { testSet, radicals, mina} from "../constants/constants";
-import { minaN5, minaN5Burned } from "../constants/kanji";
+import { kanji} from "../constants/kanji";
 
 import { useDispatch, useSelector } from 'react-redux';
 import { setName, setSet } from "../redux/setReducer";
@@ -18,36 +17,32 @@ const Sets = () => {
   const set = useSelector((state) => state.sets.set);
   const name = useSelector((state) => state.sets.name);
   const [show, setShow] = useState(false)
-  const [kanji, setKanji] = useState(set)
 
   const [men, setMen] = useState(true)
 
-  const handleChangeSet = (set) => {
-    dispatch(setName(set))
-    if (set == 'testSet') {
-      setKanji(testSet)
-      dispatch(setSet(testSet))
-    
-    }
-    if (set == 'radicals') {
-      setKanji(radicals)
-      dispatch(setSet(radicals))
-    }
-    if (set == 'mina') {
-      setKanji(minaN5Burned)
-      dispatch(setSet(minaN5Burned))
 
+  const handleChangeSet = (set) => {
+    if (set == 'wanikani'){
+      dispatch(setName(set))
+      dispatch(setSet(kanji))
+    } else {
+      dispatch(setName(set))
+      dispatch(setSet(kanji.filter(item => item.include === 1)))
     }
-    if (set == 'genki'){
-      setKanji(minaN5)
-      dispatch(setSet(minaN5))
-    }
+
+    
   }
 
 
   const GrammarGrid = () => {
+    const filteredGrammar = grammar.filter(item => {
+      if (name === 'mina') return item.book === 'N5';
+      if (name === 'radicals') return item.book === 'N4';
+      return true; // show all if no specific filter
+    });
+
     const [checkedStates, setCheckedStates] = useState(
-      Array(grammar.length).fill(false)
+      Array(filteredGrammar.length).fill(true)
     );
   
     const handleCheckboxChange = (index) => {
@@ -56,13 +51,13 @@ const Sets = () => {
       setCheckedStates(newStates);
     };
   
-    let currentLesson = 0; // Initialize currentLesson outside the map
+    let currentLesson = 100; // Initialize currentLesson outside the map
   
     return (
       <div className="grid grid-cols-2 gap-6">
-        {grammar.map((item, index) => (
+        {[...filteredGrammar].reverse().map((item, index) => (
           <React.Fragment key={index}>
-            {item.lesson > currentLesson ?
+            {item.lesson < currentLesson ?
               <div className="col-span-2 border-b border-eel py-2 mb-2 text-center font-semibold text-eel text-[16px]">
                 Lesson {item.lesson}
               </div>
@@ -137,8 +132,15 @@ const Sets = () => {
 
   const KanjiGrid = () => {
     // We store a checked state for each item using its index
+    const filteredKanji = kanji.filter(item => {
+      if (name === 'mina') return item.level === 'N5';
+      if (name === 'radicals') return item.level === 'N4';
+      return true; // show all if no specific filter
+    });
+  
+    // Initialize checked state for filtered items
     const [checkedStates, setCheckedStates] = useState(
-      Array(minaN5.length).fill(false)
+      filteredKanji.map(item => item.include === 1)
     );
   
     const handleCheckboxChange = (index) => {
@@ -146,12 +148,10 @@ const Sets = () => {
       newStates[index] = !newStates[index];
       setCheckedStates(newStates);
     };
-  
     return (
       <div className="grid grid-cols-3 gap-6">
-        {minaN5.map((item, index) => (
-
-
+        {filteredKanji.map((item, index) => {
+          return (
         <div className="flex  w-full justify-center relative mb-5 gap-5"
         
         style={{
@@ -202,7 +202,8 @@ const Sets = () => {
         </Button>
         </div>
 
-        ))}
+)})}
+
       </div>
     );
   };
@@ -230,8 +231,8 @@ const Sets = () => {
             // Adjust -100% as needed
           }}
         >
-          <Button size="lg" className={`${name == 'genki' ? 'bg-orange  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('genki')} size="lg" className={`${name == 'genki' ? 'bg-orange -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
+          <Button size="lg" className={`${name == 'mina' ? 'bg-red  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
+          <Button onClick={() => handleChangeSet('mina')} size="lg" className={`${name == 'mina' ? 'bg-red -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
             <span>
             みんなの日本語N5
             </span>
@@ -244,10 +245,26 @@ const Sets = () => {
             transform: !show ? 'translateY(0%)' : 'translateY(100%)', // Adjust -100% as needed
           }}
         >
-          <Button size="lg" className={`${name == 'mina' ? 'bg-red  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
-          <Button onClick={() => handleChangeSet('mina')} size="lg" className={`${name == 'mina' ? 'bg-red -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
+          <Button size="lg" className={`${name == 'radicals' ? 'bg-macaw  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
+          <Button onClick={() => handleChangeSet('radicals')} size="lg" className={`${name == 'radicals' ? 'bg-macaw -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
             <span>
-              みんなの日本語N5 Burned
+              みんなの日本語N4
+            </span>
+          </Button>
+        </div>
+
+      </div>
+      <div>
+      <div className="flex  w-full justify-center relative mb-5"
+          style={{
+            transition: 'transform 0.5s ease-in-out',
+            transform: !show ? 'translateY(0%)' : 'translateY(100%)', // Adjust -100% as needed
+          }}
+        >
+          <Button size="lg" className={`${name == 'wanikani' ? 'bg-pur  brightness-75' : 'bg-secondary'} transition duration-700 ease-in-out opacity uppercase flex items-center gap-2 w-full `}></Button>
+          <Button onClick={() => handleChangeSet('wanikani')} size="lg" className={`${name == 'wanikani' ? 'bg-pur -mt-1' : 'bg-bg border-2 text-macaw -mt-3'} transition duration-700 ease-in-out opacity  uppercase flex items-center gap-2 w-full absolute inset-0 `}>
+            <span>
+              All Kanji review
             </span>
           </Button>
         </div>

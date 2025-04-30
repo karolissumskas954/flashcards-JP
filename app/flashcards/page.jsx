@@ -27,7 +27,7 @@ const Flashcards = () => {
   const name = useSelector((state) => state.sets.name);
   const set = useSelector((state) => state.sets.set);
   const lr = useSelector((state) => state.sets.learn);
-  const [kanji, setKanji] = useState(set)
+  const [kanji, setKanji] = useState(set);
   const flipCard = (index) => {
     setFlipped((prevFlipped) => {
       const newFlipped = [...prevFlipped];
@@ -45,6 +45,7 @@ const Flashcards = () => {
     setSelectedIndex(index);
   };
 
+
   useEffect(() => {
     if (kanji) {
       setKanji([...kanji].sort(() => Math.random() - 0.5)); // Shuffle a copy of the array
@@ -53,7 +54,6 @@ const Flashcards = () => {
 
 
 
-  const [kanjiList, setKanjiList] = useState(lr);
   const [removed, setRemoved] = useState([]);
 
 
@@ -68,22 +68,6 @@ const Flashcards = () => {
 
 
 
-  const addKanji = (kanji) => {
-    const index = kanjiList.indexOf(kanji);
-    if (index !== -1) {
-      // Kanji exists in the list, remove it
-      setKanjiList(kanjiList.filter((item, i) => i !== index));
-    } else {
-      // Kanji doesn't exist, add it
-      setKanjiList([...kanjiList, kanji]);
-    }
-  };
-
-  const changeSet = () => {
-    if (kanjiList.length > 1) { // Check if kanjiList has elements before updating
-      dispatch(setLearn(kanjiList))
-    }
-  };
 
   return (
     <div className="pt-10 pb-5 ">
@@ -94,25 +78,7 @@ const Flashcards = () => {
           transition: { delay: 1.5, duration: 0.4, ease: 'easeIn' }
         }}
       >
-{/* 
-        <div className={` ${isVisible == true ? '' : 'transparent'}  
-        justify-start transition duration-700 ease-in-out opacity flex  container pl-9
-          ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
-          <Link href={`${kanjiList.length > 1 ? '/learn' : '/flashcards'} `} className="flex flex-row items-center justify-center text-eel ">
-          <FaRepeat onClick={() => changeSet()} className={`${kanjiList.length > 1 ? (name == 'testSet'
-                                        ? 'text-accent'
-                                        : name == 'radicals'
-                                        ? 'text-macaw' 
-                                        : name == 'genki'
-                                        ? 'text-orange'
-                                        : name == 'mina'
-                                        ? 'text-red' 
-                                        : name == 'wanikani'
-                                        ? 'text-pur'
-                                        : 'text-accent') : 'text-eel'} cursor-pointer`} />
-          <span className="pb-1 pl-2">{kanjiList.length}</span>
-          </Link>
-        </div> */}
+
  
 
         {/* Upper bracker */}
