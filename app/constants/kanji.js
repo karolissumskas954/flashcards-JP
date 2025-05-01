@@ -1,21 +1,232 @@
 export const kanji = [
   {
-    char: 'Test',
-    meaning: 'Test',
+    char: '缶',
+    meaning: 'Can',
+    lesson: '26',
+    kun: 'かん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '瓶',
+    meaning: 'Bottle',
+    lesson: '26',
+    kun: 'びん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '怖い',
+    meaning: 'Be afraid of',
+    lesson: '26',
+    kun: 'こわい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '横',
+    meaning: 'Side',
+    lesson: '26',
+    kun: 'よこ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '置き場',
+    meaning: 'Place where something is put',
+    lesson: '26',
+    kun: 'おきば',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '出す',
+    meaning: 'Take out/put out [Rubbish]',
+    lesson: '26',
+    kun: '[ごみを～]だす',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '片付く',
+    meaning: 'Be put in order',
+    lesson: '26',
+    kun: '[荷物が～]かたづく',
+    level: 'N4',
+    include: 1
+  },
+
+  {
+    char: 'こ/そ/あ んな',
+    meaning: 'Like this/that',
     lesson: '26',
     kun: '',
     level: 'N4',
     include: 1
   },
- 
   {
-    char: 'だいたい',
-    meaning: 'Mostly, roughly',
-    lesson: '2',
-    kun: '',
-    level: 'N5',
+    char: '何でも',
+    meaning: 'Anything',
+    lesson: '26',
+    kun: 'なんでも',
+    level: 'N4',
     include: 1
   },
+  {
+    char: '誰でも',
+    meaning: 'Anybody',
+    lesson: '26',
+    kun: 'だれでも',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'どこでも',
+    meaning: 'Anywhere',
+    lesson: '26',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'いつでも',
+    meaning: 'Any time',
+    lesson: '26',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '直接',
+    meaning: 'Directly',
+    lesson: '26',
+    kun: 'ちょくせつ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'ずいぶん',
+    meaning: 'Very, pretty',
+    lesson: '26',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '平日',
+    meaning: 'Weekday',
+    lesson: '26',
+    kun: 'へいじつ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'ごみ',
+    meaning: 'Garbage, rubbish, dust',
+    lesson: '26',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '財布',
+    meaning: 'Wallet, purse',
+    lesson: '26',
+    kun: 'さいふ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '場所',
+    meaning: 'Place',
+    lesson: '26',
+    kun: 'ばしょ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '気分が悪い',
+    meaning: 'Feel ill',
+    lesson: '26',
+    kun: 'きぶんがわるい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '気分がいい',
+    meaning: 'Feel well',
+    lesson: '26',
+    kun: 'きぶんがいい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '連絡する',
+    meaning: 'Contact, get in touch',
+    lesson: '26',
+    kun: 'れんらくする',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '拾う',
+    meaning: 'Pick up',
+    lesson: '26',
+    kun: 'ひろう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'やる',
+    meaning: 'Do',
+    lesson: '26',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '間に合う',
+    meaning: 'Be in time [for an appointment]',
+    lesson: '26',
+    kun: '[時間に～]まにあう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '遅れる',
+    meaning: 'Be late [for an appointment]',
+    lesson: '26',
+    kun: '[時間に～]おくれる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '捜す',
+    meaning: 'Look for, search',
+    lesson: '26',
+    kun: 'さがす',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '探す',
+    meaning: 'Look for, search',
+    lesson: '26',
+    kun: 'さがす',
+    level: 'N4',
+    include: 1
+  },
+
+
+  {
+    char: '診る',
+    meaning: 'Check, take a look at',
+    lesson: '26',
+    kun: 'みる',
+    level: 'N4',
+    include: 1
+  },
+ 
 
   {
     char: '狭い',
@@ -26,22 +237,7 @@ export const kanji = [
     include: 1
   },
 
-  {
-    char: 'とても',
-    meaning: 'very',
-    lesson: '2',
-    kun: 'とても',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: 'たくさん',
-    meaning: 'Many much',
-    lesson: '2',
-    kun: '',
-    level: 'N5',
-    include: 1
-  },
+
  
   {
     char: '細かい',
@@ -145,7 +341,7 @@ export const kanji = [
     lesson: '2',
     kun: 'しゅっちょうする',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -157,7 +353,7 @@ export const kanji = [
     lesson: '2',
     kun: '「けんこう」ほけんしょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -171,7 +367,7 @@ export const kanji = [
     lesson: '2',
     kun: 'かえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '運転する',
@@ -179,7 +375,7 @@ export const kanji = [
     lesson: '2',
     kun: 'うんてんする',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -250,7 +446,7 @@ export const kanji = [
     lesson: '2',
     kun: 'むり',
     level: 'N5',
-    include: 1
+    include: 0
   },
  
   {
@@ -300,10 +496,10 @@ export const kanji = [
   },
 
   {
-    char: 'ほんとう',
+    char: '本当',
     meaning: 'True',
     lesson: '2',
-    kun: '',
+    kun: 'ほんとう',
     level: 'N5',
     include: 1
   },
@@ -322,7 +518,7 @@ export const kanji = [
     lesson: '2',
     kun: 'ぶっか',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '放送',
@@ -357,7 +553,7 @@ export const kanji = [
     lesson: '2',
     kun: 'ちきゅう',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -385,7 +581,7 @@ export const kanji = [
     include: 1
   },
   {
-    char: 'ほんとうに',
+    char: '本当に',
     meaning: 'Really',
     lesson: '2',
     kun: '',
@@ -473,7 +669,7 @@ export const kanji = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '聞く',
@@ -497,7 +693,7 @@ export const kanji = [
     lesson: '1',
     kun: 'かえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '触る',
@@ -507,14 +703,7 @@ export const kanji = [
     level: 'N5',
     include: 1
   },
-  {
-    char: '出る',
-    meaning: '[change] come out',
-    lesson: '1',
-    kun: '[お釣りが] ~ でる',
-    level: 'N5',
-    include: 1
-  },
+
 
   {
     char: '渡る',
@@ -662,14 +851,7 @@ export const kanji = [
     level: 'N5',
     include: 1
   },
-  {
-    char: '送る',
-    meaning: 'escort [someone], go with',
-    lesson: '1',
-    kun: '[人を] ~ おくる',
-    level: 'N5',
-    include: 1
-  },
+
   {
     char: '紹介する',
     meaning: 'Introduce',
@@ -702,22 +884,7 @@ export const kanji = [
     level: 'N5',
     include: 1
   },
-  {
-    char: '引っ越し',
-    meaning: 'Moving out (~[を] します: Move out)',
-    lesson: '1',
-    kun: 'ひっこし',
-    level: 'N5',
-    include: 1
-  },
-  {
-    char: '[お]菓子',
-    meaning: 'Sweets, snacks',
-    lesson: '1',
-    kun: '[お]かし',
-    level: 'N5',
-    include: 1
-  },
+
   {
     char: '全部',
     meaning: 'All',
@@ -735,7 +902,7 @@ export const kanji = [
     include: 1
   },
   {
-    char: 'ほかに',
+    char: '他に',
     meaning: 'Besides',
     lesson: '1',
     kun: '',
@@ -830,6 +997,62 @@ export const kanji = [
     kun: 'いみ',
     level: 'N5',
     include: 1
+  },
+  {
+    char: 'だいたい',
+    meaning: 'Mostly, roughly',
+    lesson: '2',
+    kun: '',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '出る',
+    meaning: '[change] come out',
+    lesson: '1',
+    kun: '[お釣りが] ~ でる',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '送る',
+    meaning: 'escort [someone], go with',
+    lesson: '1',
+    kun: '[人を] ~ おくる',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '引っ越し',
+    meaning: 'Moving out (~[を] します: Move out)',
+    lesson: '1',
+    kun: 'ひっこし',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: '[お]菓子',
+    meaning: 'Sweets, snacks',
+    lesson: '1',
+    kun: '[お]かし',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: 'とても',
+    meaning: 'very',
+    lesson: '2',
+    kun: 'とても',
+    level: 'N5',
+    include: 0
+  },
+  {
+    char: 'たくさん',
+    meaning: 'Many much',
+    lesson: '2',
+    kun: '',
+    level: 'N5',
+    include: 0
   },
 
   {

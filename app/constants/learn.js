@@ -1783,9 +1783,125 @@ export const grammar = [
 
         ]
     },
+    {
+        lesson : 26,
+        book: 'N4',
+        name: 'V/い/な/N } んで',
+        ex: 'Explanation, confirmation',
+        examples: [
+            {
+                explanation: '1) ～んですか',
+                example: '',
+                translation: "",
+                note: '(1) To confirm something.',
+            },
+            {
+                explanation: '',
+                example: '(ぬれた傘を持っている人を見て)雨が降っているんですか。',
+                translation: "(Seeing someone holding a wet umbrella) Is it raining?",
+                note: '(2) Asking for detailed information.',
+            },
+            {
+                explanation: '',
+                example: 'おもしろいデザインの靴ですね。どこで買ったんですか。',
+                translation: "Those shoes are interestingly designed. Where did you buy them?",
+                note: '(3) Asking for reason.',
+            },
+            {
+                explanation: '',
+                example: 'どうして遅れたんですか。',
+                translation: "Why were you late?",
+                note: '(4) Asking explanation.',
+            },
+            {
+                explanation: '',
+                example: 'どうしたんですか。',
+                translation: "What's the matter?",
+                note: '',
+            },
+            {
+                explanation: '2) ～んです',
+                example: '',
+                translation: "",
+                note: '(1) When giving explanation reply.',
+            },
+            {
+                explanation: '',
+                example: 'どうして遅れたんですか。バスが来なかったんです。',
+                translation: "Why were you late? Because the bus didn't come.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'どうしたんですか。ちょっと気分が悪いんです。',
+                translation: "What's the matter? I don't feel very well.",
+                note: '(2) Adding reason to explain.',
+            },
+            {
+                explanation: '',
+                example: 'よくカラオケに行きますか。いいえ、あまり行きません。カラオケは好きじゃないんです。',
+                translation: "Do you often go to karaoke? No, I don't go very often. I don't like karaoke.",
+                note: '',
+            },
+            {
+                explanation: '3) ～んですが、～',
+                example: '',
+                translation: "",
+                note: 'Introducing topic fallowed by request, invitation or seeking premission.',
+            },
+            {
+                explanation: '',
+                example: '頭が痛いんですが、帰ってもいいですか。',
+                translation: "I've got a headache, may I go home?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'お湯が出ないんですが…',
+                translation: "There's no hot water...",
+                note: '',
+            },
+
+        ]
+    },
+    {
+        lesson : 26,
+        book: 'N4',
+        name: 'V て-form いただけませんか',
+        ex: 'Would you be so kind as to~?',
+        examples: [
+            {
+                explanation: '1) This is more polite then ～て ください.',
+                example: 'いい先生を紹介していただけませんか。',
+                translation: "Would you be so kind as to introduce me to a good teacher.",
+                note: '',
+            },
+        ]
+    },
+        {
+        lesson : 26,
+        book: 'N4',
+        name: 'V た-form らいいですか',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Asking for advice or instructions.',
+                example: 'どこでカメラを買ったらいいですか。ABCストアが安いですよ。',
+                translation: "Where would be a good place to buy camera? ABC store is cheap.",
+                note: '',
+            },
+
+
+        ]
+    },
+
+
+
+
+
     // {
     //     lesson : 19,
-    //     book: 'N5',
+    //     book: 'N3',
     //     name: '',
     //     ex: '',
     //     examples: [
@@ -1807,7 +1923,7 @@ export const grammar = [
     // },
     // {
     //     lesson : 19,
-    //     book: 'N5',
+    //     book: 'N3',
     //     name: '',
     //     ex: '',
     //     examples: [
