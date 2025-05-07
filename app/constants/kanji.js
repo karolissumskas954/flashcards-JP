@@ -1,5 +1,185 @@
 export const kanji = [
   {
+    char: '将来',
+    meaning: 'Future',
+    lesson: '27',
+    kun: 'しょうらい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '空',
+    meaning: 'Sky',
+    lesson: '27',
+    kun: 'そら',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '自由に',
+    meaning: 'Free',
+    lesson: '27',
+    kun: 'じゆうに',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '例えば',
+    meaning: 'For example',
+    lesson: '27',
+    kun: 'たとえば',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '不思議「な」',
+    meaning: 'Strange, mysterious',
+    lesson: '27',
+    kun: 'ふしぎ「な」',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '形',
+    meaning: 'Shape',
+    lesson: '27',
+    kun: 'かたち',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'すばらしい',
+    meaning: 'Great',
+    lesson: '27',
+    kun: '素晴らしい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '本棚',
+    meaning: 'Bookshelf',
+    lesson: '27',
+    kun: 'ほんだな',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '～しか',
+    meaning: 'Just',
+    lesson: '27',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '～後',
+    meaning: 'After',
+    lesson: '27',
+    kun: '～ご',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '台所',
+    meaning: 'Kitchen',
+    lesson: '27',
+    kun: 'だいどころ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '道具',
+    meaning: 'Tool',
+    lesson: '27',
+    kun: 'どうぐ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '昔',
+    meaning: 'Once upon a time',
+    lesson: '27',
+    kun: 'むかし',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '昼間',
+    meaning: 'Daytime',
+    lesson: '27',
+    kun: 'ひるま',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '景色',
+    meaning: 'Scenery',
+    lesson: '27',
+    kun: 'けしき',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '花火',
+    meaning: 'Fireworks',
+    lesson: '27',
+    kun: 'はなび',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '波',
+    meaning: 'Wave',
+    lesson: '27',
+    kun: 'なみ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '声',
+    meaning: 'Voice',
+    lesson: '27',
+    kun: 'こえ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '鳥',
+    meaning: 'Bird',
+    lesson: '27',
+    kun: 'とり',
+    level: 'N4',
+    include: 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    char: '飼う',
+    meaning: 'Raising a pet',
+    lesson: '27',
+    kun: 'かう',
+    level: 'N4',
+    include: 1
+  },
+
+
+
+
+
+
+
+
+  
+  {
     char: '缶',
     meaning: 'Can',
     lesson: '26',
@@ -234,18 +414,18 @@ export const kanji = [
     lesson: '2',
     kun: 'せまい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
- 
+
   {
     char: '細かい',
     meaning: 'small; detailed',
     lesson: '2',
     kun: 'こまかい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -274,7 +454,7 @@ export const kanji = [
     lesson: '2',
     kun: 'じこくひょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -283,7 +463,7 @@ export const kanji = [
     lesson: '2',
     kun: 'みじかい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '明るい',
@@ -291,7 +471,7 @@ export const kanji = [
     lesson: '2',
     kun: 'あかるい',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '暗い',
@@ -389,7 +569,7 @@ export const kanji = [
     lesson: '2',
     kun: 'どうぶつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -463,7 +643,7 @@ export const kanji = [
     lesson: '2',
     kun: 'しゅうりする',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -604,7 +784,7 @@ export const kanji = [
     lesson: '2',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '着る',
@@ -636,7 +816,7 @@ export const kanji = [
     lesson: '1',
     kun: '[眼鏡を] ~ かける',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -645,7 +825,7 @@ export const kanji = [
     lesson: '1',
     kun: 'ぼうし',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '眼鏡',
@@ -653,7 +833,7 @@ export const kanji = [
     lesson: '1',
     kun: 'めがね',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '都合',
@@ -677,7 +857,7 @@ export const kanji = [
     lesson: '1',
     kun: '[先生に] ~ きく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '回す',
@@ -711,7 +891,7 @@ export const kanji = [
     lesson: '1',
     kun: '[橋を] ~ わたる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '曲がる',
@@ -736,7 +916,7 @@ export const kanji = [
     lesson: '1',
     kun: 'おと',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '故障',
@@ -760,7 +940,7 @@ export const kanji = [
     lesson: '1',
     kun: 'しゃどう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '通り',
@@ -776,7 +956,7 @@ export const kanji = [
     lesson: '1',
     kun: 'こうさてん',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '信号',
@@ -792,7 +972,7 @@ export const kanji = [
     lesson: '1',
     kun: 'かど',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '橋',
@@ -808,7 +988,7 @@ export const kanji = [
     lesson: '1',
     kun: 'ちゅうしゃじょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '建物',
@@ -905,7 +1085,7 @@ export const kanji = [
     char: '他に',
     meaning: 'Besides',
     lesson: '1',
-    kun: '',
+    kun: 'ほかに',
     level: 'N5',
     include: 1
   },
@@ -4321,7 +4501,7 @@ export const kanji = [
     lesson: '1',
     kun: 'とぶ',
     level: 'N5',
-    include: 0
+    include: 1
   },
   {
     char: '跳ぶ',
