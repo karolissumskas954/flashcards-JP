@@ -1894,6 +1894,160 @@ export const grammar = [
 
         ]
     },
+        {
+        lesson : 27,
+        book: 'N4',
+        name: 'Potential verbs',
+        ex: '',
+        examples: [
+            {
+                style: 'table',
+                headings:[{heading: "Dictionary Form"}, {heading: "Plain form"}],
+                content:[
+                    {
+                        sen: "書く",
+                        tran: "買う",
+
+                        sen1: "書ける",
+                        tran2: "買える",
+                    },
+                    {
+                        sen: "食べる",
+                        tran: "",
+
+                        sen1: "食べられる",
+                        tran2: "",
+                    },
+                    {
+                        sen: "くる",
+                        tran: "する",
+
+                        sen1: "こられる",
+                        tran2: "できる",
+                    },
+                ]
+            },
+
+        ]
+    },
+        {
+        lesson : 27,
+        book: 'N4',
+        name: 'Potential verb sentences',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Potential verbs express not actions but states. を->が .',
+                example: '[を] -> 日本語を話します。',
+                translation: "I speak Japanese.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '[が] -> 日本語が話せます。',
+                translation: "I can speak Japanese.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '一人で病院へ行けますか。',
+                translation: "Can you go to the hospital alone?",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '田中さんに会えませんでした。',
+                translation: "I could not see Mr. Tanaka.",
+                note: '',
+            },
+            {
+                explanation: '2) To express a persons ability to do something and to express the possibility of an action in a certain situation.',
+                example: 'ミラーさんは漢字が読めます。',
+                translation: "Mr. Miller can read Kanji.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'この銀行でドルが換えられます。',
+                translation: "You can change dollars at this bank.",
+                note: '',
+            },
+        ]
+    },
+        {
+        lesson : 27,
+        book: 'N4',
+        name: '見えます / 聞こえます',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Voluntary action / Involuntary action.',
+                example: '新宿でいま黒沢の映画が見られます。',
+                translation: "You can now see Kurosawa’s movies in Shinjuku.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '新幹線から富士山が見えます',
+                translation: "Mt. Fuji can be seen from the Shinkansen",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '電話で天気予報が聞けます。(予報 -> よほう)',
+                translation: "You can hear the weather forecast by phone.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'ラジオの音が聞こえます。',
+                translation: "The sound of a radio can be heard.",
+                note: '',
+            },
+
+
+        ]
+    },
+    {
+        lesson : 27,
+        book: 'N4',
+        name: 'できます',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) Meaning: “come into being”, ‘come up”, “be completed”, “be finished”, “be made”.',
+                example: '駅の前に大きいスーパーができました。',
+                translation: "A big supermarket has been completed in front of the station.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: '時計の修理はいつできますか。',
+                translation: "When can you fix this watch?",
+                note: '',
+            },
+        ]
+    },
+    {
+        lesson : 27,
+        book: 'N4',
+        name: 'しか',
+        ex: '',
+        examples: [
+            {
+                explanation: '1) しかhas a negative nuance, while だけhas a positive one.',
+                example: 'ローマ字しか書けません。',
+                translation: "I cannot write anything but Roman letters.",
+                note: '',
+            },
+            {
+                explanation: '',
+                example: 'ローマ字だけ書けます。',
+                translation: "I can only write Roman letters.",
+                note: '',
+            },
+        ]
+    },
 
 
 
