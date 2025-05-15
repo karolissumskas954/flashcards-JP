@@ -4,6 +4,7 @@ export const grammar = [
         book: 'N5',
         name: 'N(time)に V',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Indicate the time of occurance.',
@@ -24,6 +25,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1からN2まで',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) から-Starting place or time, まで-Finishing.',
@@ -56,6 +58,7 @@ export const grammar = [
         book: 'N5',
         name: 'N(person/animal)とV',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) When doing something with someone, the person/animal marked with と.',
@@ -76,6 +79,7 @@ export const grammar = [
         book: 'N5',
         name: 'N(place)でV',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Indicates the occurrence of an action in that place.',
@@ -91,6 +95,7 @@ export const grammar = [
         book: 'N5',
         name: 'N(tool/means)でV',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Indicates a method or means used for an action.',
@@ -112,6 +117,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1(person)にN2をあげます, etc.',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Verbs like: あげます, 貸します, 教えます. Particle に used to denote the recipient.',
@@ -139,6 +145,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1(person)にN2をもらいます, etc.',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Verbs like: もらいます, 借ります, 習います. Particle に used to denote that person.',
@@ -166,6 +173,7 @@ export const grammar = [
         book: 'N5',
         name: 'もうVました',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) もう means already. In this case, Vました means that the action has been completed.',
@@ -199,6 +207,7 @@ export const grammar = [
         book: 'N5',
         name: 'Nは(な/い)-adj',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Adjective sentences that attached to です, な-adj drop their な.',
@@ -256,6 +265,7 @@ export const grammar = [
         book: 'N5',
         name: 'Nは(な/い)-adj',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Ajective Inflections.',
@@ -282,6 +292,7 @@ export const grammar = [
         book: 'N5',
         name: '~が, ~',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Connect two statements with "but".',
@@ -296,6 +307,7 @@ export const grammar = [
         book: 'N5',
         name: 'N は どうですか',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Inquire about the listeners impression, opinion or feeling.',
@@ -316,6 +328,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1は どんなN2ですか',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Inquiring about the state or nature of person or thing.',
@@ -348,6 +361,7 @@ export const grammar = [
         book: 'N5',
         name: 'よく/だいたい/たくさん/少し/全然/あまり',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: 'Table',
@@ -363,6 +377,7 @@ export const grammar = [
         book: 'N5',
         name: 'よく/だいたい/たくさん/少し/全然/あまり',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '',
@@ -414,6 +429,7 @@ export const grammar = [
         book: 'N5',
         name: '~から,~',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) A statement before から gives the reason for a statement after it.',
@@ -440,6 +456,7 @@ export const grammar = [
         book: 'N5',
         name: 'どうして',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Used to ask reason for something. から placed at the end to give reason.',
@@ -478,6 +495,7 @@ export const grammar = [
         book: 'N5',
         name: 'います／あります',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) N が あります / います.',
@@ -516,6 +534,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1(thing/person/place)のN2(position)',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) N2 上、下、前、後ろ、右、左、中、外、隣、近く、間 positional relationship with N1.',
@@ -542,6 +561,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1 や N2',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) や is used when two or more items are enumerated. ',
@@ -563,6 +583,7 @@ export const grammar = [
         book: 'N5',
         name: 'Quantifiers',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) Numbers with counter suffixes. ',
@@ -640,6 +661,7 @@ export const grammar = [
         book: 'N5',
         name: 'Quantifier だけ /N だけ',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) だけ means Only. ',
@@ -661,6 +683,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1 は N2 より adj です',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Describes the quality or state of N1 in comparison with N2. ',
@@ -675,6 +698,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1 と N2 と どちらが adj ですか ',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) どちら is used when comparing any two items. ',
@@ -707,6 +731,7 @@ export const grammar = [
         book: 'N5',
         name: 'N が欲しいです ',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) 欲しい is an い-adj, its object is marked by が.',
@@ -745,6 +770,7 @@ export const grammar = [
         book: 'N5',
         name: 'V ます-form たいです',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: "1) Is used to express speaker's desire to do something.",
@@ -789,6 +815,7 @@ export const grammar = [
         book: 'N5',
         name: 'N(place) N/V に 行きます/来ます/帰ります',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) The purpose of the actions 行きます/来ます/帰ります are marked by に.',
@@ -822,6 +849,7 @@ export const grammar = [
         book: 'N5',
         name: 'V-てform',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: 'Godan) う、つ、る',
@@ -866,6 +894,7 @@ export const grammar = [
         book: 'N5',
         name: 'V て-formもいいですか',
         ex: 'May I do...?',
+        include: 1,
         examples: [
             {
                 explanation: 'Asking permission to do something.',
@@ -904,6 +933,7 @@ export const grammar = [
         book: 'N5',
         name: 'V て-formはいけません',
         ex: 'You must not do...',
+        include: 1,
         examples: [
             {
                 explanation: 'To express prohibition.',
@@ -919,6 +949,7 @@ export const grammar = [
         book: 'N5',
         name: 'V て-formいます',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) To show a state.',
@@ -982,6 +1013,7 @@ export const grammar = [
         book: 'N5',
         name: 'NにV',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: 'に is used to indicate the location of subject resulting from the action. (入ります, 座ります, 乗ります, 登ります, 着きます).',
@@ -1009,6 +1041,7 @@ export const grammar = [
         book: 'N5',
         name: 'N1にN2をV',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: 'に indicates the location (N1) of N2 as the result of an anction.',
@@ -1030,6 +1063,7 @@ export const grammar = [
         book: 'N5',
         name: 'Join two or more sentences',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) V1て-form,[V2て-form], V3. (Listed in order)',
@@ -1070,6 +1104,7 @@ export const grammar = [
         book: 'N5',
         name: 'V1 て-form から、V2',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '',
@@ -1097,6 +1132,7 @@ export const grammar = [
         book: 'N5',
         name: 'ない-form',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Godan.',
@@ -1124,6 +1160,7 @@ export const grammar = [
         book: 'N5',
         name: 'V ないでください',
         ex: "Please don't do",
+        include: 1,
         examples: [
             {
                 explanation: 'Tell someone not to do something.',
@@ -1145,6 +1182,7 @@ export const grammar = [
         book: 'N5',
         name: 'なければなりません',
         ex: 'Must do',
+        include: 1,
         examples: [
             {
                 explanation: 'Something must be done.',
@@ -1160,6 +1198,7 @@ export const grammar = [
         book: 'N5',
         name: 'なくてもいいです',
         ex: 'Need not do',
+        include: 1,
         examples: [
             {
                 explanation: 'Not necessary to do something.',
@@ -1175,6 +1214,7 @@ export const grammar = [
         book: 'N5',
         name: 'N/V } ができます',
         ex: 'Can do',
+        include: 1,
         examples: [
             {
                 explanation: '1) In case of a noun.',
@@ -1208,6 +1248,7 @@ export const grammar = [
         book: 'N5',
         name: 'V た-form',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: 'て-form -> た-form.',
@@ -1223,6 +1264,7 @@ export const grammar = [
         book: 'N5',
         name: 'V た-form ことがあります',
         ex: 'Have experience of doing',
+        include: 1,
         examples: [
             {
                 explanation: 'What happened in the past as an experience.',
@@ -1244,6 +1286,7 @@ export const grammar = [
         book: 'N5',
         name: 'V1 た-formり, V2 た-formりします',
         ex: 'V1,V2 and so on',
+        include: 1,
         examples: [
             {
                 explanation: 'To tell verb examples of longer list.',
@@ -1271,6 +1314,7 @@ export const grammar = [
         book: 'N5',
         name: '{い->く/な->に/Nに}なります',
         ex: 'To become',
+        include: 1,
         examples: [
             {
                 explanation: 'Indicates a change of state.',
@@ -1298,6 +1342,7 @@ export const grammar = [
         book: 'N5',
         name: 'Polite/Plain style',
         ex: '',
+        include: 1,
         examples: [
             {
                 style: 'table',
@@ -1362,6 +1407,7 @@ export const grammar = [
         book: 'N5',
         name: 'Plain form と思います',
         ex: 'I think that',
+        include: 0,
         examples: [
             {
                 explanation: '1) When expressing conjecture.',
@@ -1407,6 +1453,7 @@ export const grammar = [
         book: 'N5',
         name: 'と言います',
         ex: 'Say',
+        include: 1,
         examples: [
             {
                 explanation: '1) Reporting speech directly.',
@@ -1440,6 +1487,7 @@ export const grammar = [
         book: 'N5',
         name: 'Lesson 21',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) でしょう... Right?',
@@ -1497,6 +1545,7 @@ export const grammar = [
         book: 'N5',
         name: 'とき、～(Main clause)',
         ex: 'When',
+        include: 1,
         examples: [
             {
                 explanation: '1) とき is used to connect two sentences.',
@@ -1548,6 +1597,7 @@ export const grammar = [
         book: 'N5',
         name: 'とき、～(Main clause)',
         ex: 'When',
+        include: 1,
         examples: [
             {
                 explanation: '1) With dictionary form, what described in main clause happened before ～とき. Using た-form - what happened after.',
@@ -1569,6 +1619,7 @@ export const grammar = [
         book: 'N5',
         name: 'と、～(Main clause)',
         ex: 'If...then...',
+        include: 1,
         examples: [
             {
                 explanation: '1) Indicate if a certain action occurs.',
@@ -1596,6 +1647,7 @@ export const grammar = [
         book: 'N5',
         name: 'くれます',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Someone else giving something to speaker.',
@@ -1629,6 +1681,7 @@ export const grammar = [
         book: 'N5',
         name: 'て-form 上げる/もらう/くれる',
         ex: '',
+        include: 0,
         examples: [
             {
                 explanation: '1) て-form 上げる [I did for someone].',
@@ -1680,6 +1733,7 @@ export const grammar = [
         book: 'N5',
         name: 'Plain past form ら、',
         ex: 'If...',
+        include: 1,
         examples: [
             {
                 explanation: '1) (Main clause) describes what will happen if condition is true.',
@@ -1719,6 +1773,7 @@ export const grammar = [
         book: 'N5',
         name: 'V た-form ら、',
         ex: 'When.../After.../Once...',
+        include: 1,
         examples: [
             {
                 explanation: '1) To express if certain action will happen.',
@@ -1740,6 +1795,7 @@ export const grammar = [
         book: 'N5',
         name: '}も、～',
         ex: 'Even if...',
+        include: 1,
         examples: [
             {
                 explanation: '1) V て-form / V ない-form / い-adj -> くて / な-adj -> で / N で }も、～(Main clause).',
@@ -1773,6 +1829,7 @@ export const grammar = [
         book: 'N5',
         name: 'もし',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Used with conjunction with ～たら to give notice that clause following it is conditional.',
@@ -1788,6 +1845,7 @@ export const grammar = [
         book: 'N4',
         name: 'V/い/な/N } んで',
         ex: 'Explanation, confirmation',
+        include: 1,
         examples: [
             {
                 explanation: '1) ～んですか',
@@ -1869,6 +1927,7 @@ export const grammar = [
         book: 'N4',
         name: 'V て-form いただけませんか',
         ex: 'Would you be so kind as to~?',
+        include: 1,
         examples: [
             {
                 explanation: '1) This is more polite then ～て ください.',
@@ -1883,6 +1942,7 @@ export const grammar = [
         book: 'N4',
         name: 'V た-form らいいですか',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Asking for advice or instructions.',
@@ -1899,6 +1959,7 @@ export const grammar = [
         book: 'N4',
         name: 'Potential verbs',
         ex: '',
+        include: 1,
         examples: [
             {
                 style: 'table',
@@ -1935,6 +1996,7 @@ export const grammar = [
         book: 'N4',
         name: 'Potential verb sentences',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Potential verbs express not actions but states. を->が .',
@@ -1979,6 +2041,7 @@ export const grammar = [
         book: 'N4',
         name: '見えます / 聞こえます',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Voluntary action / Involuntary action.',
@@ -2013,6 +2076,7 @@ export const grammar = [
         book: 'N4',
         name: 'できます',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) Meaning: “come into being”, ‘come up”, “be completed”, “be finished”, “be made”.',
@@ -2033,6 +2097,7 @@ export const grammar = [
         book: 'N4',
         name: 'しか',
         ex: '',
+        include: 1,
         examples: [
             {
                 explanation: '1) しかhas a negative nuance, while だけhas a positive one.',
@@ -2058,6 +2123,7 @@ export const grammar = [
     //     book: 'N3',
     //     name: '',
     //     ex: '',
+    //include: 1,
     //     examples: [
     //         {
     //             style: 'table',
@@ -2080,6 +2146,7 @@ export const grammar = [
     //     book: 'N3',
     //     name: '',
     //     ex: '',
+    //include: 1,
     //     examples: [
     //         {
     //             explanation: '',

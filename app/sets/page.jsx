@@ -42,7 +42,7 @@ const Sets = () => {
     });
 
     const [checkedStates, setCheckedStates] = useState(
-      Array(filteredGrammar.length).fill(true)
+      filteredGrammar.map(item => item.include === 1)
     );
   
     const handleCheckboxChange = (index) => {

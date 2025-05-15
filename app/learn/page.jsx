@@ -23,6 +23,8 @@ const Learn = () => {
   const name = useSelector((state) => state.sets.name);
   const isVisible = useSelector((state) => state.show.isVisible);
 
+  const[setgrammar, setGrammar] = useState(grammar.filter(item => item.include === 1))
+
   const [selectedIndex, setSelectedIndex] = useState(0);
   const dispatch = useDispatch();
   const handleCarouselItemHover = (index) => {
@@ -75,7 +77,7 @@ const Learn = () => {
         // ref={carouselRef}
         >
         <CarouselContent >
-  {grammar.slice().reverse().map((grammarItem, index) => {
+  {setgrammar.slice().reverse().map((grammarItem, index) => {
     return (
       <CarouselItem key={index} className='group' onMouseEnter={() => handleCarouselItemHover(index)}>
         {/* Card face 1 */}
