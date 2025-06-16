@@ -17,6 +17,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { setValue } from "../redux/counterReducer";
 
 import { grammar } from "../constants/learn";
+import ReactMarkdown from 'react-markdown';
 
 
 const Learn = () => {
@@ -126,7 +127,7 @@ const Learn = () => {
           <div className=" justify-start items-start w-full pb-6">
             {grammarItem.examples.map((example, idx) => (
               example.style  ? 
-                (<div >
+                (<div key={idx}>
                   <table className=" flex w-full flex-col my-3 table-fixed rounded-xl">
                     <thead className="flex w-full  px-2 ">
                       <tr className="flex  w-full justify-evenly">
@@ -153,14 +154,14 @@ const Learn = () => {
                   </table>
                 </div>) : 
                 (<div key={idx} className="mb-4 mx-4 text-wrap max-w-full break-words">
-                {example.explanation && <p className=" text-black text-[24px] font-bold">{example.explanation}</p>}
+                {example.explanation && <p className=" text-black text-[22px] font-medium"><ReactMarkdown>{example.explanation}</ReactMarkdown></p>}
                 <div className="flex flex-row justify-between">
                   <div className="flex items-start">
-                    <p className={` text-[22px] text-black  pl-6`}>{example.example}</p>
+                    <p className={` text-[22px] text-black  pl-6`}><ReactMarkdown>{example.example}</ReactMarkdown></p>
                   </div>
                 </div>
-                <p className={`${showText == true ? '' : 'invisible'}  italic text-black mt-[-10px] pl-6 text-[22px]`}>{example.translation}</p>
-                {example.note && <p className="text-black text-[20px]">{example.note}</p>}
+                <p className={`${showText == true ? '' : 'invisible'}  italic text-black mt-[-10px] pl-6 text-[22px]`}><ReactMarkdown>{example.translation}</ReactMarkdown></p>
+                {example.note && <p className="text-black text-[20px] underline"><ReactMarkdown>{example.note}</ReactMarkdown></p>}
               </div>)
               
 

@@ -1,11 +1,1118 @@
-export const kanji = [
+export const kanji = [  
+  // {
+  //   char: '',
+  //   meaning: '',
+  //   lesson: '29',
+  //   kun: '',
+  //   level: 'N4',
+  //   include: 1
+  // },
+  {
+    char: '動物園',
+    meaning: 'Zoo',
+    lesson: '31',
+    kun: 'どうぶつえん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '教会',
+    meaning: 'Church',
+    lesson: '31',
+    kun: 'きょうかい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '式',
+    meaning: 'Ceremony',
+    lesson: '31',
+    kun: 'しき',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '都会',
+    meaning: 'City',
+    lesson: '31',
+    kun: 'とかい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '閉じる',
+    meaning: 'Close',
+    lesson: '31',
+    kun: 'とじる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '卒業する',
+    meaning: 'Graduate',
+    lesson: '31',
+    kun: 'そつぎょうする',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '村',
+    meaning: 'Village',
+    lesson: '31',
+    kun: 'むら',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '月に',
+    meaning: 'Per month',
+    lesson: '31',
+    kun: 'つきに',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '入学試験',
+    meaning: 'Enterance examination',
+    lesson: '31',
+    kun: 'にゅうがくしけん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '残る',
+    meaning: 'Remain, be left, stay behind',
+    lesson: '31',
+    kun: 'のこる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '～の方',
+    meaning: 'Place toward～, direction of ～',
+    lesson: '31',
+    kun: '～のほう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '帰り',
+    meaning: 'Return',
+    lesson: '31',
+    kun: 'かえり',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '温泉',
+    meaning: 'Hot springs',
+    lesson: '31',
+    kun: 'おんせん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '大学院',
+    meaning: 'Graduate school',
+    lesson: '31',
+    kun: 'だいがくいん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '支店',
+    meaning: 'Branch office',
+    lesson: '31',
+    kun: 'してん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '本社',
+    meaning: 'Head office',
+    lesson: '31',
+    kun: 'ほんしゃ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '展覧会',
+    meaning: 'Exibition',
+    lesson: '31',
+    kun: 'てんらんかい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '発表',
+    meaning: 'Announcment, presentation (～します: anounce)',
+    lesson: '31',
+    kun: 'はっぴょう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '作文',
+    meaning: 'Essay, composition',
+    lesson: '31',
+    kun: 'さくぶん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '連休',
+    meaning: 'Consecutive holidays',
+    lesson: '31',
+    kun: 'れんきゅう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '休憩する',
+    meaning: 'Take a break, take a rest',
+    lesson: '31',
+    kun: 'きゅうけいする',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '申し込む',
+    meaning: 'Apply for, enter for',
+    lesson: '31',
+    kun: 'もうしこむ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '受ける',
+    meaning: 'Take[An examination]｛試験を～｝',
+    lesson: '31',
+    kun: 'うける',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '見つける',
+    meaning: 'Find',
+    lesson: '31',
+    kun: 'みつける',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '続ける',
+    meaning: 'Continue',
+    lesson: '31',
+    kun: 'つづける',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '目が覚める',
+    meaning: 'Wake up',
+    lesson: '30',
+    kun: 'めがさめる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'すると',
+    meaning: 'And, then',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '嫌「な」',
+    meaning: 'Hateful, disagreeable',
+    lesson: '30',
+    kun: 'いや「な」',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'うれしい',
+    meaning: 'Glad, happy',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '夢を見る',
+    meaning: 'Dream',
+    lesson: '30',
+    kun: 'ゆめをみる',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: 'ある～',
+    meaning: 'one ~, a certain ~',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '丸い',
+    meaning: 'Round',
+    lesson: '30',
+    kun: 'まるい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '～とか、～とか',
+    meaning: '~,~, and so on',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '懐中電灯',
+    meaning: 'Torch, flashlight',
+    lesson: '30',
+    kun: 'かいちゅうでんとう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '生活する',
+    meaning: 'Live',
+    lesson: '30',
+    kun: 'せいかつする',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '非常袋',
+    meaning: 'Emergency kit',
+    lesson: '30',
+    kun: 'ひじょうぶくろ',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '非常時',
+    meaning: 'Emergency',
+    lesson: '30',
+    kun: 'ひじょうじ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'まだ',
+    meaning: 'Still',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '隅',
+    meaning: 'Corner',
+    lesson: '30',
+    kun: 'すみ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '真ん中',
+    meaning: 'Centre [The point that is equally distant from every point on the circumference of a circle or sphere.]',
+    lesson: '30',
+    kun: 'まんなか',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '周り',
+    meaning: 'Round, around',
+    lesson: '30',
+    kun: 'まわり',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '元の所',
+    meaning: 'Original place',
+    lesson: '30',
+    kun: 'もとのところ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '池',
+    meaning: 'Pond',
+    lesson: '30',
+    kun: 'いけ',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '廊下',
+    meaning: 'Corridor, hallway',
+    lesson: '30',
+    kun: 'ろうか',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '玄関',
+    meaning: 'Front door, porch, enterance hall',
+    lesson: '30',
+    kun: 'げんかん',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '引き出し',
+    meaning: 'Drawer',
+    lesson: '30',
+    kun: 'ひきだし',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '鏡',
+    meaning: 'Mirror',
+    lesson: '30',
+    kun: 'かがみ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '花瓶',
+    meaning: 'Vase',
+    lesson: '30',
+    kun: 'かびん',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '人形',
+    meaning: 'Doll',
+    lesson: '30',
+    kun: 'にんぎょう',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: 'ごみ箱',
+    meaning: 'Trash can',
+    lesson: '30',
+    kun: 'ごみばこ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '予定表',
+    meaning: 'Schedule',
+    lesson: '30',
+    kun: 'よていひょう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '予定',
+    meaning: 'Plan, schedule',
+    lesson: '30',
+    kun: 'よてい',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '講義',
+    meaning: 'Lecture',
+    lesson: '30',
+    kun: 'こうぎ',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '授業',
+    meaning: 'Class',
+    lesson: '30',
+    kun: 'じゅぎょう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'そのままにする',
+    meaning: 'Leave things as they are',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '復習する',
+    meaning: "Review one's lesson",
+    lesson: '30',
+    kun: 'ふくしゅうする',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '予習する',
+    meaning: "Prepare one's lesson",
+    lesson: '30',
+    kun: 'よしゅうする',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '決める',
+    meaning: 'Decide',
+    lesson: '30',
+    kun: 'きめる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'しまう',
+    meaning: 'Put (things) away',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'まとめる',
+    meaning: 'Put ~ together, put ~ in shape, sum up',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '戻す',
+    meaning: 'Return, put ~ back',
+    lesson: '30',
+    kun: 'もどす',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '植える',
+    meaning: 'Plant',
+    lesson: '30',
+    kun: 'うえる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '並べる',
+    meaning: 'Arrange, line up',
+    lesson: '30',
+    kun: 'ならべる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '飾る',
+    meaning: 'Display, decorate',
+    lesson: '30',
+    kun: 'かざる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '掛ける',
+    meaning: 'Hang',
+    lesson: '30',
+    kun: 'かける',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: 'はる',
+    meaning: 'Put up, post, paste',
+    lesson: '30',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '燃える',
+    meaning: 'Burn',
+    lesson: '29',
+    kun: 'もえる',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '南',
+    meaning: 'South',
+    lesson: '29',
+    kun: 'みなみ',
+    level: 'N4',
+    include: 1
+  },
+{
+    char: '北',
+    meaning: 'North',
+    lesson: '29',
+    kun: 'きた',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '東',
+    meaning: 'East',
+    lesson: '29',
+    kun: 'ひがし・あずま',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '西',
+    meaning: 'West',
+    lesson: '29',
+    kun: 'にし',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '倒れる',
+    meaning: 'Fall down',
+    lesson: '29',
+    kun: 'たおれる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '指す',
+    meaning: 'To Point',
+    lesson: '29',
+    kun: 'さす',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '壁',
+    meaning: 'Walls',
+    lesson: '29',
+    kun: 'かべ',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '地震',
+    meaning: 'Earthquake',
+    lesson: '29',
+    kun: 'じしん',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '確か',
+    meaning: 'I am pretty sure',
+    lesson: '29',
+    kun: 'たしか',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '覚えていません',
+    meaning: "I don't remember",
+    lesson: '29',
+    kun: 'おぼえていません',
+    level: 'N4',
+    include: 0
+  },
+      {
+    char: '～側',
+    meaning: '～Side',
+    lesson: '29',
+    kun: '～がわ',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '忘れ物',
+    meaning: 'Things left behind, lost property',
+    lesson: '29',
+    kun: 'わすれもの',
+    level: 'N4',
+    include: 0
+  },
+      {
+    char: 'お先にどうぞ。',
+    meaning: 'After you/Go ahead',
+    lesson: '29',
+    kun: 'おさきにどうぞ',
+    level: 'N4',
+    include: 0
+  },
+      {
+    char: '返事',
+    meaning: 'Reply, answer',
+    lesson: '29',
+    kun: 'へんじ',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '交番',
+    meaning: 'Police box',
+    lesson: '29',
+    kun: 'こうばん',
+    level: 'N4',
+    include: 0
+  },
+      {
+    char: '枝',
+    meaning: 'Branch, twig',
+    lesson: '29',
+    kun: 'えだ',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '書類',
+    meaning: 'Document, papers',
+    lesson: '29',
+    kun: 'しょるい',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '袋',
+    meaning: 'Bag',
+    lesson: '29',
+    kun: 'ふくろ',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '皿',
+    meaning: 'Plate',
+    lesson: '29',
+    kun: 'さら',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '取り替える',
+    meaning: 'Change',
+    lesson: '29',
+    kun: 'とりかえる',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '拭く',
+    meaning: 'Wipe',
+    lesson: '29',
+    kun: 'ふく',
+    level: 'N4',
+    include: 1
+  },
+  
+  {
+    char: '掛かる',
+    meaning: 'Be locked',
+    lesson: '29',
+    kun: 'かかる',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '落とす',
+    meaning: 'Drop, lose',
+    lesson: '29',
+    kun: 'おとす',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '間違える',
+    meaning: 'Make a mistake',
+    lesson: '29',
+    kun: 'まちがえる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '止まる',
+    meaning: '[A Car]Stop, park',
+    lesson: '29',
+    kun: '[車が～]とまる',
+    level: 'N4',
+    include: 0
+  },
+      {
+    char: '外れる',
+    meaning: '[A Button]Be undone',
+    lesson: '29',
+    kun: '[ボタンが～]はずれる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '汚れる',
+    meaning: '[Clothes]Get dirty',
+    lesson: '29',
+    kun: '[服が～]よごれる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '破れる',
+    meaning: '[Paper]Tear',
+    lesson: '29',
+    kun: '[紙が～]やぶれる',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '折れる',
+    meaning: '[A Tree]Break, snap',
+    lesson: '29',
+    kun: '[木が～]おれる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '割れる',
+    meaning: '[A Glass]Break, smash',
+    lesson: '29',
+    kun: '[コップが～]われる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '壊れる',
+    meaning: '[A Chair]Break',
+    lesson: '29',
+    kun: '[いすが～]こわれる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '消える',
+    meaning: '[A Light]Go off',
+    lesson: '29',
+    kun: '[電気が～]きえる',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: 'つく',
+    meaning: '[A Light]Come on, be turned on',
+    lesson: '29',
+    kun: '[電気が～]つく',
+    level: 'N4',
+    include: 1
+  },
+      {
+    char: '閉まる',
+    meaning: '[A door]Close, shut',
+    lesson: '29',
+    kun: '[ドアが～]しまる',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '開く',
+    meaning: '[A door]Open',
+    lesson: '29',
+    kun: '[ドアが～]あく',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '誘う',
+    meaning: 'Invite, ask someone to join',
+    lesson: '28',
+    kun: 'さそう',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '無料',
+    meaning: 'Free of charge',
+    lesson: '28',
+    kun: 'むりょう',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '参加する',
+    meaning: 'Participate, join, attend',
+    lesson: '28',
+    kun: 'さんかする',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'お知らせ',
+    meaning: 'Notice',
+    lesson: '28',
+    kun: 'おしらせ',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '会話',
+    meaning: 'Conversation',
+    lesson: '28',
+    kun: 'かいわ',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '実は',
+    meaning: 'As a matter of fact',
+    lesson: '28',
+    kun: 'じつは',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'おねがいがあるんですが',
+    meaning: 'I have a favor to ask',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: 'それで',
+    meaning: 'And so',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'それに',
+    meaning: 'In addition',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'たいてい',
+    meaning: 'Usually, mostly',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: 'しばらく',
+    meaning: 'A little while',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+  {
+    char: '～機',
+    meaning: '～Machine',
+    lesson: '28',
+    kun: '～き',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '～家',
+    meaning: '-er,-ist,etc. (e.g. painter, novelist)',
+    lesson: '28',
+    kun: '～か',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '小説家',
+    meaning: 'Novelist',
+    lesson: '28',
+    kun: 'しょうせつか',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '小説',
+    meaning: 'Novel',
+    lesson: '28',
+    kun: 'しょうせつ',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '歌手',
+    meaning: 'Singer',
+    lesson: '28',
+    kun: 'かしゅ',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '番組',
+    meaning: 'Programme',
+    lesson: '28',
+    kun: 'ばんぐみ',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '給料',
+    meaning: 'Salary',
+    lesson: '28',
+    kun: 'きゅうりょう',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '値段',
+    meaning: 'Price',
+    lesson: '28',
+    kun: 'ねだん',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '品物',
+    meaning: 'Goods',
+    lesson: '28',
+    kun: 'しなもの',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '味',
+    meaning: 'Taste',
+    lesson: '28',
+    kun: 'あじ',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '色',
+    meaning: 'Colour',
+    lesson: '28',
+    kun: 'いろ',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '人気',
+    meaning: 'Popularity',
+    lesson: '28',
+    kun: 'にんき',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '力',
+    meaning: 'Power',
+    lesson: '28',
+    kun: 'Chikara',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '経験',
+    meaning: 'Experience (～があります: be expereinced, ～をします: experience)',
+    lesson: '28',
+    kun: 'けいけん',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '美容院',
+    meaning: 'Hair salon',
+    lesson: '28',
+    kun: 'びよういん',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: 'ちょうどいい',
+    meaning: 'Proper, just right',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '偉い',
+    meaning: 'Great, admirable',
+    lesson: '28',
+    kun: 'えらい',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: '熱心「な」',
+    meaning: 'Earnest',
+    lesson: '28',
+    kun: 'ねっしん「な」',
+    level: 'N4',
+    include: 0
+  },
+    {
+    char: 'まじめ「な」',
+    meaning: 'Serious',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '通う',
+    meaning: 'Go to and from [University]',
+    lesson: '28',
+    kun: '[大学に～]かよう',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: 'かむ',
+    meaning: 'Chew, bite',
+    lesson: '28',
+    kun: '',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '選ぶ',
+    meaning: 'Choose',
+    lesson: '28',
+    kun: 'えらぶ',
+    level: 'N4',
+    include: 1
+  },
+    {
+    char: '踊る',
+    meaning: 'Dance',
+    lesson: '28',
+    kun: 'おどる',
+    level: 'N4',
+    include: 0
+  },
+  {
+    char: '売れる',
+    meaning: '[Bread]Sell, be sold',
+    lesson: '28',
+    kun: '[パンが～]うれる',
+    level: 'N4',
+    include: 0
+  },
+
+
   {
     char: '将来',
     meaning: 'Future',
     lesson: '27',
     kun: 'しょうらい',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '台所',
@@ -13,7 +1120,7 @@ export const kanji = [
     lesson: '27',
     kun: 'だいどころ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '昼間',
@@ -21,7 +1128,7 @@ export const kanji = [
     lesson: '27',
     kun: 'ひるま',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '景色',
@@ -29,7 +1136,7 @@ export const kanji = [
     lesson: '27',
     kun: 'けしき',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '昔',
@@ -45,7 +1152,7 @@ export const kanji = [
     lesson: '27',
     kun: 'そら',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '自由に',
@@ -53,7 +1160,7 @@ export const kanji = [
     lesson: '27',
     kun: 'じゆうに',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '付ける',
@@ -61,7 +1168,7 @@ export const kanji = [
     lesson: '27',
     kun: 'つける',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '例えば',
@@ -69,7 +1176,7 @@ export const kanji = [
     lesson: '27',
     kun: 'たとえば',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '不思議「な」',
@@ -77,7 +1184,7 @@ export const kanji = [
     lesson: '27',
     kun: 'ふしぎ「な」',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '形',
@@ -85,13 +1192,13 @@ export const kanji = [
     lesson: '27',
     kun: 'かたち',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
-    char: 'すばらしい',
+    char: '素晴らしい',
     meaning: 'Great',
     lesson: '27',
-    kun: '素晴らしい',
+    kun: 'すばらしい',
     level: 'N4',
     include: 1
   },
@@ -101,7 +1208,7 @@ export const kanji = [
     lesson: '27',
     kun: 'たてる',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: 'いつか',
@@ -109,7 +1216,7 @@ export const kanji = [
     lesson: '27',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '本棚',
@@ -117,7 +1224,7 @@ export const kanji = [
     lesson: '27',
     kun: 'ほんだな',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: 'はっきり',
@@ -141,7 +1248,7 @@ export const kanji = [
     lesson: '27',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '～後',
@@ -149,7 +1256,7 @@ export const kanji = [
     lesson: '27',
     kun: '～ご',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '方',
@@ -157,7 +1264,7 @@ export const kanji = [
     lesson: '27',
     kun: 'かた',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '道具',
@@ -165,7 +1272,7 @@ export const kanji = [
     lesson: '27',
     kun: 'どうぐ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '花火',
@@ -173,7 +1280,7 @@ export const kanji = [
     lesson: '27',
     kun: 'はなび',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '波',
@@ -181,7 +1288,7 @@ export const kanji = [
     lesson: '27',
     kun: 'なみ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '声',
@@ -189,7 +1296,7 @@ export const kanji = [
     lesson: '27',
     kun: 'こえ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '鳥',
@@ -197,7 +1304,7 @@ export const kanji = [
     lesson: '27',
     kun: 'とり',
     level: 'N4',
-    include: 1
+    include: 0
   },
 
 
@@ -209,7 +1316,7 @@ export const kanji = [
     lesson: '27',
     kun: 'しんぱい「な」',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '開く',
@@ -217,7 +1324,7 @@ export const kanji = [
     lesson: '27',
     kun: '[教室を～]ひらく',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: 'できる',
@@ -225,7 +1332,7 @@ export const kanji = [
     lesson: '27',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '聞こえる',
@@ -233,7 +1340,7 @@ export const kanji = [
     lesson: '27',
     kun: '[音が～]きこえる',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '見える',
@@ -241,7 +1348,7 @@ export const kanji = [
     lesson: '27',
     kun: '[山が～]みえる',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '走る',
@@ -249,7 +1356,7 @@ export const kanji = [
     lesson: '27',
     kun: 'はしる',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '飼う',
@@ -257,7 +1364,7 @@ export const kanji = [
     lesson: '27',
     kun: 'かう',
     level: 'N4',
-    include: 1
+    include: 0
   },
 
   {
@@ -266,7 +1373,7 @@ export const kanji = [
     lesson: '26',
     kun: 'かん',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '瓶',
@@ -274,7 +1381,7 @@ export const kanji = [
     lesson: '26',
     kun: 'びん',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '怖い',
@@ -282,7 +1389,7 @@ export const kanji = [
     lesson: '26',
     kun: 'こわい',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '横',
@@ -298,7 +1405,7 @@ export const kanji = [
     lesson: '26',
     kun: 'おきば',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '出す',
@@ -306,7 +1413,7 @@ export const kanji = [
     lesson: '26',
     kun: '[ごみを～]だす',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '片付く',
@@ -314,7 +1421,7 @@ export const kanji = [
     lesson: '26',
     kun: '[荷物が～]かたづく',
     level: 'N4',
-    include: 1
+    include: 0
   },
 
   {
@@ -323,7 +1430,7 @@ export const kanji = [
     lesson: '26',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '何でも',
@@ -331,7 +1438,7 @@ export const kanji = [
     lesson: '26',
     kun: 'なんでも',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '誰でも',
@@ -339,7 +1446,7 @@ export const kanji = [
     lesson: '26',
     kun: 'だれでも',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: 'どこでも',
@@ -347,7 +1454,7 @@ export const kanji = [
     lesson: '26',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: 'いつでも',
@@ -355,7 +1462,7 @@ export const kanji = [
     lesson: '26',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '直接',
@@ -379,7 +1486,7 @@ export const kanji = [
     lesson: '26',
     kun: 'へいじつ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: 'ごみ',
@@ -387,7 +1494,7 @@ export const kanji = [
     lesson: '26',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '財布',
@@ -395,7 +1502,7 @@ export const kanji = [
     lesson: '26',
     kun: 'さいふ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '場所',
@@ -403,7 +1510,7 @@ export const kanji = [
     lesson: '26',
     kun: 'ばしょ',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '気分が悪い',
@@ -411,7 +1518,7 @@ export const kanji = [
     lesson: '26',
     kun: 'きぶんがわるい',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '気分がいい',
@@ -419,7 +1526,7 @@ export const kanji = [
     lesson: '26',
     kun: 'きぶんがいい',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '連絡する',
@@ -427,7 +1534,7 @@ export const kanji = [
     lesson: '26',
     kun: 'れんらくする',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '拾う',
@@ -443,7 +1550,7 @@ export const kanji = [
     lesson: '26',
     kun: '',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '間に合う',
@@ -451,7 +1558,7 @@ export const kanji = [
     lesson: '26',
     kun: '[時間に～]まにあう',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '遅れる',
@@ -459,7 +1566,7 @@ export const kanji = [
     lesson: '26',
     kun: '[時間に～]おくれる',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '捜す',
@@ -467,7 +1574,7 @@ export const kanji = [
     lesson: '26',
     kun: 'さがす',
     level: 'N4',
-    include: 1
+    include: 0
   },
   {
     char: '探す',
@@ -475,7 +1582,7 @@ export const kanji = [
     lesson: '26',
     kun: 'さがす',
     level: 'N4',
-    include: 1
+    include: 0
   },
 
 
@@ -485,7 +1592,7 @@ export const kanji = [
     lesson: '26',
     kun: 'みる',
     level: 'N4',
-    include: 1
+    include: 0
   },
  
 
@@ -515,7 +1622,7 @@ export const kanji = [
     lesson: '2',
     kun: 'かるい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -524,7 +1631,7 @@ export const kanji = [
     lesson: '2',
     kun: 'じゅうしょ',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -560,7 +1667,7 @@ export const kanji = [
     lesson: '2',
     kun: 'くらい',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -569,7 +1676,7 @@ export const kanji = [
     lesson: '2',
     kun: 'あたま',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -578,7 +1685,7 @@ export const kanji = [
     lesson: '2',
     kun: 'かお',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -591,7 +1698,7 @@ export const kanji = [
     lesson: '2',
     kun: 'かえす',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -662,7 +1769,7 @@ export const kanji = [
     lesson: '2',
     kun: 'なげる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -688,7 +1795,7 @@ export const kanji = [
     lesson: '2',
     kun: 'なる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -697,12 +1804,12 @@ export const kanji = [
     lesson: '2',
     kun: 'ちょうし',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
   {
-    char: '無料',
+    char: '無理',
     meaning: 'Excessive, Impossible',
     lesson: '2',
     kun: 'むり',
@@ -716,7 +1823,7 @@ export const kanji = [
     lesson: '2',
     kun: 'しらべる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '修理する',
@@ -762,7 +1869,7 @@ export const kanji = [
     lesson: '2',
     kun: 'ほんとう',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -831,7 +1938,7 @@ export const kanji = [
     lesson: '2',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'きっと',
@@ -847,7 +1954,7 @@ export const kanji = [
     lesson: '2',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -873,7 +1980,7 @@ export const kanji = [
     lesson: '1',
     kun: 'きる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '履く',
@@ -962,7 +2069,7 @@ export const kanji = [
     lesson: '1',
     kun: '[ドアに] ~ さわる',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
 
@@ -1005,7 +2112,7 @@ export const kanji = [
     lesson: '1',
     kun: 'こしょう',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '道',
@@ -1077,7 +2184,7 @@ export const kanji = [
     lesson: '1',
     kun: 'たてもの',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -1086,7 +2193,7 @@ export const kanji = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '直す',
@@ -1094,7 +2201,7 @@ export const kanji = [
     lesson: '1',
     kun: 'なおす',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '連れて行く',
@@ -1135,7 +2242,7 @@ export const kanji = [
     lesson: '1',
     kun: 'せつめいする',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '準備',
@@ -1143,7 +2250,7 @@ export const kanji = [
     lesson: '1',
     kun: 'じゅんび',
     level: 'N5',
-    include: 1
+    include: 0
   },
 
   {
@@ -1168,7 +2275,7 @@ export const kanji = [
     lesson: '1',
     kun: 'ほかに',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '教室',
@@ -1185,7 +2292,7 @@ export const kanji = [
     lesson: 'I-adjective',
     kun: 'しんせつ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '生活',
@@ -1201,7 +2308,7 @@ export const kanji = [
     lesson: '1',
     kun: 'かんがえる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '着く',
@@ -1209,7 +2316,7 @@ export const kanji = [
     lesson: '1',
     kun: 'つく',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '年を取る',
@@ -1225,7 +2332,7 @@ export const kanji = [
     lesson: '1',
     kun: 'たりる',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '田舎',
@@ -1233,7 +2340,7 @@ export const kanji = [
     lesson: '1',
     kun: 'いなか',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '億',
@@ -1249,7 +2356,7 @@ export const kanji = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '意味',
@@ -1257,7 +2364,7 @@ export const kanji = [
     lesson: '1',
     kun: 'いみ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: 'だいたい',
@@ -1849,7 +2956,7 @@ export const kanji = [
     lesson: 'Noun',
     kun: 'かぐ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '受付',
@@ -2593,7 +3700,7 @@ export const kanji = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 0
+    include: 1
   },
   {
     char: '～から',
@@ -2609,7 +3716,7 @@ export const kanji = [
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 0
+    include: 1
   },
   {
     char: 'わかりました',
@@ -3340,7 +4447,7 @@ export const kanji = [
     lesson: 'Noun',
     kun: ' ふうとう ',
     level: 'N5',
-    include: 0
+    include: 1
   },
   {
     char: '弟',
@@ -4582,7 +5689,7 @@ export const kanji = [
     lesson: '1',
     kun: 'とぶ',
     level: 'N5',
-    include: 1
+    include: 0
   },
   {
     char: '跳ぶ',
@@ -5148,11 +6255,11 @@ export const kanji = [
   },
   {
     char: 'ずっと',
-    meaning: 'By far',
+    meaning: 'By far, the whole time',
     lesson: '1',
     kun: '',
     level: 'N5',
-    include: 0
+    include: 1
   },
   {
     char: '散歩する',
